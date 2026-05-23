@@ -102,7 +102,7 @@ Each run creates a **meaningful, real commit** — no spam, no fake data.
 
 ## 💡 Today's Study Tip
 
-> Always analyze time and space complexity after solving
+> Revisit problems you found difficult after 3–5 days
 
 ---
-*🤖 Last auto-updated: 2026-05-23 17:05 IST*
+*🤖 Last auto-updated: 2026-05-23 18:31 IST*
