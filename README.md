@@ -102,7 +102,7 @@ Each run creates a **meaningful, real commit** — no spam, no fake data.
 
 ## 💡 Today's Study Tip
 
-> Try to solve the same problem using different approaches
+> Focus on understanding the pattern, not memorizing the solution
 
 ---
-*🤖 Last auto-updated: 2026-05-24 08:31 IST*
+*🤖 Last auto-updated: 2026-05-24 12:32 IST*
