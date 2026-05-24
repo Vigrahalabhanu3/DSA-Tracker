@@ -22,3 +22,18 @@
 
 ---
 *Last updated: 2026-05-23*
+
+---
+
+## 📅 Last Reviewed: 2026-05-24
+
+**Problems in focus:**
+- Binary Search (Easy) — Classic template
+- Koko Eating Bananas (Medium) — Binary search on answer
+- Find Peak Element (Medium) — Binary search on answer
+
+
+**Quick tip:** Try to solve the same problem using different approaches
+
+**Your progress:** 0 problems solved in this topic
+
