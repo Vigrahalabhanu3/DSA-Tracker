@@ -1,39 +1,64 @@
-# DynamicProgramming — Notes & Patterns
+# Dynamic Programming (DP) — Comprehensive Notes
 
-## 📌 Key Patterns
-- Memoization
-- Tabulation
-- State Compression
+## Core Concepts
 
-## 💡 Common Problems to Practice
-- Climbing Stairs
-- Coin Change
-- Longest Common Subsequence
+### 1. Definition
+DP is an optimization technique that breaks a problem into overlapping subproblems and stores results to avoid redundant calculations.
 
-## 🧠 Personal Notes
-*Add your observations and learnings here as you solve problems*
+### 2. When to Use DP
+- Optimal substructure (solution built from subproblem solutions)
+- Overlapping subproblems (same sub-problems recalculated)
+- Examples: Fibonacci, coin change, longest subsequence, knapsack
 
-## ✅ Solved Problems
-| Problem | Platform | Difficulty | Date | Time Complexity |
-|---------|----------|------------|------|-----------------|
+### 3. DP Approaches
 
-## 🔗 Resources
-- *Add helpful links here*
+#### Top-Down (Memoization)
+```python
+memo = {}
+def fib(n):
+    if n in memo: return memo[n]
+    if n <= 1: return n
+    memo[n] = fib(n-1) + fib(n-2)
+    return memo[n]
+```
 
----
-*Last updated: 2026-05-23*
+#### Bottom-Up (Tabulation)
+```python
+def fib(n):
+    dp = [0] * (n+1)
+    dp[1] = 1
+    for i in range(2, n+1):
+        dp[i] = dp[i-1] + dp[i-2]
+    return dp[n]
+```
 
----
+## Common Patterns
 
-## 📅 Last Reviewed: 2026-05-24
+### Pattern 1: Sequence DP
+**Problem**: Maximum sum of non-adjacent elements
+```
+dp[i] = max(dp[i-1], arr[i] + dp[i-2])
+```
 
-**Problems in focus:**
-- Edit Distance (Hard) — 2D DP
-- Climbing Stairs (Easy) — Fibonacci DP
-- Word Break (Medium) — DP + hashset
+### Pattern 2: 2D DP (Knapsack)
+```
+dp[i][w] = max(dp[i-1][w], arr[i] + dp[i-1][w-weight[i]])
+```
 
+### Pattern 3: String DP (LCS, Edit Distance)
+```
+dp[i][j] = match ? dp[i-1][j-1] : 1 + min(dp[i-1][j], dp[i][j-1])
+```
 
-**Quick tip:** Revisit problems you found difficult after 3–5 days
+## Time Complexity Guide
 
-**Your progress:** 0 problems solved in this topic
+| Problem | Approach | Time | Space |
+|---------|----------|------|-------|
+| Fibonacci | Memoization | O(n) | O(n) |
+| Knapsack | Tabulation | O(n*W) | O(n*W) |
+| LCS | 2D DP | O(m*n) | O(m*n) |
+| Coin Change | BFS/DP | O(n*m) | O(n) |
 
+## Last Updated: 2026-05-26
+**Reviewed by**: Night Review Session
+**Confidence Level**: 🟡 Medium (weak areas identified)
