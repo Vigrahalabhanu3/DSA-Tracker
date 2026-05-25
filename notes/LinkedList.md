@@ -1,24 +1,34 @@
-# LinkedList — Notes & Patterns
+# LinkedList - Comprehensive Notes
 
-## 📌 Key Patterns
-- Fast & Slow Pointers
-- Reversal
-- Merge
+## Overview
+LinkedList is a fundamental DSA topic covering essential problem-solving patterns and techniques.
 
-## 💡 Common Problems to Practice
-- Reverse Linked List
-- Detect Cycle
-- Merge Two Sorted Lists
+## Key Concepts
+- Core principles and definitions
+- Common problem patterns
+- Optimization techniques
+- Complexity analysis
 
-## 🧠 Personal Notes
-*Add your observations and learnings here as you solve problems*
+## Common Problems
+- Type 1 problems: Classic variants
+- Type 2 problems: Advanced variations
+- Edge cases and special scenarios
 
-## ✅ Solved Problems
-| Problem | Platform | Difficulty | Date | Time Complexity |
-|---------|----------|------------|------|-----------------|
+## Approach
+1. Understand the problem statement clearly
+2. Identify the topic pattern
+3. Choose appropriate data structures
+4. Implement and optimize
+5. Test edge cases
 
-## 🔗 Resources
-- *Add helpful links here*
+## Resources
+- Practice on LeetCode, Codeforces, GeeksforGeeks
+- Review solutions and alternative approaches
+- Analyze time and space complexity
+
+## Progress Tracking
+Keep solving problems on this topic to build strong fundamentals.
 
 ---
-*Last updated: 2026-05-23*
+*Last updated: 2026-05-25T04:31:08.303365*
+*DSA Tracker System*

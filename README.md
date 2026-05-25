@@ -86,9 +86,9 @@ DSA-Tracker/
 
 ## 🎯 Current Focus
 
-Next topic to practice: **Backtracking**
+Next topic to practice: **Queue**
 
 ---
 
-**Last Updated**: 2026-05-25T00:31:26.397076
+**Last Updated**: 2026-05-25T04:31:08.303519
 **Maintained by**: DSA Progress Automation System
