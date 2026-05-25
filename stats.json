@@ -1,16 +1,16 @@
 {
-  "totalProblems": 2,
-  "easySolved": 1,
+  "totalProblems": 3,
+  "easySolved": 2,
   "mediumSolved": 1,
   "hardSolved": 0,
-  "streakDays": 3,
-  "totalHours": 6,
-  "lastUpdated": "2026-05-25T08:31:12.190021",
+  "streakDays": 4,
+  "totalHours": 7,
+  "lastUpdated": "2026-05-25T12:32:11.740583",
   "lastActive": "2026-05-25",
   "platformStats": {
     "leetcode": {
-      "solved": 2,
-      "easy": 1,
+      "solved": 3,
+      "easy": 2,
       "medium": 1,
       "hard": 0,
       "rating": 0
@@ -36,7 +36,7 @@
     "Trees": 0,
     "Graphs": 1,
     "DynamicProgramming": 0,
-    "BinarySearch": 0,
+    "BinarySearch": 1,
     "Sorting": 0,
     "Hashing": 0,
     "Recursion": 0,
@@ -47,6 +47,14 @@
     "Backtracking": 0
   },
   "recentProblems": [
+    {
+      "name": "First Bad Version",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-05-25",
+      "solvedAt": "2026-05-25T12:32:11.740602"
+    },
     {
       "name": "Course Schedule",
       "platform": "leetcode",
@@ -66,7 +74,7 @@
   ],
   "weeklyActivity": {
     "2026-W20": 8,
-    "2026-W21": 2
+    "2026-W21": 3
   },
   "monthlyStats": {},
   "consistencyScore": 0
