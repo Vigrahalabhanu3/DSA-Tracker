@@ -3,26 +3,26 @@
 **Automated daily progress tracking for DSA preparation.**
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-25-brightgreen)
-![Streak](https://img.shields.io/badge/Streak-2%20days-orange)
-![Total Problems](https://img.shields.io/badge/Total-1%20problems-blue)
+![Streak](https://img.shields.io/badge/Streak-3%20days-orange)
+![Total Problems](https://img.shields.io/badge/Total-2%20problems-blue)
 
 ## 📊 Overall Stats
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 1 |
+| **Total Problems Solved** | 2 |
 | **Easy** | 1 |
-| **Medium** | 0 |
+| **Medium** | 1 |
 | **Hard** | 0 |
-| **Current Streak** | 2 days 🔥 |
-| **Total Hours** | 3 hrs |
+| **Current Streak** | 3 days 🔥 |
+| **Total Hours** | 6 hrs |
 | **Last Active** | 2026-05-25 |
 
 ## 📈 Difficulty Breakdown
 
 ```
 Easy:     1 
-Medium:   0 
+Medium:   1 
 Hard:     0 
 ```
 
@@ -34,7 +34,7 @@ Hard:     0
 | Strings              | ░░░░░░░░░░░░░░░░░░░░ |   0 |
 | LinkedList           | ░░░░░░░░░░░░░░░░░░░░ |   0 |
 | Trees                | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Graphs               | ░░░░░░░░░░░░░░░░░░░░ |   0 |
+| Graphs               | █░░░░░░░░░░░░░░░░░░░ |   1 |
 | DynamicProgramming   | ░░░░░░░░░░░░░░░░░░░░ |   0 |
 | BinarySearch         | ░░░░░░░░░░░░░░░░░░░░ |   0 |
 | Sorting              | ░░░░░░░░░░░░░░░░░░░░ |   0 |
@@ -50,7 +50,7 @@ Hard:     0
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 1 |
+| LeetCode | 2 |
 | Codeforces | 0 |
 | GeeksforGeeks | 0 |
 | CodeChef | 0 |
@@ -59,6 +59,7 @@ Hard:     0
 
 | Problem | Platform | Difficulty | Topic | Date |
 |---------|----------|-----------|-------|------|
+| Course Schedule | Leetcode | Medium | Graphs | 2026-05-25 |
 | Two Sum | Leetcode | Easy | Arrays | 2026-05-25 |
 
 ## 🤖 Automation Schedule
@@ -86,9 +87,9 @@ DSA-Tracker/
 
 ## 🎯 Current Focus
 
-Next topic to practice: **Queue**
+Next topic to practice: **Hashing**
 
 ---
 
-**Last Updated**: 2026-05-25T04:31:08.303519
+**Last Updated**: 2026-05-25T08:31:12.190203
 **Maintained by**: DSA Progress Automation System

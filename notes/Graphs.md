@@ -1,41 +1,34 @@
-# Graphs — Notes & Patterns
+# Graphs - Comprehensive Notes
 
-## 📌 Key Patterns
-- BFS
-- DFS
-- Dijkstra
-- Union-Find
-- Topological Sort
+## Overview
+Graphs is a fundamental DSA topic covering essential problem-solving patterns and techniques.
 
-## 💡 Common Problems to Practice
-- Number of Islands
-- Course Schedule
-- Shortest Path
+## Key Concepts
+- Core principles and definitions
+- Common problem patterns
+- Optimization techniques
+- Complexity analysis
 
-## 🧠 Personal Notes
-*Add your observations and learnings here as you solve problems*
+## Common Problems
+- Type 1 problems: Classic variants
+- Type 2 problems: Advanced variations
+- Edge cases and special scenarios
 
-## ✅ Solved Problems
-| Problem | Platform | Difficulty | Date | Time Complexity |
-|---------|----------|------------|------|-----------------|
+## Approach
+1. Understand the problem statement clearly
+2. Identify the topic pattern
+3. Choose appropriate data structures
+4. Implement and optimize
+5. Test edge cases
 
-## 🔗 Resources
-- *Add helpful links here*
+## Resources
+- Practice on LeetCode, Codeforces, GeeksforGeeks
+- Review solutions and alternative approaches
+- Analyze time and space complexity
+
+## Progress Tracking
+Keep solving problems on this topic to build strong fundamentals.
 
 ---
-*Last updated: 2026-05-23*
-
----
-
-## 📅 Last Reviewed: 2026-05-24
-
-**Problems in focus:**
-- Clone Graph (Medium) — BFS + hashmap
-- Course Schedule (Medium) — Topological sort
-- Number of Islands (Medium) — DFS/BFS flood fill
-
-
-**Quick tip:** Test your solution with edge cases: empty input, single element, duplicates
-
-**Your progress:** 0 problems solved in this topic
-
+*Last updated: 2026-05-25T08:31:12.190058*
+*DSA Tracker System*

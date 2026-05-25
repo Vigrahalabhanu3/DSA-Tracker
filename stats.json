@@ -1,17 +1,17 @@
 {
-  "totalProblems": 1,
+  "totalProblems": 2,
   "easySolved": 1,
-  "mediumSolved": 0,
+  "mediumSolved": 1,
   "hardSolved": 0,
-  "streakDays": 2,
-  "totalHours": 3,
-  "lastUpdated": "2026-05-25T00:31:26.396886",
+  "streakDays": 3,
+  "totalHours": 6,
+  "lastUpdated": "2026-05-25T08:31:12.190021",
   "lastActive": "2026-05-25",
   "platformStats": {
     "leetcode": {
-      "solved": 1,
+      "solved": 2,
       "easy": 1,
-      "medium": 0,
+      "medium": 1,
       "hard": 0,
       "rating": 0
     },
@@ -34,7 +34,7 @@
     "Strings": 0,
     "LinkedList": 0,
     "Trees": 0,
-    "Graphs": 0,
+    "Graphs": 1,
     "DynamicProgramming": 0,
     "BinarySearch": 0,
     "Sorting": 0,
@@ -48,6 +48,14 @@
   },
   "recentProblems": [
     {
+      "name": "Course Schedule",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-05-25",
+      "solvedAt": "2026-05-25T08:31:12.190036"
+    },
+    {
       "name": "Two Sum",
       "platform": "leetcode",
       "difficulty": "Easy",
@@ -58,7 +66,7 @@
   ],
   "weeklyActivity": {
     "2026-W20": 8,
-    "2026-W21": 1
+    "2026-W21": 2
   },
   "monthlyStats": {},
   "consistencyScore": 0
