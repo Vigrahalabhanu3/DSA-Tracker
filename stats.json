@@ -4,9 +4,9 @@
   "mediumSolved": 2,
   "hardSolved": 0,
   "streakDays": 5,
-  "totalHours": 11,
+  "totalHours": 11.75,
   "lastActive": "2026-05-26",
-  "lastUpdated": "2026-05-26T00:31:34.706218",
+  "lastUpdated": "2026-05-26T04:32:46.416113",
   "topicStats": {
     "Arrays": 3,
     "BinarySearch": 1,
@@ -22,7 +22,17 @@
     "Queue": 0,
     "Heap": 0,
     "Greedy": 0,
-    "Backtracking": 0
+    "Backtracking": 0,
+    "arrays": 0,
+    "binary_search": 0,
+    "dynamic_programming": 0,
+    "graphs": 0,
+    "trees": 0,
+    "linked_list": 0,
+    "sorting": 0,
+    "hashing": 0,
+    "greedy": 0,
+    "math": 0
   },
   "platformStats": {
     "leetcode": {

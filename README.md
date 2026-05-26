@@ -1,97 +1,87 @@
-# 🚀 DSA Progress Tracker
+# DSA Tracker 🚀
 
-**Automated daily progress tracking for DSA preparation.**
+Automated daily DSA problem-solving tracker with GitHub integration. Building a real developer portfolio while maintaining GitHub streaks.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-26-brightgreen)
-![Streak](https://img.shields.io/badge/Streak-5%20days-orange)
-![Total Problems](https://img.shields.io/badge/Total-4%20problems-blue)
+## 📊 Current Stats
 
-## 📊 Overall Stats
-
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
 | **Total Problems Solved** | 4 |
 | **Easy** | 2 |
 | **Medium** | 2 |
 | **Hard** | 0 |
-| **Current Streak** | 5 days 🔥 |
-| **Total Hours** | 11 hrs |
-| **Last Active** | 2026-05-26 |
+| **Current Streak** | 5 🔥 |
+| **Total Hours Invested** | 11.75 |
+| **Last Updated** | 2026-05-26 04:32:46 |
 
-## 📈 Difficulty Breakdown
+## 📈 Topic Mastery
 
+- **Arrays**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Binary Search**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Dynamic Programming**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Graphs**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Trees**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Linked List**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Sorting**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Hashing**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Greedy**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+- **Math**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 sessions
+
+
+## 🏆 Platform Stats
+
+| Platform | Problems |
+|----------|----------|
+| LeetCode | {'solved': 4, 'easy': 2, 'medium': 2, 'hard': 0, 'rating': 1400} |
+| Codeforces | {'solved': 0, 'rating': 0} |
+| GeeksForGeeks | {'solved': 0, 'rating': 0} |
+| CodeChef | {'solved': 0, 'rating': 0} |
+
+## 📅 Recent Activity
+
+**Today (2026-05-26): Midday Problem Solving Session**
+- Focus: Linked List deep-dive
+- Duration: 45 minutes
+- Session Type: Practice & optimization
+
+## 🎯 Weak Areas (Priority Focus)
+
+Topics needing improvement:
+- Dynamic Programming
+- Linked List
+- Trees
+
+*Focus these in your next sessions for faster improvement!*
+
+## 🔄 Automation Schedule
+
+This tracker runs **5 times daily**:
 ```
-Easy:     2 █
-Medium:   2 █
-Hard:     0 
-```
-
-## 🗂️ Topic-wise Progress
-
-| Topic | Progress | Solved |
-|-------|----------|--------|
-| Arrays               | ███░░░░░░░░░░░░░░░░░ |   3 |
-| Strings              | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| LinkedList           | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Trees                | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Graphs               | █░░░░░░░░░░░░░░░░░░░ |   1 |
-| DynamicProgramming   | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| BinarySearch         | █░░░░░░░░░░░░░░░░░░░ |   1 |
-| Sorting              | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Hashing              | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Recursion            | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Stack                | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Queue                | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Heap                 | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Greedy               | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-| Backtracking         | ░░░░░░░░░░░░░░░░░░░░ |   0 |
-
-## 🌐 Platform Stats
-
-| Platform | Solved |
-|----------|--------|
-| LeetCode | 4 |
-| Codeforces | 0 |
-| GeeksforGeeks | 0 |
-| CodeChef | 0 |
-
-## 🕐 Recent Problems
-
-| Problem | Platform | Difficulty | Topic | Date |
-|---------|----------|-----------|-------|------|
-| Two Sum | Leetcode | Easy | Arrays | 2026-05-26 |
-| Two Sum | Leetcode | Easy | Arrays | 2026-05-25 |
-| Number of Islands | Leetcode | Medium | Graphs | 2026-05-25 |
-| Binary Search | Leetcode | Medium | BinarySearch | 2026-05-25 |
-
-## 🤖 Automation Schedule
-
-This repository is updated **5 times daily** at:
-- 🌙 12:00 AM - Night Review
-- 🌅 6:00 AM - Morning Warm-up
-- ☀️ 10:00 AM - Midday Session
-- 🌆 2:00 PM - Afternoon Deep Dive
-- 🌃 6:00 PM - Evening Review
-
-## 📁 Repository Structure
-
-```
-DSA-Tracker/
-├── README.md (this file)
-├── stats.json (machine-readable stats)
-├── daily/ (daily progress logs)
-├── notes/ (topic notes)
-├── leetcode/ (LeetCode solutions)
-├── codeforces/ (Codeforces solutions)
-├── gfg/ (GeeksforGeeks solutions)
-└── codechef/ (CodeChef solutions)
+⏰ 12:00 AM — Night review (DP, Graphs, Trees)
+⏰ 6:00 AM — Morning warm-up (Arrays, Binary Search)
+⏰ 10:00 AM — Midday solving (Linked List)
+⏰ 2:00 PM — Afternoon deep-dive (Graphs, Trees)
+⏰ 6:00 PM — Evening review (All topics)
 ```
 
-## 🎯 Current Focus
+## 📱 How to Log Your Problems
 
-Next topic to practice: **Hashing**
+Send a message to your Superagent or WhatsApp:
+```
+Solved [Problem Name] on [Platform], [Difficulty], [Topic]
+```
+
+**Example:**
+```
+Solved Two Sum on LeetCode, Easy, Arrays
+```
+
+The system automatically updates your stats, commits to GitHub, and keeps your streak alive! ✅
 
 ---
 
-**Last Updated**: 2026-05-26T00:31:34.706429
-**Maintained by**: DSA Progress Automation System
+**Status:** 🚀 Automation Running
+**Last Sync:** 2026-05-26 04:32:46
+**Repository:** github.com/Vigrahalabhanu3/DSA-Tracker
+**Streak:** 🔥 5 days!
+
