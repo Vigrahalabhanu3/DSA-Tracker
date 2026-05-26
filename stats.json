@@ -4,93 +4,51 @@
   "mediumSolved": 2,
   "hardSolved": 0,
   "streakDays": 5,
-  "totalHours": 11.75,
-  "lastActive": "2026-05-26",
-  "lastUpdated": "2026-05-26T04:32:46.416113",
+  "totalHours": 13.0,
+  "lastUpdated": "2026-05-26",
   "topicStats": {
-    "Arrays": 3,
-    "BinarySearch": 1,
-    "Graphs": 1,
-    "DynamicProgramming": 0,
-    "Trees": 0,
-    "LinkedList": 0,
-    "Strings": 0,
-    "Sorting": 0,
-    "Hashing": 0,
-    "Recursion": 0,
-    "Stack": 0,
-    "Queue": 0,
-    "Heap": 0,
-    "Greedy": 0,
-    "Backtracking": 0,
-    "arrays": 0,
-    "binary_search": 0,
-    "dynamic_programming": 0,
-    "graphs": 0,
-    "trees": 0,
-    "linked_list": 0,
-    "sorting": 0,
-    "hashing": 0,
-    "greedy": 0,
-    "math": 0
+    "Arrays": {
+      "count": 2,
+      "lastPracticed": "2026-05-26"
+    },
+    "DynamicProgramming": {
+      "count": 2,
+      "lastPracticed": "2026-05-26"
+    },
+    "Graphs": {
+      "count": 2,
+      "lastPracticed": "2026-05-26"
+    },
+    "BinarySearch": {
+      "count": 1,
+      "lastPracticed": "2026-05-25"
+    },
+    "Trees": {
+      "count": 1,
+      "lastPracticed": "2026-05-25"
+    },
+    "LinkedList": {
+      "count": 1,
+      "lastPracticed": "2026-05-25"
+    },
+    "Sorting": {
+      "count": 1,
+      "lastPracticed": "2026-05-24"
+    }
   },
   "platformStats": {
-    "leetcode": {
-      "solved": 4,
-      "easy": 2,
-      "medium": 2,
-      "hard": 0,
-      "rating": 1400
-    },
-    "codeforces": {
-      "solved": 0,
-      "rating": 0
-    },
-    "gfg": {
-      "solved": 0,
-      "rating": 0
-    },
-    "codechef": {
-      "solved": 0,
-      "rating": 0
-    }
+    "LeetCode": 3,
+    "CodeForces": 0,
+    "GeeksForGeeks": 0,
+    "CodeChef": 0
+  },
+  "weeklyActivity": {
+    "problems": 3,
+    "hours": 4.5
   },
   "recentProblems": [
-    {
-      "name": "Two Sum",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-05-26",
-      "solvedAt": "2026-05-26T00:31:34.706236"
-    },
-    {
-      "name": "Two Sum",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-05-25",
-      "link": "https://leetcode.com/problems/two-sum/"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-05-25",
-      "link": "https://leetcode.com/problems/number-of-islands/"
-    },
-    {
-      "name": "Binary Search",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-05-25",
-      "link": "https://leetcode.com/problems/binary-search/"
-    }
-  ],
-  "weeklyActivity": {
-    "2026-W21": 6,
-    "2026-W22": 8
-  }
+    "Two Sum",
+    "Number of Islands",
+    "Binary Search"
+  ]
 }
