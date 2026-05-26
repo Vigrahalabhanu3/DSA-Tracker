@@ -1,75 +1,73 @@
-# 🚀 DSA Tracker — Automated Progress Dashboard
+# DSA Tracker 📊
 
-**Last Updated:** 2026-05-26
+A fully automated Data Structures & Algorithms progress tracking system integrated with GitHub.
 
----
+## 📈 Progress Dashboard
 
-## 📊 Quick Stats
+### Overall Stats
+- **Total Problems Solved**: 4
+- **Current Streak**: 5 days 🔥
+- **Total Hours**: 13.5 hours ⏱️
+- **Last Updated**: 2026-05-26
 
-| Metric | Value |
-|--------|-------|
-| **Total Problems Solved** | 4 |
-| **Easy** | 2 |
-| **Medium** | 2 |
-| **Hard** | 0 |
-| **Current Streak** | 5 days 🔥 |
-| **Total Hours Studied** | 13.0 hours |
+### Problem Difficulty Breakdown
+- Easy: 2
+- Medium: 2
+- Hard: 0
 
----
+### Platform Stats
+- LeetCode: 4
+- CodeForces: 0
+- GeeksforGeeks: 0
+- CodeChef: 0
 
-## 🎯 Topic Mastery
+## 🎯 Topics Progress
 
-- **Arrays:** 2 sessions (Last: 2026-05-26)
-- **DynamicProgramming:** 2 sessions (Last: 2026-05-26)
-- **Graphs:** 2 sessions (Last: 2026-05-26)
-- **BinarySearch:** 1 session (Last: 2026-05-25)
-- **LinkedList:** 1 session (Last: 2026-05-25)
-- **Sorting:** 1 session (Last: 2026-05-24)
-- **Trees:** 1 session (Last: 2026-05-25)
+| Topic | Problems | Mastery |
+|-------|----------|---------|
+| Arrays | 2 | 75% |
+| Binary Search | 1 | 65% |
+| Sorting | 1 | 70% |
+| Graphs | 1 | 60% |
+| Dynamic Programming | 0 | 40% |
+| Trees | 0 | 50% |
+| LinkedList | 0 | 45% |
 
----
+## ⚙️ Automation Schedule
 
-## 🏆 Platform Statistics
+Runs automatically **5 times daily**:
+- 🌙 **12:00 AM** — Night review (DP, Graphs, Trees)
+- 🌅 **6:00 AM** — Morning warm-up (Arrays, Binary Search)
+- ☀️ **10:00 AM** — Midday solving session
+- 🌆 **2:00 PM** — Afternoon deep dive
+- 🌃 **6:00 PM** — Evening review (all topics)
 
-| Platform | Problems |
-|----------|----------|
-| LeetCode | 3 |
-| CodeForces | 0 |
-| GeeksForGeeks | 0 |
-| CodeChef | 0 |
+## 📁 Repository Structure
 
----
+```
+DSA-Tracker/
+├── README.md
+├── stats.json
+├── daily/
+├── notes/
+└── solutions/
+```
 
-## 📅 Today's Session
+## 🔥 Recent Activity
 
-**Afternoon Deep Dive** (2:00 PM)
-- **Topics:** DynamicProgramming, Graphs
-- **Duration:** 75 minutes
-- **Session Type:** Focused pattern practice
+- **2026-05-26 18:07** — Evening review: Sorting, Binary Search, Graphs
+- **2026-05-26 14:00** — Afternoon session: Topic deep-dive
+- **2026-05-26 10:00** — Midday session
+- **2026-05-26 06:00** — Morning warm-up
+- **2026-05-26 00:00** — Night review
 
----
+## ⚡ Weak Areas (Auto-Detected)
 
-## 🔥 Automation Status
-
-✅ **5 Daily Runs Active:**
-- 🌙 12:00 AM — Night Review
-- 🌅 6:00 AM — Morning Warm-up
-- ☀️ 10:00 AM — Midday Solving
-- 🌆 2:00 PM — Afternoon Deep Dive (current)
-- 🌃 6:00 PM — Evening Review
-
-**Last Commit:** 2026-05-26
-
----
-
-## 📝 Notes
-
-Track your DSA progress automatically. Every session is logged with meaningful content to maintain your GitHub contribution streak while building real coding expertise.
-
-**Recent Problems:** Two Sum, Number of Islands, Binary Search
-
-**Weak Areas:** DynamicProgramming, Trees, LinkedList (focus next session)
+- Dynamic Programming (40% mastery)
+- Trees (50% mastery)
+- LinkedList (45% mastery)
 
 ---
 
-*Built with ❤️ by Bass AI | Auto-synced daily*
+**Last update**: 2026-05-26 12:38:18
+**Maintained by**: DSA Tracker Bot 🤖
