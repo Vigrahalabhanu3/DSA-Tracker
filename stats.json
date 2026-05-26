@@ -1,14 +1,14 @@
 {
-  "totalProblems": 3,
-  "easySolved": 1,
+  "totalProblems": 4,
+  "easySolved": 2,
   "mediumSolved": 2,
   "hardSolved": 0,
-  "streakDays": 4,
-  "totalHours": 8,
-  "lastActive": "2026-05-25",
-  "lastUpdated": "2026-05-26T00:01:00Z",
+  "streakDays": 5,
+  "totalHours": 11,
+  "lastActive": "2026-05-26",
+  "lastUpdated": "2026-05-26T00:31:34.706218",
   "topicStats": {
-    "Arrays": 2,
+    "Arrays": 3,
     "BinarySearch": 1,
     "Graphs": 1,
     "DynamicProgramming": 0,
@@ -26,8 +26,8 @@
   },
   "platformStats": {
     "leetcode": {
-      "solved": 3,
-      "easy": 1,
+      "solved": 4,
+      "easy": 2,
       "medium": 2,
       "hard": 0,
       "rating": 1400
@@ -46,6 +46,14 @@
     }
   },
   "recentProblems": [
+    {
+      "name": "Two Sum",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-05-26",
+      "solvedAt": "2026-05-26T00:31:34.706236"
+    },
     {
       "name": "Two Sum",
       "platform": "leetcode",
@@ -72,7 +80,7 @@
     }
   ],
   "weeklyActivity": {
-    "2026-W21": 5,
+    "2026-W21": 6,
     "2026-W22": 8
   }
 }
