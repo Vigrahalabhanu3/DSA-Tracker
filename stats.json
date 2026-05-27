@@ -1,11 +1,11 @@
 {
-  "totalProblems": 4,
+  "totalProblems": 5,
   "easySolved": 2,
-  "mediumSolved": 2,
+  "mediumSolved": 3,
   "hardSolved": 0,
-  "streakDays": 5,
-  "totalHours": 13.5,
-  "lastUpdated": "2026-05-26T12:38:18.257046",
+  "streakDays": 6,
+  "totalHours": 14.940769763491057,
+  "lastUpdated": "2026-05-27T00:32:21.762778",
   "topicStats": {
     "Arrays": {
       "count": 2,
@@ -34,21 +34,35 @@
     "Sorting": {
       "count": 1,
       "lastPracticed": "2026-05-24"
-    }
+    },
+    "Heap": 1
   },
   "platformStats": {
     "LeetCode": 3,
     "CodeForces": 0,
     "GeeksForGeeks": 0,
-    "CodeChef": 0
+    "CodeChef": 0,
+    "leetcode": {
+      "solved": 1
+    }
   },
   "weeklyActivity": {
     "problems": 3,
-    "hours": 4.5
+    "hours": 4.5,
+    "2026-W21": 1
   },
   "recentProblems": [
+    {
+      "name": "Kth Largest Element",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-05-27",
+      "solvedAt": "2026-05-27T00:32:21.762794"
+    },
     "Two Sum",
     "Number of Islands",
     "Binary Search"
-  ]
+  ],
+  "lastActive": "2026-05-27"
 }
