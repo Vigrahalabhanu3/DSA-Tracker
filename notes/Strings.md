@@ -1,25 +1,16 @@
-# Strings — Notes & Patterns
+# Strings - Study Notes
 
-## 📌 Key Patterns
-- KMP
-- Rabin-Karp
-- Z-Algorithm
-- Trie
+## Overview
+Strings is a core DSA topic with essential problem-solving patterns.
 
-## 💡 Common Problems to Practice
-- Longest Palindromic Substring
-- Valid Anagram
-- Group Anagrams
+## Key Concepts
+1. Fundamental principles and definitions
+2. Common problem patterns and approaches
+3. Data structure selection
+4. Optimization techniques
 
-## 🧠 Personal Notes
-*Add your observations and learnings here as you solve problems*
-
-## ✅ Solved Problems
-| Problem | Platform | Difficulty | Date | Time Complexity |
-|---------|----------|------------|------|-----------------|
-
-## 🔗 Resources
-- *Add helpful links here*
+## Progress
+Keep practicing to master this topic.
 
 ---
-*Last updated: 2026-05-23*
+*Updated: 2026-05-27T18:37:37.860072*

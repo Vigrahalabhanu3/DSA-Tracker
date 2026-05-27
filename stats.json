@@ -1,14 +1,14 @@
 {
-  "totalProblems": 11,
-  "easySolved": 3,
+  "totalProblems": 12,
+  "easySolved": 4,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 9,
-  "totalHours": 20.899088207789887,
-  "lastUpdated": "2026-05-27T18:32:57.169813",
+  "streakDays": 10,
+  "totalHours": 22.440908464260996,
+  "lastUpdated": "2026-05-27T18:37:37.859902",
   "topicStats": {
     "Arrays": 0,
-    "Strings": 0,
+    "Strings": 1,
     "LinkedList": 0,
     "Trees": 0,
     "Graphs": 1,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 2
+      "solved": 3
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 3
+    "2026-W21": 4
   },
   "recentProblems": [
+    {
+      "name": "Valid Palindrome",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-05-27",
+      "solvedAt": "2026-05-27T18:37:37.859926"
+    },
     {
       "name": "Number of Islands",
       "platform": "leetcode",
