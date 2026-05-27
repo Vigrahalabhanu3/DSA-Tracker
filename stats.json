@@ -1,11 +1,11 @@
 {
-  "totalProblems": 5,
+  "totalProblems": 7,
   "easySolved": 2,
-  "mediumSolved": 3,
+  "mediumSolved": 5,
   "hardSolved": 0,
   "streakDays": 6,
-  "totalHours": 14.940769763491057,
-  "lastUpdated": "2026-05-27T00:32:21.762778",
+  "totalHours": 16.440769763491055,
+  "lastUpdated": "2026-05-27 04:33:03.544013",
   "topicStats": {
     "Arrays": {
       "count": 2,
@@ -16,16 +16,16 @@
       "lastPracticed": "2026-05-26"
     },
     "Graphs": {
-      "count": 2,
-      "lastPracticed": "2026-05-26"
+      "count": 3,
+      "lastPracticed": "2026-05-27"
     },
     "BinarySearch": {
       "count": 1,
       "lastPracticed": "2026-05-25"
     },
     "Trees": {
-      "count": 1,
-      "lastPracticed": "2026-05-25"
+      "count": 2,
+      "lastPracticed": "2026-05-27"
     },
     "LinkedList": {
       "count": 1,
@@ -35,15 +35,23 @@
       "count": 1,
       "lastPracticed": "2026-05-24"
     },
-    "Heap": 1
+    "Heap": {
+      "count": 1,
+      "lastPracticed": "2026-05-27"
+    }
   },
   "platformStats": {
-    "LeetCode": 3,
-    "CodeForces": 0,
-    "GeeksForGeeks": 0,
-    "CodeChef": 0,
-    "leetcode": {
-      "solved": 1
+    "LeetCode": {
+      "solved": 8
+    },
+    "CodeForces": {
+      "solved": 0
+    },
+    "GeeksForGeeks": {
+      "solved": 0
+    },
+    "CodeChef": {
+      "solved": 0
     }
   },
   "weeklyActivity": {
