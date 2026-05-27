@@ -1,55 +1,31 @@
-# 🚀 DSA Tracker — Automated Progress Dashboard
+# DSA Tracker 📊
 
-> Maintaining GitHub contribution streak with real & meaningful DSA coding progress.
+Automated progress tracking with GitHub streak maintenance.
 
-## 📊 Current Stats
+## 🎖️ Progress Overview
 
-| Metric | Value |
+| Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 7 |
-| **Easy** | 2 |
+| **Total Problems** | 8 |
+| **Easy** | 3 |
 | **Medium** | 5 |
 | **Hard** | 0 |
-| **🔥 Current Streak** | 6 days |
-| **Total Hours** | 16.4 hours |
+| **🔥 Streak** | 7 days |
+| **Total Hours** | 17.0h |
 | **Last Active** | 2026-05-27 |
 
-## 📈 Platform Statistics
+## 📚 Topic Progress
+- **Recursion**: █░░░░░░░░░░░░░░░░░░░ 1
 
-| Platform | Solved |
-|----------|--------|
-| LeetCode | 8 |
-| CodeForces | 0 |
-| GeeksForGeeks | 0 |
-| CodeChef | 0 |
 
-## 🎯 Topic Mastery
+## 🎯 Recent Problems
+- Fibonacci Number (Easy) - Recursion
+- Kth Largest Element (Medium) - Heap
 
-| Topic | Problems | Last Practiced |
-|-------|----------|---|
-| Graphs | 3 | 2026-05-27 |
-| Arrays | 2 | 2026-05-26 |
-| DynamicProgramming | 2 | 2026-05-26 |
-| Trees | 2 | 2026-05-27 |
-| BinarySearch | 1 | 2026-05-25 |
-| LinkedList | 1 | 2026-05-25 |
-| Sorting | 1 | 2026-05-24 |
-| Heap | 1 | 2026-05-27 |
 
-## ⚠️ Weak Topics to Focus
-- Sorting
-- BinarySearch
-- LinkedList
+## 🤖 Automation
 
-## 🕐 Automation Schedule
-- 🌙 12:00 AM — Night review
-- 🌅 6:00 AM — Morning warm-up
-- ☀️ **10:00 AM** — Midday solving (just ran!)
-- 🌆 2:00 PM — Afternoon deep dive
-- 🌃 6:00 PM — Evening review
-
-Each run creates meaningful commits with real progress.
+Runs 5 times daily: 12 AM, 6 AM, 10 AM, 2 PM, 6 PM
 
 ---
-**Last Updated:** 2026-05-27 04:33:03.544013
-**Automated by:** Base44 DSA Tracker 🤖
+**Last Updated**: 2026-05-27 08:33:32

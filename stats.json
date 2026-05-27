@@ -1,11 +1,11 @@
 {
-  "totalProblems": 7,
-  "easySolved": 2,
+  "totalProblems": 8,
+  "easySolved": 3,
   "mediumSolved": 5,
   "hardSolved": 0,
-  "streakDays": 6,
-  "totalHours": 16.440769763491055,
-  "lastUpdated": "2026-05-27 04:33:03.544013",
+  "streakDays": 7,
+  "totalHours": 17.01775059042633,
+  "lastUpdated": "2026-05-27T08:33:32.897582",
   "topicStats": {
     "Arrays": {
       "count": 2,
@@ -38,7 +38,8 @@
     "Heap": {
       "count": 1,
       "lastPracticed": "2026-05-27"
-    }
+    },
+    "Recursion": 1
   },
   "platformStats": {
     "LeetCode": {
@@ -52,14 +53,25 @@
     },
     "CodeChef": {
       "solved": 0
+    },
+    "leetcode": {
+      "solved": 1
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 1
+    "2026-W21": 2
   },
   "recentProblems": [
+    {
+      "name": "Fibonacci Number",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-05-27",
+      "solvedAt": "2026-05-27T08:33:32.897600"
+    },
     {
       "name": "Kth Largest Element",
       "platform": "leetcode",
