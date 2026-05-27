@@ -1,31 +1,22 @@
-# DSA Tracker 📊
+# DSA Tracker 🎯
 
-Automated progress tracking with GitHub streak maintenance.
+## 📊 Current Stats
 
-## 🎖️ Progress Overview
-
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
-| **Total Problems** | 8 |
-| **Easy** | 3 |
-| **Medium** | 5 |
-| **Hard** | 0 |
-| **🔥 Streak** | 7 days |
-| **Total Hours** | 17.0h |
-| **Last Active** | 2026-05-27 |
+| Problems | 9 |
+| Easy | 3 |
+| Medium | 6 |
+| Hard | 0 |
+| Streak | 7 days 🔥 |
+| Hours | 17.77 |
 
-## 📚 Topic Progress
-- **Recursion**: █░░░░░░░░░░░░░░░░░░░ 1
-
-
-## 🎯 Recent Problems
-- Fibonacci Number (Easy) - Recursion
-- Kth Largest Element (Medium) - Heap
+## Topics
+- Arrays: 2 problems
+- DynamicProgramming: 2 problems
+- Graphs: 3 problems
+- BinarySearch: 1 problems
+- Trees: 2 problems
 
 
-## 🤖 Automation
-
-Runs 5 times daily: 12 AM, 6 AM, 10 AM, 2 PM, 6 PM
-
----
-**Last Updated**: 2026-05-27 08:33:32
+Last updated: 2026-05-27 08:43:25
