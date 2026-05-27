@@ -1,17 +1,17 @@
 {
-  "totalProblems": 10,
+  "totalProblems": 11,
   "easySolved": 3,
-  "mediumSolved": 7,
+  "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 8,
-  "totalHours": 19.797842282719273,
-  "lastUpdated": "2026-05-27T12:33:23.319628",
+  "streakDays": 9,
+  "totalHours": 20.899088207789887,
+  "lastUpdated": "2026-05-27T18:32:57.169813",
   "topicStats": {
     "Arrays": 0,
     "Strings": 0,
     "LinkedList": 0,
     "Trees": 0,
-    "Graphs": 0,
+    "Graphs": 1,
     "DynamicProgramming": 0,
     "BinarySearch": 0,
     "Sorting": 0,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 1
+      "solved": 2
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 2
+    "2026-W21": 3
   },
   "recentProblems": [
+    {
+      "name": "Number of Islands",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-05-27",
+      "solvedAt": "2026-05-27T18:32:57.169835"
+    },
     {
       "name": "LeetCode Problem",
       "platform": "leetcode",
