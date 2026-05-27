@@ -1,11 +1,11 @@
 {
-  "totalProblems": 12,
-  "easySolved": 4,
+  "totalProblems": 13,
+  "easySolved": 5,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 10,
-  "totalHours": 22.440908464260996,
-  "lastUpdated": "2026-05-27T18:37:37.859902",
+  "streakDays": 11,
+  "totalHours": 24.290951352304326,
+  "lastUpdated": "2026-05-27T18:43:03.222424",
   "topicStats": {
     "Arrays": 0,
     "Strings": 1,
@@ -16,7 +16,7 @@
     "BinarySearch": 0,
     "Sorting": 0,
     "Hashing": 0,
-    "Recursion": 1,
+    "Recursion": 2,
     "Stack": 0,
     "Queue": 0,
     "Heap": 0,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 3
+      "solved": 4
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 4
+    "2026-W21": 5
   },
   "recentProblems": [
+    {
+      "name": "Fibonacci Number",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-05-27",
+      "solvedAt": "2026-05-27T18:43:03.222447"
+    },
     {
       "name": "Valid Palindrome",
       "platform": "leetcode",
