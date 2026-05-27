@@ -1,22 +1,44 @@
-# DSA Tracker 🎯
+# DSA Tracker 📊
 
-## 📊 Current Stats
+Automated progress tracking with daily GitHub commits.
+
+## 🎖️ Progress Dashboard
 
 | Metric | Value |
 |--------|-------|
-| Problems | 9 |
-| Easy | 3 |
-| Medium | 6 |
-| Hard | 0 |
-| Streak | 7 days 🔥 |
-| Hours | 17.77 |
+| **Total Problems** | 10 |
+| **Easy ✅** | 3 |
+| **Medium 🟡** | 7 |
+| **Hard 🔴** | 0 |
+| **🔥 Streak** | 8 days |
+| **⏱️ Total Hours** | 19.8h |
+| **Last Active** | 2026-05-27 |
 
-## Topics
-- Arrays: 2 problems
-- DynamicProgramming: 2 problems
-- Graphs: 3 problems
-- BinarySearch: 1 problems
-- Trees: 2 problems
+### 📚 Topic Mastery
+- **Recursion**: █ (1 problems)
+- **Greedy**: █ (1 problems)
 
 
-Last updated: 2026-05-27 08:43:25
+### 🎯 Recent Activity
+- **LeetCode Problem** - Medium (Greedy)
+- **Fibonacci Number** - Easy (Recursion)
+- **Kth Largest Element** - Medium (Heap)
+
+
+## 🤖 Automation Schedule
+
+Runs 5 times daily for consistent progress:
+- **12:00 AM** - Midnight review & recap
+- **6:00 AM** - Morning warm-up session
+- **10:00 AM** - Main focus session  
+- **2:00 PM** - Afternoon practice session
+- **6:00 PM** - Evening review session
+
+## 📈 Weekly Stats
+
+- This week: 2 problems
+- Average daily time: 2.5h
+
+---
+**Last Updated**: 2026-05-27 12:33:23
+**Automation**: Fully automated DSA progress tracker

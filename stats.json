@@ -1,45 +1,27 @@
 {
-  "totalProblems": 9,
+  "totalProblems": 10,
   "easySolved": 3,
-  "mediumSolved": 6,
+  "mediumSolved": 7,
   "hardSolved": 0,
-  "streakDays": 7,
-  "totalHours": 17.77,
-  "lastUpdated": "2026-05-27",
+  "streakDays": 8,
+  "totalHours": 19.797842282719273,
+  "lastUpdated": "2026-05-27T12:33:23.319628",
   "topicStats": {
-    "Arrays": {
-      "count": 2,
-      "lastPracticed": "2026-05-26"
-    },
-    "DynamicProgramming": {
-      "count": 2,
-      "lastPracticed": "2026-05-26"
-    },
-    "Graphs": {
-      "count": 3,
-      "lastPracticed": "2026-05-27"
-    },
-    "BinarySearch": {
-      "count": 1,
-      "lastPracticed": "2026-05-25"
-    },
-    "Trees": {
-      "count": 2,
-      "lastPracticed": "2026-05-27"
-    },
-    "LinkedList": {
-      "count": 1,
-      "lastPracticed": "2026-05-25"
-    },
-    "Sorting": {
-      "count": 1,
-      "lastPracticed": "2026-05-24"
-    },
-    "Heap": {
-      "count": 1,
-      "lastPracticed": "2026-05-27"
-    },
-    "Recursion": 1
+    "Arrays": 0,
+    "Strings": 0,
+    "LinkedList": 0,
+    "Trees": 0,
+    "Graphs": 0,
+    "DynamicProgramming": 0,
+    "BinarySearch": 0,
+    "Sorting": 0,
+    "Hashing": 0,
+    "Recursion": 1,
+    "Stack": 0,
+    "Queue": 0,
+    "Heap": 0,
+    "Greedy": 1,
+    "Backtracking": 0
   },
   "platformStats": {
     "LeetCode": {
@@ -65,6 +47,14 @@
   },
   "recentProblems": [
     {
+      "name": "LeetCode Problem",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-05-27",
+      "solvedAt": "2026-05-27T12:33:23.319614"
+    },
+    {
       "name": "Fibonacci Number",
       "platform": "leetcode",
       "difficulty": "Easy",
@@ -79,10 +69,7 @@
       "topic": "Heap",
       "date": "2026-05-27",
       "solvedAt": "2026-05-27T00:32:21.762794"
-    },
-    "Two Sum",
-    "Number of Islands",
-    "Binary Search"
+    }
   ],
   "lastActive": "2026-05-27"
 }
