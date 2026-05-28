@@ -1,18 +1,18 @@
 {
-  "totalProblems": 13,
-  "easySolved": 5,
+  "totalProblems": 14,
+  "easySolved": 6,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 11,
-  "totalHours": 24.290951352304326,
-  "lastUpdated": "2026-05-27T18:43:03.222424",
+  "streakDays": 12,
+  "totalHours": 25.114841970016254,
+  "lastUpdated": "2026-05-28T00:31:52.624196",
   "topicStats": {
     "Arrays": 0,
     "Strings": 1,
     "LinkedList": 0,
     "Trees": 0,
     "Graphs": 1,
-    "DynamicProgramming": 0,
+    "DynamicProgramming": 1,
     "BinarySearch": 0,
     "Sorting": 0,
     "Hashing": 0,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 4
+      "solved": 5
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 5
+    "2026-W21": 6
   },
   "recentProblems": [
+    {
+      "name": "Climbing Stairs",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "DynamicProgramming",
+      "date": "2026-05-28",
+      "solvedAt": "2026-05-28T00:31:52.624231"
+    },
     {
       "name": "Fibonacci Number",
       "platform": "leetcode",
@@ -95,5 +103,5 @@
       "solvedAt": "2026-05-27T00:32:21.762794"
     }
   ],
-  "lastActive": "2026-05-27"
+  "lastActive": "2026-05-28"
 }

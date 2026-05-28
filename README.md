@@ -6,27 +6,28 @@ Automated progress tracking with GitHub streak maintenance.
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems** | 13 |
-| **Easy** | 5 |
+| **Total Problems** | 14 |
+| **Easy** | 6 |
 | **Medium** | 8 |
 | **Hard** | 0 |
-| **🔥 Streak** | 11 days |
-| **Total Hours** | 24.3h |
-| **Last Active** | 2026-05-27 |
+| **🔥 Streak** | 12 days |
+| **Total Hours** | 25.1h |
+| **Last Active** | 2026-05-28 |
 
 ## 📚 Topic Progress
 - **Recursion**: ██░░░░░░░░░░░░░░░░░░ 2
 - **Strings**: █░░░░░░░░░░░░░░░░░░░ 1
 - **Graphs**: █░░░░░░░░░░░░░░░░░░░ 1
+- **DynamicProgramming**: █░░░░░░░░░░░░░░░░░░░ 1
 - **Greedy**: █░░░░░░░░░░░░░░░░░░░ 1
 
 
 ## 🎯 Recent Problems
+- Climbing Stairs (Easy) - DynamicProgramming
 - Fibonacci Number (Easy) - Recursion
 - Valid Palindrome (Easy) - Strings
 - Number of Islands (Medium) - Graphs
 - LeetCode Problem (Medium) - Greedy
-- Fibonacci Number (Easy) - Recursion
 
 
 ## 🤖 Automation
@@ -34,4 +35,4 @@ Automated progress tracking with GitHub streak maintenance.
 Runs 5 times daily: 12 AM, 6 AM, 10 AM, 2 PM, 6 PM
 
 ---
-**Last Updated**: 2026-05-27 18:43:03
+**Last Updated**: 2026-05-28 00:31:52
