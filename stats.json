@@ -1,16 +1,16 @@
 {
-  "totalProblems": 14,
-  "easySolved": 6,
+  "totalProblems": 15,
+  "easySolved": 7,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 12,
-  "totalHours": 25.114841970016254,
-  "lastUpdated": "2026-05-28T00:31:52.624196",
+  "streakDays": 13,
+  "totalHours": 26.675338944072507,
+  "lastUpdated": "2026-05-28T04:32:59.688411",
   "topicStats": {
     "Arrays": 0,
     "Strings": 1,
     "LinkedList": 0,
-    "Trees": 0,
+    "Trees": 1,
     "Graphs": 1,
     "DynamicProgramming": 1,
     "BinarySearch": 0,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 5
+      "solved": 6
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 6
+    "2026-W21": 7
   },
   "recentProblems": [
+    {
+      "name": "Maximum Depth of Binary Tree",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-05-28",
+      "solvedAt": "2026-05-28T04:32:59.688434"
+    },
     {
       "name": "Climbing Stairs",
       "platform": "leetcode",
