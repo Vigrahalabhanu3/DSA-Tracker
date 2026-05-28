@@ -1,11 +1,11 @@
 {
-  "totalProblems": 15,
-  "easySolved": 7,
+  "totalProblems": 16,
+  "easySolved": 8,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 13,
-  "totalHours": 26.675338944072507,
-  "lastUpdated": "2026-05-28T04:32:59.688411",
+  "streakDays": 14,
+  "totalHours": 27.77668565595535,
+  "lastUpdated": "2026-05-28T04:36:05.846954",
   "topicStats": {
     "Arrays": 0,
     "Strings": 1,
@@ -16,7 +16,7 @@
     "BinarySearch": 0,
     "Sorting": 0,
     "Hashing": 0,
-    "Recursion": 2,
+    "Recursion": 3,
     "Stack": 0,
     "Queue": 0,
     "Heap": 0,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 6
+      "solved": 7
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 7
+    "2026-W21": 8
   },
   "recentProblems": [
+    {
+      "name": "Fibonacci Number",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-05-28",
+      "solvedAt": "2026-05-28T04:36:05.846978"
+    },
     {
       "name": "Maximum Depth of Binary Tree",
       "platform": "leetcode",
