@@ -1,16 +1,16 @@
 {
-  "totalProblems": 17,
-  "easySolved": 9,
+  "totalProblems": 18,
+  "easySolved": 10,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 15,
-  "totalHours": 29.124300666561865,
-  "lastUpdated": "2026-05-28T08:32:06.444405",
+  "streakDays": 16,
+  "totalHours": 30.553336955537475,
+  "lastUpdated": "2026-05-28T12:32:29.107304",
   "topicStats": {
     "Arrays": 0,
     "Strings": 1,
     "LinkedList": 1,
-    "Trees": 1,
+    "Trees": 2,
     "Graphs": 1,
     "DynamicProgramming": 1,
     "BinarySearch": 0,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 8
+      "solved": 9
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 9
+    "2026-W21": 10
   },
   "recentProblems": [
+    {
+      "name": "Maximum Depth of Binary Tree",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-05-28",
+      "solvedAt": "2026-05-28T12:32:29.107324"
+    },
     {
       "name": "Reverse Linked List",
       "platform": "leetcode",
