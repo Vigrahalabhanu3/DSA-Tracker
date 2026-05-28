@@ -1,15 +1,15 @@
 {
-  "totalProblems": 16,
-  "easySolved": 8,
+  "totalProblems": 17,
+  "easySolved": 9,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 14,
-  "totalHours": 27.77668565595535,
-  "lastUpdated": "2026-05-28T04:36:05.846954",
+  "streakDays": 15,
+  "totalHours": 29.124300666561865,
+  "lastUpdated": "2026-05-28T08:32:06.444405",
   "topicStats": {
     "Arrays": 0,
     "Strings": 1,
-    "LinkedList": 0,
+    "LinkedList": 1,
     "Trees": 1,
     "Graphs": 1,
     "DynamicProgramming": 1,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 7
+      "solved": 8
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 8
+    "2026-W21": 9
   },
   "recentProblems": [
+    {
+      "name": "Reverse Linked List",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-05-28",
+      "solvedAt": "2026-05-28T08:32:06.444422"
+    },
     {
       "name": "Fibonacci Number",
       "platform": "leetcode",
