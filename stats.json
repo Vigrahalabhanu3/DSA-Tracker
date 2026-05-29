@@ -1,16 +1,16 @@
 {
-  "totalProblems": 18,
-  "easySolved": 10,
+  "totalProblems": 19,
+  "easySolved": 11,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 16,
-  "totalHours": 30.553336955537475,
-  "lastUpdated": "2026-05-28T12:32:29.107304",
+  "streakDays": 17,
+  "totalHours": 31.127236228518413,
+  "lastUpdated": "2026-05-29T04:32:25.881959",
   "topicStats": {
     "Arrays": 0,
     "Strings": 1,
     "LinkedList": 1,
-    "Trees": 2,
+    "Trees": 3,
     "Graphs": 1,
     "DynamicProgramming": 1,
     "BinarySearch": 0,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 9
+      "solved": 10
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 10
+    "2026-W21": 11
   },
   "recentProblems": [
+    {
+      "name": "Maximum Depth of Binary Tree",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-05-29",
+      "solvedAt": "2026-05-29T04:32:25.881976"
+    },
     {
       "name": "Maximum Depth of Binary Tree",
       "platform": "leetcode",
@@ -135,5 +143,5 @@
       "solvedAt": "2026-05-27T00:32:21.762794"
     }
   ],
-  "lastActive": "2026-05-28"
+  "lastActive": "2026-05-29"
 }
