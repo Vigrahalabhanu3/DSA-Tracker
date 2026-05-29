@@ -6,28 +6,28 @@ Automated progress tracking with GitHub streak maintenance.
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems** | 19 |
-| **Easy** | 11 |
+| **Total Problems** | 20 |
+| **Easy** | 12 |
 | **Medium** | 8 |
 | **Hard** | 0 |
-| **🔥 Streak** | 17 days |
-| **Total Hours** | 31.1h |
+| **🔥 Streak** | 18 days |
+| **Total Hours** | 32.4h |
 | **Last Active** | 2026-05-29 |
 
 ## 📚 Topic Progress
 - **Trees**: ███░░░░░░░░░░░░░░░░░ 3
 - **Recursion**: ███░░░░░░░░░░░░░░░░░ 3
-- **Strings**: █░░░░░░░░░░░░░░░░░░░ 1
+- **Strings**: ██░░░░░░░░░░░░░░░░░░ 2
 - **LinkedList**: █░░░░░░░░░░░░░░░░░░░ 1
 - **Graphs**: █░░░░░░░░░░░░░░░░░░░ 1
 
 
 ## 🎯 Recent Problems
+- Valid Palindrome (Easy) - Strings
 - Maximum Depth of Binary Tree (Easy) - Trees
 - Maximum Depth of Binary Tree (Easy) - Trees
 - Reverse Linked List (Easy) - LinkedList
 - Fibonacci Number (Easy) - Recursion
-- Maximum Depth of Binary Tree (Easy) - Trees
 
 
 ## 🤖 Automation
@@ -35,4 +35,4 @@ Automated progress tracking with GitHub streak maintenance.
 Runs 5 times daily: 12 AM, 6 AM, 10 AM, 2 PM, 6 PM
 
 ---
-**Last Updated**: 2026-05-29 04:32:25
+**Last Updated**: 2026-05-29 08:36:29

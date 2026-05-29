@@ -1,14 +1,14 @@
 {
-  "totalProblems": 19,
-  "easySolved": 11,
+  "totalProblems": 20,
+  "easySolved": 12,
   "mediumSolved": 8,
   "hardSolved": 0,
-  "streakDays": 17,
-  "totalHours": 31.127236228518413,
-  "lastUpdated": "2026-05-29T04:32:25.881959",
+  "streakDays": 18,
+  "totalHours": 32.44069036431138,
+  "lastUpdated": "2026-05-29T08:36:29.151932",
   "topicStats": {
     "Arrays": 0,
-    "Strings": 1,
+    "Strings": 2,
     "LinkedList": 1,
     "Trees": 3,
     "Graphs": 1,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 10
+      "solved": 11
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 11
+    "2026-W21": 12
   },
   "recentProblems": [
+    {
+      "name": "Valid Palindrome",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-05-29",
+      "solvedAt": "2026-05-29T08:36:29.151949"
+    },
     {
       "name": "Maximum Depth of Binary Tree",
       "platform": "leetcode",
