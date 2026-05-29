@@ -1,11 +1,11 @@
 {
-  "totalProblems": 21,
-  "easySolved": 12,
+  "totalProblems": 22,
+  "easySolved": 13,
   "mediumSolved": 9,
   "hardSolved": 0,
-  "streakDays": 19,
-  "totalHours": 33.75552476945178,
-  "lastUpdated": "2026-05-29T12:33:24.657275",
+  "streakDays": 20,
+  "totalHours": 34.515618480806275,
+  "lastUpdated": "2026-05-29T18:32:40.784205",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -18,7 +18,7 @@
     "Hashing": 0,
     "Recursion": 3,
     "Stack": 0,
-    "Queue": 0,
+    "Queue": 1,
     "Heap": 0,
     "Greedy": 1,
     "Backtracking": 0
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 12
+      "solved": 13
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 13
+    "2026-W21": 14
   },
   "recentProblems": [
+    {
+      "name": "Number of Recent Calls",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-05-29",
+      "solvedAt": "2026-05-29T18:32:40.784226"
+    },
     {
       "name": "Number of Islands",
       "platform": "leetcode",
