@@ -1,24 +1,16 @@
-# Hashing — Notes & Patterns
+# Hashing - Study Notes
 
-## 📌 Key Patterns
-- HashMap
-- HashSet
-- Frequency Count
+## Overview
+Hashing is a core DSA topic with essential problem-solving patterns.
 
-## 💡 Common Problems to Practice
-- Two Sum
-- Subarray Sum Equals K
-- Longest Consecutive Sequence
+## Key Concepts
+1. Fundamental principles and definitions
+2. Common problem patterns and approaches
+3. Data structure selection
+4. Optimization techniques
 
-## 🧠 Personal Notes
-*Add your observations and learnings here as you solve problems*
-
-## ✅ Solved Problems
-| Problem | Platform | Difficulty | Date | Time Complexity |
-|---------|----------|------------|------|-----------------|
-
-## 🔗 Resources
-- *Add helpful links here*
+## Progress
+Keep practicing to master this topic.
 
 ---
-*Last updated: 2026-05-23*
+*Updated: 2026-05-30T18:31:30.390167*

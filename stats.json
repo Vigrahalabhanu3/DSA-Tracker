@@ -1,11 +1,11 @@
 {
-  "totalProblems": 25,
-  "easySolved": 8,
+  "totalProblems": 26,
+  "easySolved": 9,
   "mediumSolved": 17,
   "hardSolved": 2,
-  "streakDays": 23,
-  "totalHours": 48.44115003791442,
-  "lastUpdated": "2026-05-30T12:32:36.524367",
+  "streakDays": 24,
+  "totalHours": 49.93171386225646,
+  "lastUpdated": "2026-05-30T18:31:30.389951",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -15,7 +15,7 @@
     "DynamicProgramming": 1,
     "BinarySearch": 0,
     "Sorting": 0,
-    "Hashing": 0,
+    "Hashing": 1,
     "Recursion": 3,
     "Stack": 2,
     "Queue": 1,
@@ -39,15 +39,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 16
+      "solved": 17
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 17
+    "2026-W21": 18
   },
   "recentProblems": [
+    {
+      "name": "Valid Anagram",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-05-30",
+      "solvedAt": "2026-05-30T18:31:30.389972"
+    },
     {
       "name": "Valid Parentheses",
       "platform": "leetcode",
