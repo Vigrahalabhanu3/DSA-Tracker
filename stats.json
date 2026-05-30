@@ -1,11 +1,11 @@
 {
-  "totalProblems": 24,
-  "easySolved": 7,
+  "totalProblems": 25,
+  "easySolved": 8,
   "mediumSolved": 17,
   "hardSolved": 2,
-  "streakDays": 22,
-  "totalHours": 47.6,
-  "lastUpdated": "2026-05-30",
+  "streakDays": 23,
+  "totalHours": 48.44115003791442,
+  "lastUpdated": "2026-05-30T12:32:36.524367",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -17,7 +17,7 @@
     "Sorting": 0,
     "Hashing": 0,
     "Recursion": 3,
-    "Stack": 1,
+    "Stack": 2,
     "Queue": 1,
     "Heap": 0,
     "Greedy": 1,
@@ -39,15 +39,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 15
+      "solved": 16
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 16
+    "2026-W21": 17
   },
   "recentProblems": [
+    {
+      "name": "Valid Parentheses",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "date": "2026-05-30",
+      "solvedAt": "2026-05-30T12:32:36.524388"
+    },
     {
       "name": "Valid Parentheses",
       "platform": "leetcode",
