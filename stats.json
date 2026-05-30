@@ -1,17 +1,17 @@
 {
-  "totalProblems": 22,
+  "totalProblems": 23,
   "easySolved": 13,
-  "mediumSolved": 9,
+  "mediumSolved": 10,
   "hardSolved": 0,
-  "streakDays": 20,
-  "totalHours": 34.515618480806275,
-  "lastUpdated": "2026-05-29T18:32:40.784205",
+  "streakDays": 21,
+  "totalHours": 35.32668274853094,
+  "lastUpdated": "2026-05-30T00:31:18.640334",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
     "LinkedList": 1,
     "Trees": 3,
-    "Graphs": 2,
+    "Graphs": 3,
     "DynamicProgramming": 1,
     "BinarySearch": 0,
     "Sorting": 0,
@@ -37,15 +37,23 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 13
+      "solved": 14
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
-    "2026-W21": 14
+    "2026-W21": 15
   },
   "recentProblems": [
+    {
+      "name": "Number of Islands",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-05-30",
+      "solvedAt": "2026-05-30T00:31:18.640351"
+    },
     {
       "name": "Number of Recent Calls",
       "platform": "leetcode",
@@ -167,5 +175,5 @@
       "solvedAt": "2026-05-27T00:32:21.762794"
     }
   ],
-  "lastActive": "2026-05-29"
+  "lastActive": "2026-05-30"
 }
