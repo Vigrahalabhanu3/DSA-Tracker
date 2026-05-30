@@ -1,11 +1,11 @@
 {
   "totalProblems": 24,
-  "easySolved": 14,
-  "mediumSolved": 10,
-  "hardSolved": 0,
+  "easySolved": 7,
+  "mediumSolved": 17,
+  "hardSolved": 2,
   "streakDays": 22,
-  "totalHours": 36.70057113004685,
-  "lastUpdated": "2026-05-30T04:31:40.668523",
+  "totalHours": 47.6,
+  "lastUpdated": "2026-05-30",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -21,7 +21,9 @@
     "Queue": 1,
     "Heap": 0,
     "Greedy": 1,
-    "Backtracking": 0
+    "Backtracking": 0,
+    "stacks": 1,
+    "queues": 1
   },
   "platformStats": {
     "LeetCode": {
@@ -183,5 +185,6 @@
       "solvedAt": "2026-05-27T00:32:21.762794"
     }
   ],
-  "lastActive": "2026-05-30"
+  "lastActive": "2026-05-30",
+  "totalSolved": 26
 }

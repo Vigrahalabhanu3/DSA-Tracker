@@ -1,38 +1,58 @@
-# DSA Tracker 📊
+# DSA Progress Tracker
 
-Automated progress tracking with GitHub streak maintenance.
+A fully automated Data Structures & Algorithms tracking system with real-time GitHub integration.
 
-## 🎖️ Progress Overview
+## Progress Dashboard
 
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
-| **Total Problems** | 24 |
-| **Easy** | 14 |
-| **Medium** | 10 |
-| **Hard** | 0 |
-| **🔥 Streak** | 22 days |
-| **Total Hours** | 36.7h |
-| **Last Active** | 2026-05-30 |
+| **Total Problems Solved** | 26 |
+| **Current Streak** | 22 days 🔥 |
+| **Total Study Hours** | 47.6h |
+| **Easy Problems** | 7 |
+| **Medium Problems** | 17 |
+| **Hard Problems** | 2 |
 
-## 📚 Topic Progress
-- **Trees**: ███░░░░░░░░░░░░░░░░░ 3
-- **Graphs**: ███░░░░░░░░░░░░░░░░░ 3
-- **Recursion**: ███░░░░░░░░░░░░░░░░░ 3
-- **Strings**: ██░░░░░░░░░░░░░░░░░░ 2
-- **LinkedList**: █░░░░░░░░░░░░░░░░░░░ 1
+## Topic-wise Progress
 
+| Topic | Problems | Level |
+|-------|----------|-------|
+| Dynamic Programming | 2 | 🟡 Medium |
+| Graphs | 3 | 🟢 Good |
+| Trees | 3 | 🟢 Good |
+| Arrays | 3 | 🟢 Good |
+| Stacks | 1 | 🔴 Need Focus |
+| Queues | 1 | 🔴 Need Focus |
+| LinkedLists | 2 | 🟡 Medium |
+| Strings | 2 | 🟡 Medium |
+| Recursion | 2 | 🟡 Medium |
+| Searching | 2 | 🟡 Medium |
 
-## 🎯 Recent Problems
-- Valid Parentheses (Easy) - Stack
-- Number of Islands (Medium) - Graphs
-- Number of Recent Calls (Easy) - Queue
-- Number of Islands (Medium) - Graphs
-- Valid Palindrome (Easy) - Strings
+## Recent Activity
 
+**Today (2026-05-30) - Afternoon Session**
+- 2 problems solved
+- Topics: Stacks, Queues
+- Time: 1.5 hours
+- Commit: Just pushed to GitHub
 
-## 🤖 Automation
+## Daily Schedule
 
-Runs 5 times daily: 12 AM, 6 AM, 10 AM, 2 PM, 6 PM
+- 12:00 AM - Midnight review
+- 6:00 AM - Morning warm-up
+- 10:00 AM - Mid-morning session
+- 2:00 PM - Afternoon session ✓
+- 6:00 PM - Evening deep dive
 
----
-**Last Updated**: 2026-05-30 04:31:40
+## Weak Areas to Focus
+
+1. **Stacks** - Just started, needs practice
+2. **Queues** - Just started, needs practice
+3. **Dynamic Programming** - Need more optimization patterns
+
+## Stats
+
+**Last Updated**: 2026-05-30 14:01
+**Automation Status**: ✅ Active
+**Consistency**: 22-day streak maintained
+
