@@ -1,11 +1,11 @@
 {
-  "totalProblems": 30,
+  "totalProblems": 31,
   "easySolved": 13,
-  "mediumSolved": 17,
+  "mediumSolved": 18,
   "hardSolved": 2,
-  "streakDays": 28,
-  "totalHours": 55.367145399546,
-  "lastUpdated": "2026-05-31T08:32:38.017014",
+  "streakDays": 29,
+  "totalHours": 56.48500034278375,
+  "lastUpdated": "2026-05-31T08:37:37.624444",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -21,7 +21,7 @@
     "Queue": 1,
     "Heap": 0,
     "Greedy": 1,
-    "Backtracking": 0,
+    "Backtracking": 1,
     "stacks": 1,
     "queues": 1
   },
@@ -39,16 +39,24 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 21
+      "solved": 22
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
     "2026-W21": 18,
-    "2026-W22": 4
+    "2026-W22": 5
   },
   "recentProblems": [
+    {
+      "name": "Permutations",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-05-31",
+      "solvedAt": "2026-05-31T08:37:37.624475"
+    },
     {
       "name": "Climbing Stairs",
       "platform": "leetcode",
