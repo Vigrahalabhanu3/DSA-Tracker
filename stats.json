@@ -1,11 +1,11 @@
 {
-  "totalProblems": 28,
-  "easySolved": 11,
+  "totalProblems": 29,
+  "easySolved": 12,
   "mediumSolved": 17,
   "hardSolved": 2,
-  "streakDays": 26,
-  "totalHours": 52.049210163495495,
-  "lastUpdated": "2026-05-31T04:32:35.376952",
+  "streakDays": 27,
+  "totalHours": 53.72919201913875,
+  "lastUpdated": "2026-05-31T04:38:38.917300",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -15,7 +15,7 @@
     "DynamicProgramming": 2,
     "BinarySearch": 0,
     "Sorting": 0,
-    "Hashing": 1,
+    "Hashing": 2,
     "Recursion": 3,
     "Stack": 2,
     "Queue": 1,
@@ -39,16 +39,24 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 19
+      "solved": 20
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
     "2026-W21": 18,
-    "2026-W22": 2
+    "2026-W22": 3
   },
   "recentProblems": [
+    {
+      "name": "Valid Anagram",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-05-31",
+      "solvedAt": "2026-05-31T04:38:38.917323"
+    },
     {
       "name": "Climbing Stairs",
       "platform": "leetcode",
