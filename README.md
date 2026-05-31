@@ -6,28 +6,28 @@ Automated progress tracking with GitHub streak maintenance.
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems** | 26 |
-| **Easy** | 9 |
+| **Total Problems** | 27 |
+| **Easy** | 10 |
 | **Medium** | 17 |
 | **Hard** | 2 |
-| **🔥 Streak** | 24 days |
-| **Total Hours** | 49.9h |
-| **Last Active** | 2026-05-30 |
+| **🔥 Streak** | 25 days |
+| **Total Hours** | 51.5h |
+| **Last Active** | 2026-05-31 |
 
 ## 📚 Topic Progress
 - **Trees**: ███░░░░░░░░░░░░░░░░░ 3
 - **Graphs**: ███░░░░░░░░░░░░░░░░░ 3
 - **Recursion**: ███░░░░░░░░░░░░░░░░░ 3
 - **Strings**: ██░░░░░░░░░░░░░░░░░░ 2
-- **Stack**: ██░░░░░░░░░░░░░░░░░░ 2
+- **LinkedList**: ██░░░░░░░░░░░░░░░░░░ 2
 
 
 ## 🎯 Recent Problems
+- Reverse Linked List (Easy) - LinkedList
 - Valid Anagram (Easy) - Hashing
 - Valid Parentheses (Easy) - Stack
 - Valid Parentheses (Easy) - Stack
 - Number of Islands (Medium) - Graphs
-- Number of Recent Calls (Easy) - Queue
 
 
 ## 🤖 Automation
@@ -35,4 +35,4 @@ Automated progress tracking with GitHub streak maintenance.
 Runs 5 times daily: 12 AM, 6 AM, 10 AM, 2 PM, 6 PM
 
 ---
-**Last Updated**: 2026-05-30 18:31:30
+**Last Updated**: 2026-05-31 00:31:19
