@@ -1,11 +1,11 @@
 {
-  "totalProblems": 31,
-  "easySolved": 13,
+  "totalProblems": 32,
+  "easySolved": 14,
   "mediumSolved": 18,
   "hardSolved": 2,
-  "streakDays": 29,
-  "totalHours": 56.48500034278375,
-  "lastUpdated": "2026-05-31T08:37:37.624444",
+  "streakDays": 30,
+  "totalHours": 57.883033635870284,
+  "lastUpdated": "2026-05-31T12:32:07.384330",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -13,7 +13,7 @@
     "Trees": 3,
     "Graphs": 3,
     "DynamicProgramming": 3,
-    "BinarySearch": 0,
+    "BinarySearch": 1,
     "Sorting": 0,
     "Hashing": 2,
     "Recursion": 3,
@@ -39,16 +39,24 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 22
+      "solved": 23
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
     "2026-W21": 18,
-    "2026-W22": 5
+    "2026-W22": 6
   },
   "recentProblems": [
+    {
+      "name": "Binary Search",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-05-31",
+      "solvedAt": "2026-05-31T12:32:07.384348"
+    },
     {
       "name": "Permutations",
       "platform": "leetcode",
