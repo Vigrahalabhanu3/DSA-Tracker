@@ -1,18 +1,18 @@
 {
-  "totalProblems": 27,
-  "easySolved": 10,
+  "totalProblems": 28,
+  "easySolved": 11,
   "mediumSolved": 17,
   "hardSolved": 2,
-  "streakDays": 25,
-  "totalHours": 51.472820233924786,
-  "lastUpdated": "2026-05-31T00:31:19.147831",
+  "streakDays": 26,
+  "totalHours": 52.049210163495495,
+  "lastUpdated": "2026-05-31T04:32:35.376952",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
     "LinkedList": 2,
     "Trees": 3,
     "Graphs": 3,
-    "DynamicProgramming": 1,
+    "DynamicProgramming": 2,
     "BinarySearch": 0,
     "Sorting": 0,
     "Hashing": 1,
@@ -39,16 +39,24 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 18
+      "solved": 19
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
     "2026-W21": 18,
-    "2026-W22": 1
+    "2026-W22": 2
   },
   "recentProblems": [
+    {
+      "name": "Climbing Stairs",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "DynamicProgramming",
+      "date": "2026-05-31",
+      "solvedAt": "2026-05-31T04:32:35.376975"
+    },
     {
       "name": "Reverse Linked List",
       "platform": "leetcode",
