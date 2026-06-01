@@ -1,29 +1,16 @@
 # Greedy - Study Notes
 
-## Core Concepts
-- Fundamental definitions
-- Key patterns
-- Data structure usage
+## Overview
+Greedy is a core DSA topic with essential problem-solving patterns.
 
-## Important Algorithms
-1. Key algorithm 1
-2. Key algorithm 2
-3. Key algorithm 3
+## Key Concepts
+1. Fundamental principles and definitions
+2. Common problem patterns and approaches
+3. Data structure selection
+4. Optimization techniques
 
-## Common Problems
-- Problem type 1
-- Problem type 2
-- Problem type 3
-
-## Progress Tracker
-- Problems solved: 1
-- Difficulty range: Easy to Hard
-- Last practiced: Today
-
-## Practice Tips
-- Focus on pattern recognition
-- Build intuition through repetition
-- Analyze edge cases carefully
+## Progress
+Keep practicing to master this topic.
 
 ---
-*Updated: 2026-05-27T12:33:23.319673*
+*Updated: 2026-06-01T08:31:17.793910*

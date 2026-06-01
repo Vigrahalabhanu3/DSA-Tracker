@@ -1,11 +1,11 @@
 {
-  "totalProblems": 34,
+  "totalProblems": 35,
   "easySolved": 15,
-  "mediumSolved": 19,
+  "mediumSolved": 20,
   "hardSolved": 2,
-  "streakDays": 32,
-  "totalHours": 60.332565840567554,
-  "lastUpdated": "2026-06-01T04:31:13.604040",
+  "streakDays": 33,
+  "totalHours": 62.32196324294203,
+  "lastUpdated": "2026-06-01T08:31:17.793625",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -20,7 +20,7 @@
     "Stack": 2,
     "Queue": 1,
     "Heap": 0,
-    "Greedy": 1,
+    "Greedy": 2,
     "Backtracking": 1,
     "stacks": 1,
     "queues": 1
@@ -39,16 +39,24 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 25
+      "solved": 26
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
     "2026-W21": 18,
-    "2026-W22": 8
+    "2026-W22": 9
   },
   "recentProblems": [
+    {
+      "name": "Jump Game",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-01",
+      "solvedAt": "2026-06-01T08:31:17.793643"
+    },
     {
       "name": "Merge Intervals",
       "platform": "leetcode",
