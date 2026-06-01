@@ -1,11 +1,11 @@
 {
-  "totalProblems": 32,
-  "easySolved": 14,
+  "totalProblems": 33,
+  "easySolved": 15,
   "mediumSolved": 18,
   "hardSolved": 2,
-  "streakDays": 30,
-  "totalHours": 57.883033635870284,
-  "lastUpdated": "2026-05-31T12:32:07.384330",
+  "streakDays": 31,
+  "totalHours": 59.82076229541049,
+  "lastUpdated": "2026-06-01T00:30:52.901179",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -15,7 +15,7 @@
     "DynamicProgramming": 3,
     "BinarySearch": 1,
     "Sorting": 0,
-    "Hashing": 2,
+    "Hashing": 3,
     "Recursion": 3,
     "Stack": 2,
     "Queue": 1,
@@ -39,16 +39,24 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 23
+      "solved": 24
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
     "2026-W21": 18,
-    "2026-W22": 6
+    "2026-W22": 7
   },
   "recentProblems": [
+    {
+      "name": "Valid Anagram",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-01",
+      "solvedAt": "2026-06-01T00:30:52.901207"
+    },
     {
       "name": "Binary Search",
       "platform": "leetcode",
@@ -250,6 +258,6 @@
       "solvedAt": "2026-05-27T00:32:21.762794"
     }
   ],
-  "lastActive": "2026-05-31",
+  "lastActive": "2026-06-01",
   "totalSolved": 26
 }
