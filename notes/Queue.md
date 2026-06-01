@@ -13,4 +13,4 @@ Queue is a core DSA topic with essential problem-solving patterns.
 Keep practicing to master this topic.
 
 ---
-*Updated: 2026-05-29T18:32:40.784515*
+*Updated: 2026-06-01T18:31:22.739249*

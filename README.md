@@ -6,12 +6,12 @@ Automated progress tracking with GitHub streak maintenance.
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems** | 36 |
-| **Easy** | 16 |
+| **Total Problems** | 37 |
+| **Easy** | 17 |
 | **Medium** | 20 |
 | **Hard** | 2 |
-| **🔥 Streak** | 34 days |
-| **Total Hours** | 63.8h |
+| **🔥 Streak** | 35 days |
+| **Total Hours** | 64.8h |
 | **Last Active** | 2026-06-01 |
 
 ## 📚 Topic Progress
@@ -23,11 +23,11 @@ Automated progress tracking with GitHub streak maintenance.
 
 
 ## 🎯 Recent Problems
+- Number of Recent Calls (Easy) - Queue
 - Valid Anagram (Easy) - Hashing
 - Jump Game (Medium) - Greedy
 - Merge Intervals (Medium) - Sorting
 - Valid Anagram (Easy) - Hashing
-- Binary Search (Easy) - BinarySearch
 
 
 ## 🤖 Automation
@@ -35,4 +35,4 @@ Automated progress tracking with GitHub streak maintenance.
 Runs 5 times daily: 12 AM, 6 AM, 10 AM, 2 PM, 6 PM
 
 ---
-**Last Updated**: 2026-06-01 12:32:08
+**Last Updated**: 2026-06-01 18:31:22
