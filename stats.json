@@ -1,11 +1,11 @@
 {
-  "totalProblems": 33,
+  "totalProblems": 34,
   "easySolved": 15,
-  "mediumSolved": 18,
+  "mediumSolved": 19,
   "hardSolved": 2,
-  "streakDays": 31,
-  "totalHours": 59.82076229541049,
-  "lastUpdated": "2026-06-01T00:30:52.901179",
+  "streakDays": 32,
+  "totalHours": 60.332565840567554,
+  "lastUpdated": "2026-06-01T04:31:13.604040",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -14,7 +14,7 @@
     "Graphs": 3,
     "DynamicProgramming": 3,
     "BinarySearch": 1,
-    "Sorting": 0,
+    "Sorting": 1,
     "Hashing": 3,
     "Recursion": 3,
     "Stack": 2,
@@ -39,16 +39,24 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 24
+      "solved": 25
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
     "2026-W21": 18,
-    "2026-W22": 7
+    "2026-W22": 8
   },
   "recentProblems": [
+    {
+      "name": "Merge Intervals",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-01",
+      "solvedAt": "2026-06-01T04:31:13.604056"
+    },
     {
       "name": "Valid Anagram",
       "platform": "leetcode",

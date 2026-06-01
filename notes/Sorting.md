@@ -1,37 +1,16 @@
-# Sorting — Notes & Patterns
+# Sorting - Study Notes
 
-## 📌 Key Patterns
-- Merge Sort
-- Quick Sort
-- Counting Sort
-- Heap Sort
+## Overview
+Sorting is a core DSA topic with essential problem-solving patterns.
 
-## 💡 Common Problems to Practice
-- Sort Colors
-- Merge Intervals
-- Largest Number
+## Key Concepts
+1. Fundamental principles and definitions
+2. Common problem patterns and approaches
+3. Data structure selection
+4. Optimization techniques
 
-## 🧠 Personal Notes
-*Add your observations and learnings here as you solve problems*
-
-## ✅ Solved Problems
-| Problem | Platform | Difficulty | Date | Time Complexity |
-|---------|----------|------------|------|-----------------|
-
-## 🔗 Resources
-- *Add helpful links here*
+## Progress
+Keep practicing to master this topic.
 
 ---
-*Last updated: 2026-05-23*
-
----
-
-## 📅 Last Reviewed: 2026-05-24
-
-**Problems in focus:**
-
-
-**Quick tip:** Group similar problems by pattern to spot recurring techniques
-
-**Your progress:** 0 problems solved in this topic
-
+*Updated: 2026-06-01T04:31:13.604316*
