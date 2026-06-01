@@ -1,11 +1,11 @@
 {
-  "totalProblems": 35,
-  "easySolved": 15,
+  "totalProblems": 36,
+  "easySolved": 16,
   "mediumSolved": 20,
   "hardSolved": 2,
-  "streakDays": 33,
-  "totalHours": 62.32196324294203,
-  "lastUpdated": "2026-06-01T08:31:17.793625",
+  "streakDays": 34,
+  "totalHours": 63.84695363244182,
+  "lastUpdated": "2026-06-01T12:32:08.163959",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
@@ -15,7 +15,7 @@
     "DynamicProgramming": 3,
     "BinarySearch": 1,
     "Sorting": 1,
-    "Hashing": 3,
+    "Hashing": 4,
     "Recursion": 3,
     "Stack": 2,
     "Queue": 1,
@@ -39,16 +39,24 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 26
+      "solved": 27
     }
   },
   "weeklyActivity": {
     "problems": 3,
     "hours": 4.5,
     "2026-W21": 18,
-    "2026-W22": 9
+    "2026-W22": 10
   },
   "recentProblems": [
+    {
+      "name": "Valid Anagram",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-01",
+      "solvedAt": "2026-06-01T12:32:08.163976"
+    },
     {
       "name": "Jump Game",
       "platform": "leetcode",
