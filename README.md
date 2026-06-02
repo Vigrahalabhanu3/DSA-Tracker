@@ -5,22 +5,22 @@ An AI-powered automated Data Structure Algorithms (DSA) progress tracking system
 ## 📊 Dashboard
 
 ### Overall Progress
-- **Total Problems Solved**: 40
+- **Total Problems Solved**: 42
 - **Current Streak**: 🔥 36 days
-- **Total Study Hours**: 65.73h
+- **Total Study Hours**: 67.27h
 - **Last Active**: 2026-06-02
 
 ### Difficulty Distribution
 ```
-Easy      [████] 18
-Medium    [█████] 22
+Easy      [████] 19
+Medium    [█████] 23
 Hard      [█] 2
 ```
 
 ### Platform Stats
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 31 |
+| LeetCode | 33 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,9 +30,9 @@ Hard      [█] 2
 - **BinarySearch**: 1 problems solved
 - **DynamicProgramming**: 3 problems solved
 - **Graphs**: 4 problems solved
-- **Greedy**: 2 problems solved
+- **Greedy**: 3 problems solved
 - **Hashing**: 5 problems solved
-- **LinkedList**: 2 problems solved
+- **LinkedList**: 3 problems solved
 - **Queue**: 2 problems solved
 - **Recursion**: 3 problems solved
 - **Sorting**: 1 problems solved
@@ -103,4 +103,4 @@ All updates are meaningful and reflect actual learning progress.
 
 ---
 
-*Last Updated: 2026-06-02T00:32:13.492992*
+*Last Updated: 2026-06-02T04:31:07.973629*

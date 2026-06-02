@@ -1,15 +1,15 @@
 {
-  "totalProblems": 40,
-  "easySolved": 18,
-  "mediumSolved": 22,
+  "totalProblems": 42,
+  "easySolved": 19,
+  "mediumSolved": 23,
   "hardSolved": 2,
   "streakDays": 36,
-  "totalHours": 65.73,
-  "lastUpdated": "2026-06-02T00:32:13.492956",
+  "totalHours": 67.27,
+  "lastUpdated": "2026-06-02T04:31:07.973573",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
-    "LinkedList": 2,
+    "LinkedList": 3,
     "Trees": 3,
     "Graphs": 4,
     "DynamicProgramming": 3,
@@ -20,7 +20,7 @@
     "Stack": 2,
     "Queue": 2,
     "Heap": 0,
-    "Greedy": 2,
+    "Greedy": 3,
     "Backtracking": 2,
     "stacks": 1,
     "queues": 1
@@ -39,17 +39,33 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 31
+      "solved": 33
     }
   },
   "weeklyActivity": {
-    "problems": 6,
-    "hours": 5.48,
+    "problems": 8,
+    "hours": 7.02,
     "2026-W21": 18,
     "2026-W22": 11,
-    "2026-W23": 3
+    "2026-W23": 5
   },
   "recentProblems": [
+    {
+      "name": "Assign Cookies",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T04:31:07.973550"
+    },
+    {
+      "name": "Add Two Numbers",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T04:31:07.973537"
+    },
     {
       "name": "Course Schedule",
       "platform": "leetcode",
@@ -273,24 +289,8 @@
       "topic": "Recursion",
       "date": "2026-05-27",
       "solvedAt": "2026-05-27T18:43:03.222447"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-05-27",
-      "solvedAt": "2026-05-27T18:37:37.859926"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-05-27",
-      "solvedAt": "2026-05-27T18:32:57.169835"
     }
   ],
   "lastActive": "2026-06-02",
-  "totalSolved": 29
+  "totalSolved": 31
 }
