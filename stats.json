@@ -1,17 +1,17 @@
 {
-  "totalProblems": 45,
+  "totalProblems": 48,
   "easySolved": 22,
-  "mediumSolved": 23,
+  "mediumSolved": 26,
   "hardSolved": 2,
   "streakDays": 36,
-  "totalHours": 68.17,
-  "lastUpdated": "2026-06-02T08:31:10.339995",
+  "totalHours": 69.66,
+  "lastUpdated": "2026-06-02T12:33:26.932807",
   "topicStats": {
     "Arrays": 0,
-    "Strings": 3,
-    "LinkedList": 3,
+    "Strings": 4,
+    "LinkedList": 4,
     "Trees": 3,
-    "Graphs": 4,
+    "Graphs": 5,
     "DynamicProgramming": 4,
     "BinarySearch": 1,
     "Sorting": 1,
@@ -39,17 +39,41 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 36
+      "solved": 39
     }
   },
   "weeklyActivity": {
-    "problems": 11,
-    "hours": 7.92,
+    "problems": 14,
+    "hours": 9.41,
     "2026-W21": 18,
     "2026-W22": 11,
-    "2026-W23": 8
+    "2026-W23": 11
   },
   "recentProblems": [
+    {
+      "name": "Longest Substring Without Repeating",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T12:33:26.932787"
+    },
+    {
+      "name": "Course Schedule",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T12:33:26.932783"
+    },
+    {
+      "name": "Reorder List",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T12:33:26.932774"
+    },
     {
       "name": "Implement Stack Using Queues",
       "platform": "leetcode",
@@ -265,32 +289,8 @@
       "topic": "Trees",
       "date": "2026-05-29",
       "solvedAt": "2026-05-29T04:32:25.881976"
-    },
-    {
-      "name": "Maximum Depth of Binary Tree",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-05-28",
-      "solvedAt": "2026-05-28T12:32:29.107324"
-    },
-    {
-      "name": "Reverse Linked List",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-05-28",
-      "solvedAt": "2026-05-28T08:32:06.444422"
-    },
-    {
-      "name": "Fibonacci Number",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-05-28",
-      "solvedAt": "2026-05-28T04:36:05.846978"
     }
   ],
   "lastActive": "2026-06-02",
-  "totalSolved": 34
+  "totalSolved": 37
 }
