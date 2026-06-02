@@ -1,23 +1,23 @@
 {
-  "totalProblems": 42,
-  "easySolved": 19,
+  "totalProblems": 45,
+  "easySolved": 22,
   "mediumSolved": 23,
   "hardSolved": 2,
   "streakDays": 36,
-  "totalHours": 67.27,
-  "lastUpdated": "2026-06-02T04:31:07.973573",
+  "totalHours": 68.17,
+  "lastUpdated": "2026-06-02T08:31:10.339995",
   "topicStats": {
     "Arrays": 0,
-    "Strings": 2,
+    "Strings": 3,
     "LinkedList": 3,
     "Trees": 3,
     "Graphs": 4,
-    "DynamicProgramming": 3,
+    "DynamicProgramming": 4,
     "BinarySearch": 1,
     "Sorting": 1,
     "Hashing": 5,
     "Recursion": 3,
-    "Stack": 2,
+    "Stack": 3,
     "Queue": 2,
     "Heap": 0,
     "Greedy": 3,
@@ -39,17 +39,41 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 33
+      "solved": 36
     }
   },
   "weeklyActivity": {
-    "problems": 8,
-    "hours": 7.02,
+    "problems": 11,
+    "hours": 7.92,
     "2026-W21": 18,
     "2026-W22": 11,
-    "2026-W23": 5
+    "2026-W23": 8
   },
   "recentProblems": [
+    {
+      "name": "Implement Stack Using Queues",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T08:31:10.339983"
+    },
+    {
+      "name": "Valid Palindrome",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T08:31:10.339981"
+    },
+    {
+      "name": "Climbing Stairs",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T08:31:10.339975"
+    },
     {
       "name": "Assign Cookies",
       "platform": "leetcode",
@@ -265,32 +289,8 @@
       "topic": "Recursion",
       "date": "2026-05-28",
       "solvedAt": "2026-05-28T04:36:05.846978"
-    },
-    {
-      "name": "Maximum Depth of Binary Tree",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-05-28",
-      "solvedAt": "2026-05-28T04:32:59.688434"
-    },
-    {
-      "name": "Climbing Stairs",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "DynamicProgramming",
-      "date": "2026-05-28",
-      "solvedAt": "2026-05-28T00:31:52.624231"
-    },
-    {
-      "name": "Fibonacci Number",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-05-27",
-      "solvedAt": "2026-05-27T18:43:03.222447"
     }
   ],
   "lastActive": "2026-06-02",
-  "totalSolved": 31
+  "totalSolved": 34
 }
