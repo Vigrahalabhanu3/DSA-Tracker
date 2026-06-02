@@ -1,27 +1,27 @@
 {
-  "totalProblems": 37,
-  "easySolved": 17,
-  "mediumSolved": 20,
+  "totalProblems": 40,
+  "easySolved": 18,
+  "mediumSolved": 22,
   "hardSolved": 2,
-  "streakDays": 35,
-  "totalHours": 64.75063756239993,
-  "lastUpdated": "2026-06-01T18:31:22.738942",
+  "streakDays": 36,
+  "totalHours": 65.73,
+  "lastUpdated": "2026-06-02T00:32:13.492956",
   "topicStats": {
     "Arrays": 0,
     "Strings": 2,
     "LinkedList": 2,
     "Trees": 3,
-    "Graphs": 3,
+    "Graphs": 4,
     "DynamicProgramming": 3,
     "BinarySearch": 1,
     "Sorting": 1,
-    "Hashing": 4,
+    "Hashing": 5,
     "Recursion": 3,
     "Stack": 2,
     "Queue": 2,
     "Heap": 0,
     "Greedy": 2,
-    "Backtracking": 1,
+    "Backtracking": 2,
     "stacks": 1,
     "queues": 1
   },
@@ -39,16 +39,41 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 28
+      "solved": 31
     }
   },
   "weeklyActivity": {
-    "problems": 3,
-    "hours": 4.5,
+    "problems": 6,
+    "hours": 5.48,
     "2026-W21": 18,
-    "2026-W22": 11
+    "2026-W22": 11,
+    "2026-W23": 3
   },
   "recentProblems": [
+    {
+      "name": "Course Schedule",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T00:32:13.492937"
+    },
+    {
+      "name": "Valid Anagram",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T00:32:13.492934"
+    },
+    {
+      "name": "Word Search",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-02",
+      "solvedAt": "2026-06-02T00:32:13.492927"
+    },
     {
       "name": "Number of Recent Calls",
       "platform": "leetcode",
@@ -264,32 +289,8 @@
       "topic": "Graphs",
       "date": "2026-05-27",
       "solvedAt": "2026-05-27T18:32:57.169835"
-    },
-    {
-      "name": "LeetCode Problem",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-05-27",
-      "solvedAt": "2026-05-27T12:33:23.319614"
-    },
-    {
-      "name": "Fibonacci Number",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-05-27",
-      "solvedAt": "2026-05-27T08:33:32.897600"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-05-27",
-      "solvedAt": "2026-05-27T00:32:21.762794"
     }
   ],
-  "lastActive": "2026-06-01",
-  "totalSolved": 26
+  "lastActive": "2026-06-02",
+  "totalSolved": 29
 }
