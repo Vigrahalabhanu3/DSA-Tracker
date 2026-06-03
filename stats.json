@@ -1,13 +1,13 @@
 {
-  "totalProblems": 48,
+  "totalProblems": 50,
   "easySolved": 22,
-  "mediumSolved": 26,
+  "mediumSolved": 28,
   "hardSolved": 2,
   "streakDays": 36,
-  "totalHours": 69.66,
-  "lastUpdated": "2026-06-02T12:33:26.932807",
+  "totalHours": 71.16,
+  "lastUpdated": "2026-06-03T04:31:39.499567",
   "topicStats": {
-    "Arrays": 0,
+    "Arrays": 1,
     "Strings": 4,
     "LinkedList": 4,
     "Trees": 3,
@@ -15,7 +15,7 @@
     "DynamicProgramming": 4,
     "BinarySearch": 1,
     "Sorting": 1,
-    "Hashing": 5,
+    "Hashing": 6,
     "Recursion": 3,
     "Stack": 3,
     "Queue": 2,
@@ -50,6 +50,18 @@
     "2026-W23": 11
   },
   "recentProblems": [
+    {
+      "name": "Rotate Array",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays"
+    },
+    {
+      "name": "Subarray Sum Equals K",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Hashing"
+    },
     {
       "name": "Longest Substring Without Repeating",
       "platform": "leetcode",
@@ -113,182 +125,6 @@
       "topic": "LinkedList",
       "date": "2026-06-02",
       "solvedAt": "2026-06-02T04:31:07.973537"
-    },
-    {
-      "name": "Course Schedule",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T00:32:13.492937"
-    },
-    {
-      "name": "Valid Anagram",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T00:32:13.492934"
-    },
-    {
-      "name": "Word Search",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T00:32:13.492927"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-01",
-      "solvedAt": "2026-06-01T18:31:22.738959"
-    },
-    {
-      "name": "Valid Anagram",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-01",
-      "solvedAt": "2026-06-01T12:32:08.163976"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-01",
-      "solvedAt": "2026-06-01T08:31:17.793643"
-    },
-    {
-      "name": "Merge Intervals",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-01",
-      "solvedAt": "2026-06-01T04:31:13.604056"
-    },
-    {
-      "name": "Valid Anagram",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-01",
-      "solvedAt": "2026-06-01T00:30:52.901207"
-    },
-    {
-      "name": "Binary Search",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-05-31",
-      "solvedAt": "2026-05-31T12:32:07.384348"
-    },
-    {
-      "name": "Permutations",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-05-31",
-      "solvedAt": "2026-05-31T08:37:37.624475"
-    },
-    {
-      "name": "Climbing Stairs",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "DynamicProgramming",
-      "date": "2026-05-31",
-      "solvedAt": "2026-05-31T08:32:38.017037"
-    },
-    {
-      "name": "Valid Anagram",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-05-31",
-      "solvedAt": "2026-05-31T04:38:38.917323"
-    },
-    {
-      "name": "Climbing Stairs",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "DynamicProgramming",
-      "date": "2026-05-31",
-      "solvedAt": "2026-05-31T04:32:35.376975"
-    },
-    {
-      "name": "Reverse Linked List",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-05-31",
-      "solvedAt": "2026-05-31T00:31:19.147854"
-    },
-    {
-      "name": "Valid Anagram",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-05-30",
-      "solvedAt": "2026-05-30T18:31:30.389972"
-    },
-    {
-      "name": "Valid Parentheses",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-05-30",
-      "solvedAt": "2026-05-30T12:32:36.524388"
-    },
-    {
-      "name": "Valid Parentheses",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-05-30",
-      "solvedAt": "2026-05-30T04:31:40.668545"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-05-30",
-      "solvedAt": "2026-05-30T00:31:18.640351"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-05-29",
-      "solvedAt": "2026-05-29T18:32:40.784226"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-05-29",
-      "solvedAt": "2026-05-29T12:33:24.657290"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-05-29",
-      "solvedAt": "2026-05-29T08:36:29.151949"
-    },
-    {
-      "name": "Maximum Depth of Binary Tree",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-05-29",
-      "solvedAt": "2026-05-29T04:32:25.881976"
     }
   ],
   "lastActive": "2026-06-02",
