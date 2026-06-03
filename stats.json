@@ -1,11 +1,11 @@
 {
-  "totalProblems": 50,
-  "easySolved": 22,
-  "mediumSolved": 28,
-  "hardSolved": 2,
-  "streakDays": 36,
-  "totalHours": 71.16,
-  "lastUpdated": "2026-06-03T04:31:39.499567",
+  "totalProblems": 53,
+  "easySolved": 23,
+  "mediumSolved": 29,
+  "hardSolved": 3,
+  "streakDays": 37,
+  "totalHours": 72.96,
+  "lastUpdated": "2026-06-03T08:31:16.601565",
   "topicStats": {
     "Arrays": 1,
     "Strings": 4,
@@ -14,12 +14,12 @@
     "Graphs": 5,
     "DynamicProgramming": 4,
     "BinarySearch": 1,
-    "Sorting": 1,
+    "Sorting": 2,
     "Hashing": 6,
     "Recursion": 3,
     "Stack": 3,
-    "Queue": 2,
-    "Heap": 0,
+    "Queue": 3,
+    "Heap": 1,
     "Greedy": 3,
     "Backtracking": 2,
     "stacks": 1,
@@ -39,17 +39,41 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 39
+      "solved": 42
     }
   },
   "weeklyActivity": {
-    "problems": 14,
-    "hours": 9.41,
+    "problems": 17,
+    "hours": 11.21,
     "2026-W21": 18,
     "2026-W22": 11,
-    "2026-W23": 11
+    "2026-W23": 14
   },
   "recentProblems": [
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "leetcode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-03",
+      "solvedAt": "2026-06-03T08:31:16.601539"
+    },
+    {
+      "name": "Implement Queue Using Stacks",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-03",
+      "solvedAt": "2026-06-03T08:31:16.601536"
+    },
+    {
+      "name": "Merge Intervals",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-03",
+      "solvedAt": "2026-06-03T08:31:16.601527"
+    },
     {
       "name": "Rotate Array",
       "platform": "LeetCode",
@@ -127,6 +151,6 @@
       "solvedAt": "2026-06-02T04:31:07.973537"
     }
   ],
-  "lastActive": "2026-06-02",
-  "totalSolved": 37
+  "lastActive": "2026-06-03",
+  "totalSolved": 40
 }

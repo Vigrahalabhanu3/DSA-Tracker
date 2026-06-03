@@ -5,37 +5,39 @@ An AI-powered automated Data Structure Algorithms (DSA) progress tracking system
 ## 📊 Dashboard
 
 ### Overall Progress
-- **Total Problems Solved**: 48
-- **Current Streak**: 🔥 36 days
-- **Total Study Hours**: 69.66h
-- **Last Active**: 2026-06-02
+- **Total Problems Solved**: 53
+- **Current Streak**: 🔥 37 days
+- **Total Study Hours**: 72.96h
+- **Last Active**: 2026-06-03
 
 ### Difficulty Distribution
 ```
-Easy      [█████] 22
-Medium    [██████] 26
-Hard      [█] 2
+Easy      [████] 23
+Medium    [█████] 29
+Hard      [█] 3
 ```
 
 ### Platform Stats
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 39 |
+| LeetCode | 42 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
 
 ### Topic Mastery
+- **Arrays**: 1 problems solved
 - **Backtracking**: 2 problems solved
 - **BinarySearch**: 1 problems solved
 - **DynamicProgramming**: 4 problems solved
 - **Graphs**: 5 problems solved
 - **Greedy**: 3 problems solved
-- **Hashing**: 5 problems solved
+- **Hashing**: 6 problems solved
+- **Heap**: 1 problems solved
 - **LinkedList**: 4 problems solved
-- **Queue**: 2 problems solved
+- **Queue**: 3 problems solved
 - **Recursion**: 3 problems solved
-- **Sorting**: 1 problems solved
+- **Sorting**: 2 problems solved
 - **Stack**: 3 problems solved
 - **Strings**: 4 problems solved
 - **Trees**: 3 problems solved
@@ -79,7 +81,7 @@ DSA-Tracker/
 
 ## 📈 Recent Activity
 
-Last updated: 2026-06-02
+Last updated: 2026-06-03
 
 ## 🎯 Goals
 
@@ -103,4 +105,4 @@ All updates are meaningful and reflect actual learning progress.
 
 ---
 
-*Last Updated: 2026-06-02T12:33:26.932866*
+*Last Updated: 2026-06-03T08:31:16.601625*
