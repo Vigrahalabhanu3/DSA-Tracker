@@ -1,11 +1,11 @@
 {
-  "totalProblems": 53,
-  "easySolved": 23,
+  "totalProblems": 54,
+  "easySolved": 24,
   "mediumSolved": 29,
   "hardSolved": 3,
-  "streakDays": 37,
-  "totalHours": 72.96,
-  "lastUpdated": "2026-06-03T08:31:16.601565",
+  "streakDays": 1,
+  "totalHours": 74.89,
+  "lastUpdated": "2026-06-05T00:30:59.108904",
   "topicStats": {
     "Arrays": 1,
     "Strings": 4,
@@ -16,7 +16,7 @@
     "BinarySearch": 1,
     "Sorting": 2,
     "Hashing": 6,
-    "Recursion": 3,
+    "Recursion": 4,
     "Stack": 3,
     "Queue": 3,
     "Heap": 1,
@@ -39,17 +39,25 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 42
+      "solved": 43
     }
   },
   "weeklyActivity": {
-    "problems": 17,
-    "hours": 11.21,
+    "problems": 18,
+    "hours": 13.14,
     "2026-W21": 18,
     "2026-W22": 11,
-    "2026-W23": 14
+    "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse String",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-05",
+      "solvedAt": "2026-06-05T00:30:59.108872"
+    },
     {
       "name": "Merge K Sorted Lists",
       "platform": "leetcode",
@@ -151,6 +159,6 @@
       "solvedAt": "2026-06-02T04:31:07.973537"
     }
   ],
-  "lastActive": "2026-06-03",
-  "totalSolved": 40
+  "lastActive": "2026-06-05",
+  "totalSolved": 41
 }
