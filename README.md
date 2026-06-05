@@ -1,108 +1,75 @@
-# DSA Tracker 📚
+# DSA Tracker — Data Structures & Algorithms Progress
 
-An AI-powered automated Data Structure Algorithms (DSA) progress tracking system integrated with GitHub.
+> Automated daily DSA progress tracking with GitHub integration
 
-## 📊 Dashboard
+## 📊 Overall Statistics
 
-### Overall Progress
-- **Total Problems Solved**: 54
-- **Current Streak**: 🔥 1 days
-- **Total Study Hours**: 74.89h
-- **Last Active**: 2026-06-05
+| Metric | Count |
+|--------|-------|
+| **Total Problems Solved** | 56 |
+| **🟢 Easy** | 24 (42.9%) |
+| **🟡 Medium** | 31 (55.4%) |
+| **🔴 Hard** | 3 (5.4%) |
+| **🔥 Current Streak** | 1 days |
+| **⏱️ Total Hours** | 76.52h |
+| **📅 Last Updated** | 2026-06-05T18:32:12.236290 |
 
-### Difficulty Distribution
-```
-Easy      [████] 24
-Medium    [█████] 29
-Hard      [█] 3
-```
-
-### Platform Stats
-| Platform | Solved |
-|----------|--------|
-| LeetCode | 43 |
-| CodeForces | 0 |
-| GeeksForGeeks | 0 |
-| CodeChef | 0 |
-
-### Topic Mastery
-- **Arrays**: 1 problems solved
-- **Backtracking**: 2 problems solved
-- **BinarySearch**: 1 problems solved
-- **DynamicProgramming**: 4 problems solved
-- **Graphs**: 5 problems solved
-- **Greedy**: 3 problems solved
-- **Hashing**: 6 problems solved
-- **Heap**: 1 problems solved
-- **LinkedList**: 4 problems solved
-- **Queue**: 3 problems solved
-- **Recursion**: 4 problems solved
-- **Sorting**: 2 problems solved
-- **Stack**: 3 problems solved
-- **Strings**: 4 problems solved
-- **Trees**: 3 problems solved
-- **queues**: 1 problems solved
-- **stacks**: 1 problems solved
-
-
-## 🗂️ Repository Structure
+## 📈 Difficulty Distribution
 
 ```
-DSA-Tracker/
-├── README.md (this file)
-├── stats.json (aggregated statistics)
-├── daily_log.md (daily progress logs)
-├── daily/ (daily progress logs)
-├── solved/ (solved problem solutions)
-├── notes/ (topic-wise notes)
-├── leetcode/ (LeetCode problems)
-├── codeforces/ (CodeForces problems)
-├── gfg/ (GeeksForGeeks problems)
-└── codechef/ (CodeChef problems)
+Easy:   ████████░░░░░░░░░░░░ 42.9%
+Medium: ███████████░░░░░░░░░ 55.4%
+Hard:   █░░░░░░░░░░░░░░░░░░░ 5.4%
 ```
 
-## 🔄 Automation Details
+## 🎯 Topic-wise Progress
 
-- **Frequency**: 5 times daily
-  - 🌙 12:00 AM — Midnight review
-  - 🌅 6:00 AM — Morning warm-up
-  - ☀️ 10:00 AM — Focused learning
-  - 🌆 2:00 PM — Practice session
-  - 🌃 6:00 PM — Deep-dive session
+- **Hashing**: 7 problems
+- **Graphs**: 6 problems
+- **Strings**: 4 problems
+- **LinkedList**: 4 problems
+- **DynamicProgramming**: 4 problems
+- **Recursion**: 4 problems
+- **Trees**: 3 problems
+- **Stack**: 3 problems
+- **Queue**: 3 problems
+- **Greedy**: 3 problems
+- **Sorting**: 2 problems
+- **Backtracking**: 2 problems
+- **Arrays**: 1 problems
+- **BinarySearch**: 1 problems
+- **Heap**: 1 problems
+- **stacks**: 1 problems
+- **queues**: 1 problems
 
-- **Features**:
-  - Automatic daily progress logging
-  - Real-time stats.json updates
-  - Topic-wise tracking
-  - Difficulty distribution analysis
-  - Platform-wise statistics
-  - Streak maintenance
-  - Intelligent commit messages
+## 🏆 Platform Statistics
 
-## 📈 Recent Activity
+- **LeetCode**: 8 solved
+- **CodeForces**: 0 solved
+- **GeeksForGeeks**: 0 solved
+- **CodeChef**: 0 solved
+- **leetcode**: 45 solved
 
-Last updated: 2026-06-05
+## 📝 Recent Problems
 
-## 🎯 Goals
+- **Number of Islands** 🟡 (Graphs)
+- **Top K Frequent Elements** 🟡 (Hashing)
+- **Reverse String** 🟢 (Recursion)
+- **Merge K Sorted Lists** 🔴 (Heap)
+- **Implement Queue Using Stacks** 🟢 (Queue)
+- **Merge Intervals** 🟡 (Sorting)
+- **Rotate Array** 🟡 (Arrays)
+- **Subarray Sum Equals K** 🟡 (Hashing)
+- **Longest Substring Without Repeating** 🟡 (Strings)
+- **Course Schedule** 🟡 (Graphs)
 
-- Maintain consistent daily coding practice
-- Build DSA mastery through structured learning
-- Document learning journey
-- Maintain GitHub contribution streak
+## 🚀 Progress Tracking
 
-## 🚀 Getting Started
-
-1. Clone this repository
-2. Check `daily/` for daily progress logs
-3. Review `stats.json` for aggregate metrics
-4. Study `notes/` for topic summaries
-5. Practice problems in respective platforms
-
-## 📝 Notes
-
-This repository is automatically maintained by the DSA Tracker Automation System.
-All updates are meaningful and reflect actual learning progress.
+This repository uses automated daily updates to track DSA practice:
+- **5 daily sessions**: Morning, Midday, Afternoon, Evening, Midnight
+- **Real commits**: Every session creates meaningful GitHub activity
+- **Smart tracking**: Difficulty-aware problem selection
+- **Streak maintenance**: Consistent daily practice
 
 ---
-
-*Last Updated: 2026-06-05T00:30:59.108958*
+*Maintained by [DSA Tracker Automation](https://base44.com) — Automated at 2026-06-05T18:32:12.236994*

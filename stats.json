@@ -1,21 +1,21 @@
 {
-  "totalProblems": 54,
+  "totalProblems": 56,
   "easySolved": 24,
-  "mediumSolved": 29,
+  "mediumSolved": 31,
   "hardSolved": 3,
   "streakDays": 1,
-  "totalHours": 74.89,
-  "lastUpdated": "2026-06-05T00:30:59.108904",
+  "totalHours": 76.52,
+  "lastUpdated": "2026-06-05T18:32:12.236290",
   "topicStats": {
     "Arrays": 1,
     "Strings": 4,
     "LinkedList": 4,
     "Trees": 3,
-    "Graphs": 5,
+    "Graphs": 6,
     "DynamicProgramming": 4,
     "BinarySearch": 1,
     "Sorting": 2,
-    "Hashing": 6,
+    "Hashing": 7,
     "Recursion": 4,
     "Stack": 3,
     "Queue": 3,
@@ -39,7 +39,7 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 43
+      "solved": 45
     }
   },
   "weeklyActivity": {
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Number of Islands",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-05",
+      "solvedAt": "2026-06-05T18:32:12.236279"
+    },
+    {
+      "name": "Top K Frequent Elements",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Hashing",
+      "date": "2026-06-05",
+      "solvedAt": "2026-06-05T18:32:12.236269"
+    },
     {
       "name": "Reverse String",
       "platform": "leetcode",
