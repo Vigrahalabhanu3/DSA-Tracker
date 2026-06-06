@@ -1,11 +1,11 @@
 {
-  "totalProblems": 66,
-  "easySolved": 29,
+  "totalProblems": 68,
+  "easySolved": 31,
   "mediumSolved": 36,
   "hardSolved": 3,
   "streakDays": 1,
-  "totalHours": 80.88,
-  "lastUpdated": "2026-06-06T04:31:08.472270",
+  "totalHours": 81.82,
+  "lastUpdated": "2026-06-06T08:31:06.143661",
   "topicStats": {
     "Arrays": 1,
     "Strings": 7,
@@ -13,9 +13,9 @@
     "Trees": 4,
     "Graphs": 6,
     "DynamicProgramming": 5,
-    "BinarySearch": 2,
+    "BinarySearch": 3,
     "Sorting": 2,
-    "Hashing": 7,
+    "Hashing": 8,
     "Recursion": 4,
     "Stack": 3,
     "Queue": 4,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 13
+      "solved": 15
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Majority Element",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T08:31:06.143648"
+    },
+    {
+      "name": "First Bad Version",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T08:31:06.143637"
+    },
     {
       "name": "String Compression",
       "platform": "LeetCode",
