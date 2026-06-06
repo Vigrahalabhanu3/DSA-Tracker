@@ -1,18 +1,18 @@
 {
-  "totalProblems": 68,
+  "totalProblems": 70,
   "easySolved": 31,
-  "mediumSolved": 36,
-  "hardSolved": 3,
+  "mediumSolved": 37,
+  "hardSolved": 4,
   "streakDays": 1,
-  "totalHours": 81.82,
-  "lastUpdated": "2026-06-06T08:31:06.143661",
+  "totalHours": 83.78,
+  "lastUpdated": "2026-06-06T12:32:11.270751",
   "topicStats": {
     "Arrays": 1,
     "Strings": 7,
-    "LinkedList": 5,
+    "LinkedList": 6,
     "Trees": 4,
     "Graphs": 6,
-    "DynamicProgramming": 5,
+    "DynamicProgramming": 6,
     "BinarySearch": 3,
     "Sorting": 2,
     "Hashing": 8,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 15
+      "solved": 17
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reorder List",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T12:32:11.270741"
+    },
+    {
+      "name": "Regular Expression Matching",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T12:32:11.270731"
+    },
     {
       "name": "Majority Element",
       "platform": "LeetCode",

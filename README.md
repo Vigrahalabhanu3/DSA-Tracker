@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 68 |
-| **🟢 Easy** | 31 (45.6%) |
-| **🟡 Medium** | 36 (52.9%) |
-| **🔴 Hard** | 3 (4.4%) |
+| **Total Problems Solved** | 70 |
+| **🟢 Easy** | 31 (44.3%) |
+| **🟡 Medium** | 37 (52.9%) |
+| **🔴 Hard** | 4 (5.7%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 81.82h |
+| **⏱️ Total Hours** | 83.78h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 15 |
+| LeetCode | 17 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,9 +30,9 @@
 |-------|-------|
 | Hashing | 8 |
 | Strings | 7 |
+| LinkedList | 6 |
 | Graphs | 6 |
-| LinkedList | 5 |
-| DynamicProgramming | 5 |
+| DynamicProgramming | 6 |
 | Trees | 4 |
 | Recursion | 4 |
 | Queue | 4 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Reorder List | 🟡 Medium | LinkedList | 2026-06-06 |
+| Regular Expression Matching | 🔴 Hard | DynamicProgramming | 2026-06-06 |
 | Majority Element | 🟢 Easy | Hashing | 2026-06-06 |
 | First Bad Version | 🟢 Easy | BinarySearch | 2026-06-06 |
 | String Compression | 🟡 Medium | Strings | 2026-06-06 |
-| Binary Tree Level Order Traversal | 🟢 Easy | Trees | 2026-06-06 |
-| Word Search | 🟡 Medium | Backtracking | 2026-06-06 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-06T08:31:06.143661
+**Last Updated**: 2026-06-06T12:32:11.270751
 **Last Active**: 2026-06-06
