@@ -1,11 +1,11 @@
 {
-  "totalProblems": 59,
-  "easySolved": 25,
+  "totalProblems": 61,
+  "easySolved": 27,
   "mediumSolved": 33,
   "hardSolved": 3,
   "streakDays": 1,
-  "totalHours": 78.17,
-  "lastUpdated": "2026-06-06T00:31:00.366573",
+  "totalHours": 79.25,
+  "lastUpdated": "2026-06-06T00:31:03.654095",
   "topicStats": {
     "Arrays": 1,
     "Strings": 5,
@@ -13,14 +13,14 @@
     "Trees": 3,
     "Graphs": 6,
     "DynamicProgramming": 5,
-    "BinarySearch": 1,
+    "BinarySearch": 2,
     "Sorting": 2,
     "Hashing": 7,
     "Recursion": 4,
     "Stack": 3,
     "Queue": 3,
     "Heap": 1,
-    "Greedy": 3,
+    "Greedy": 4,
     "Backtracking": 2,
     "stacks": 1,
     "queues": 1
@@ -39,7 +39,7 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 48
+      "solved": 50
     }
   },
   "weeklyActivity": {
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Assign Cookies",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T00:31:03.654086"
+    },
+    {
+      "name": "First Bad Version",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T00:31:03.654078"
+    },
     {
       "name": "String Compression",
       "platform": "leetcode",
