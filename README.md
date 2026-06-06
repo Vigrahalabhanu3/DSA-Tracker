@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 70 |
-| **🟢 Easy** | 31 (44.3%) |
-| **🟡 Medium** | 37 (52.9%) |
-| **🔴 Hard** | 4 (5.7%) |
+| **Total Problems Solved** | 73 |
+| **🟢 Easy** | 32 (43.8%) |
+| **🟡 Medium** | 39 (53.4%) |
+| **🔴 Hard** | 4 (5.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 83.78h |
+| **⏱️ Total Hours** | 84.62h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 17 |
+| LeetCode | 20 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,25 +30,25 @@
 |-------|-------|
 | Hashing | 8 |
 | Strings | 7 |
+| DynamicProgramming | 7 |
 | LinkedList | 6 |
 | Graphs | 6 |
-| DynamicProgramming | 6 |
 | Trees | 4 |
 | Recursion | 4 |
 | Queue | 4 |
 | Greedy | 4 |
-| BinarySearch | 3 |
+| Backtracking | 4 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-06 |
+| Combinations | 🟡 Medium | Backtracking | 2026-06-06 |
+| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-06 |
 | Reorder List | 🟡 Medium | LinkedList | 2026-06-06 |
 | Regular Expression Matching | 🔴 Hard | DynamicProgramming | 2026-06-06 |
-| Majority Element | 🟢 Easy | Hashing | 2026-06-06 |
-| First Bad Version | 🟢 Easy | BinarySearch | 2026-06-06 |
-| String Compression | 🟡 Medium | Strings | 2026-06-06 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-06T12:32:11.270751
+**Last Updated**: 2026-06-06T18:31:24.817007
 **Last Active**: 2026-06-06

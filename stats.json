@@ -1,18 +1,18 @@
 {
-  "totalProblems": 70,
-  "easySolved": 31,
-  "mediumSolved": 37,
+  "totalProblems": 73,
+  "easySolved": 32,
+  "mediumSolved": 39,
   "hardSolved": 4,
   "streakDays": 1,
-  "totalHours": 83.78,
-  "lastUpdated": "2026-06-06T12:32:11.270751",
+  "totalHours": 84.62,
+  "lastUpdated": "2026-06-06T18:31:24.817007",
   "topicStats": {
-    "Arrays": 1,
+    "Arrays": 2,
     "Strings": 7,
     "LinkedList": 6,
     "Trees": 4,
     "Graphs": 6,
-    "DynamicProgramming": 6,
+    "DynamicProgramming": 7,
     "BinarySearch": 3,
     "Sorting": 2,
     "Hashing": 8,
@@ -21,13 +21,13 @@
     "Queue": 4,
     "Heap": 1,
     "Greedy": 4,
-    "Backtracking": 3,
+    "Backtracking": 4,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 17
+      "solved": 20
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T18:31:24.817000"
+    },
+    {
+      "name": "Combinations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T18:31:24.816996"
+    },
+    {
+      "name": "Contains Duplicate",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T18:31:24.816988"
+    },
     {
       "name": "Reorder List",
       "platform": "LeetCode",
@@ -261,30 +285,6 @@
       "topic": "Strings",
       "date": "2026-06-02",
       "solvedAt": "2026-06-02T08:31:10.339981"
-    },
-    {
-      "name": "Climbing Stairs",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T08:31:10.339975"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T04:31:07.973550"
-    },
-    {
-      "name": "Add Two Numbers",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T04:31:07.973537"
     }
   ],
   "lastActive": "2026-06-06",
