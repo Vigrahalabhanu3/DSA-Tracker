@@ -1,16 +1,16 @@
 {
-  "totalProblems": 63,
-  "easySolved": 28,
-  "mediumSolved": 34,
+  "totalProblems": 66,
+  "easySolved": 29,
+  "mediumSolved": 36,
   "hardSolved": 3,
   "streakDays": 1,
-  "totalHours": 79.84,
-  "lastUpdated": "2026-06-06T00:31:37.683767",
+  "totalHours": 80.88,
+  "lastUpdated": "2026-06-06T04:31:08.472270",
   "topicStats": {
     "Arrays": 1,
-    "Strings": 6,
+    "Strings": 7,
     "LinkedList": 5,
-    "Trees": 3,
+    "Trees": 4,
     "Graphs": 6,
     "DynamicProgramming": 5,
     "BinarySearch": 2,
@@ -21,13 +21,13 @@
     "Queue": 4,
     "Heap": 1,
     "Greedy": 4,
-    "Backtracking": 2,
+    "Backtracking": 3,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 10
+      "solved": 13
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "String Compression",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T04:31:08.472263"
+    },
+    {
+      "name": "Binary Tree Level Order Traversal",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T04:31:08.472261"
+    },
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T04:31:08.472255"
+    },
     {
       "name": "Longest Substring Without Repeating",
       "platform": "LeetCode",

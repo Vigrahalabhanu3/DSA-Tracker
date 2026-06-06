@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 63 |
-| **🟢 Easy** | 28 (44.4%) |
-| **🟡 Medium** | 34 (54.0%) |
-| **🔴 Hard** | 3 (4.8%) |
+| **Total Problems Solved** | 66 |
+| **🟢 Easy** | 29 (43.9%) |
+| **🟡 Medium** | 36 (54.5%) |
+| **🔴 Hard** | 3 (4.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 79.84h |
+| **⏱️ Total Hours** | 80.88h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 10 |
+| LeetCode | 13 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,15 +28,15 @@
 
 | Topic | Count |
 |-------|-------|
+| Strings | 7 |
 | Hashing | 7 |
-| Strings | 6 |
 | Graphs | 6 |
 | LinkedList | 5 |
 | DynamicProgramming | 5 |
+| Trees | 4 |
 | Recursion | 4 |
 | Queue | 4 |
 | Greedy | 4 |
-| Trees | 3 |
 | Stack | 3 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| String Compression | 🟡 Medium | Strings | 2026-06-06 |
+| Binary Tree Level Order Traversal | 🟢 Easy | Trees | 2026-06-06 |
+| Word Search | 🟡 Medium | Backtracking | 2026-06-06 |
 | Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-06 |
 | Implement Queue Using Stacks | 🟢 Easy | Queue | 2026-06-06 |
-| Assign Cookies | 🟢 Easy | Greedy | 2026-06-06 |
-| First Bad Version | 🟢 Easy | BinarySearch | 2026-06-06 |
-| String Compression | 🟡 Medium | Strings | 2026-06-06 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-06T00:31:37.683767
+**Last Updated**: 2026-06-06T04:31:08.472270
 **Last Active**: 2026-06-06
