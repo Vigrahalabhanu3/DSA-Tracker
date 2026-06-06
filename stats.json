@@ -1,18 +1,18 @@
 {
-  "totalProblems": 56,
-  "easySolved": 24,
-  "mediumSolved": 31,
+  "totalProblems": 59,
+  "easySolved": 25,
+  "mediumSolved": 33,
   "hardSolved": 3,
   "streakDays": 1,
-  "totalHours": 76.52,
-  "lastUpdated": "2026-06-05T18:32:12.236290",
+  "totalHours": 78.17,
+  "lastUpdated": "2026-06-06T00:31:00.366573",
   "topicStats": {
     "Arrays": 1,
-    "Strings": 4,
-    "LinkedList": 4,
+    "Strings": 5,
+    "LinkedList": 5,
     "Trees": 3,
     "Graphs": 6,
-    "DynamicProgramming": 4,
+    "DynamicProgramming": 5,
     "BinarySearch": 1,
     "Sorting": 2,
     "Hashing": 7,
@@ -39,7 +39,7 @@
       "solved": 0
     },
     "leetcode": {
-      "solved": 45
+      "solved": 48
     }
   },
   "weeklyActivity": {
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "String Compression",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T00:31:00.366564"
+    },
+    {
+      "name": "Longest Increasing Subsequence",
+      "platform": "leetcode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T00:31:00.366561"
+    },
+    {
+      "name": "Merge Two Sorted Lists",
+      "platform": "leetcode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T00:31:00.366552"
+    },
     {
       "name": "Number of Islands",
       "platform": "leetcode",
@@ -175,6 +199,6 @@
       "solvedAt": "2026-06-02T04:31:07.973537"
     }
   ],
-  "lastActive": "2026-06-05",
+  "lastActive": "2026-06-06",
   "totalSolved": 41
 }
