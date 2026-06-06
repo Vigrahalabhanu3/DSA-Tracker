@@ -1,75 +1,79 @@
-# DSA Tracker — Data Structures & Algorithms Progress
+# 📊 DSA Tracker — Data Structures & Algorithms Progress
 
 > Automated daily DSA progress tracking with GitHub integration
 
-## 📊 Overall Statistics
+## 🎯 Overall Statistics
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 61 |
-| **🟢 Easy** | 27 (44.3%) |
-| **🟡 Medium** | 33 (54.1%) |
-| **🔴 Hard** | 3 (4.9%) |
+| **Total Problems Solved** | 63 |
+| **🟢 Easy** | 28 (44.4%) |
+| **🟡 Medium** | 34 (54.0%) |
+| **🔴 Hard** | 3 (4.8%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 79.25h |
-| **📅 Last Updated** | 2026-06-06T00:31:03.654095 |
-
-## 📈 Difficulty Distribution
-
-```
-Easy:   ████████░░░░░░░░░░░░ 44.3%
-Medium: ██████████░░░░░░░░░░ 54.1%
-Hard:   ░░░░░░░░░░░░░░░░░░░░ 4.9%
-```
-
-## 🎯 Topic-wise Progress
-
-- **Hashing**: 7 problems
-- **Graphs**: 6 problems
-- **Strings**: 5 problems
-- **LinkedList**: 5 problems
-- **DynamicProgramming**: 5 problems
-- **Recursion**: 4 problems
-- **Greedy**: 4 problems
-- **Trees**: 3 problems
-- **Stack**: 3 problems
-- **Queue**: 3 problems
-- **BinarySearch**: 2 problems
-- **Sorting**: 2 problems
-- **Backtracking**: 2 problems
-- **Arrays**: 1 problems
-- **Heap**: 1 problems
-- **stacks**: 1 problems
-- **queues**: 1 problems
+| **⏱️ Total Hours** | 79.84h |
 
 ## 🏆 Platform Statistics
 
-- **LeetCode**: 8 solved
-- **CodeForces**: 0 solved
-- **GeeksForGeeks**: 0 solved
-- **CodeChef**: 0 solved
-- **leetcode**: 50 solved
+| Platform | Solved |
+|----------|--------|
+| LeetCode | 10 |
+| CodeForces | 0 |
+| GeeksForGeeks | 0 |
+| CodeChef | 0 |
+| leetcode | 50 |
 
-## 📝 Recent Problems
 
-- **Assign Cookies** 🟢 (Greedy)
-- **First Bad Version** 🟢 (BinarySearch)
-- **String Compression** 🟡 (Strings)
-- **Longest Increasing Subsequence** 🟡 (DynamicProgramming)
-- **Merge Two Sorted Lists** 🟢 (LinkedList)
-- **Number of Islands** 🟡 (Graphs)
-- **Top K Frequent Elements** 🟡 (Hashing)
-- **Reverse String** 🟢 (Recursion)
-- **Merge K Sorted Lists** 🔴 (Heap)
-- **Implement Queue Using Stacks** 🟢 (Queue)
+## 📚 Topic Mastery (Top 10)
 
-## 🚀 Progress Tracking
+| Topic | Count |
+|-------|-------|
+| Hashing | 7 |
+| Strings | 6 |
+| Graphs | 6 |
+| LinkedList | 5 |
+| DynamicProgramming | 5 |
+| Recursion | 4 |
+| Queue | 4 |
+| Greedy | 4 |
+| Trees | 3 |
+| Stack | 3 |
 
-This repository uses automated daily updates to track DSA practice:
-- **5 daily sessions**: Morning, Midday, Afternoon, Evening, Midnight
-- **Real commits**: Every session creates meaningful GitHub activity
-- **Smart tracking**: Difficulty-aware problem selection
-- **Streak maintenance**: Consistent daily practice
+
+## 🚀 Recent Solved Problems
+
+| Problem | Difficulty | Topic | Date |
+|---------|-----------|-------|------|
+| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-06 |
+| Implement Queue Using Stacks | 🟢 Easy | Queue | 2026-06-06 |
+| Assign Cookies | 🟢 Easy | Greedy | 2026-06-06 |
+| First Bad Version | 🟢 Easy | BinarySearch | 2026-06-06 |
+| String Compression | 🟡 Medium | Strings | 2026-06-06 |
+
+
+## 📁 Repository Structure
+
+```
+DSA-Tracker/
+├── README.md           # This file
+├── stats.json          # Aggregated statistics
+├── daily/              # Daily progress logs
+├── solved/             # Solved problem solutions
+├── notes/              # Topic-wise notes
+├── leetcode/           # LeetCode specific
+├── codeforces/         # Codeforces specific
+├── gfg/                # GeeksforGeeks specific
+└── codechef/           # CodeChef specific
+```
+
+## 🤖 Automation
+
+This repository is maintained by an AI-powered automated DSA progress tracker running:
+- **5 times daily**: 12:00 AM, 6:00 AM, 10:00 AM, 2:00 PM, 6:00 PM (IST)
+- **Automatic updates**: Daily logs, statistics, README dashboard
+- **Real commits**: Meaningful progress tracking without spam
 
 ---
-*Maintained by [DSA Tracker Automation](https://base44.com) — Automated at 2026-06-06T00:31:03.654803*
+
+**Last Updated**: 2026-06-06T00:31:37.683767
+**Last Active**: 2026-06-06

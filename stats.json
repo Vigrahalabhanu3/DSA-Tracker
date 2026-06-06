@@ -1,14 +1,14 @@
 {
-  "totalProblems": 61,
-  "easySolved": 27,
-  "mediumSolved": 33,
+  "totalProblems": 63,
+  "easySolved": 28,
+  "mediumSolved": 34,
   "hardSolved": 3,
   "streakDays": 1,
-  "totalHours": 79.25,
-  "lastUpdated": "2026-06-06T00:31:03.654095",
+  "totalHours": 79.84,
+  "lastUpdated": "2026-06-06T00:31:37.683767",
   "topicStats": {
     "Arrays": 1,
-    "Strings": 5,
+    "Strings": 6,
     "LinkedList": 5,
     "Trees": 3,
     "Graphs": 6,
@@ -18,7 +18,7 @@
     "Hashing": 7,
     "Recursion": 4,
     "Stack": 3,
-    "Queue": 3,
+    "Queue": 4,
     "Heap": 1,
     "Greedy": 4,
     "Backtracking": 2,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 8
+      "solved": 10
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Longest Substring Without Repeating",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T00:31:37.683758"
+    },
+    {
+      "name": "Implement Queue Using Stacks",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-06",
+      "solvedAt": "2026-06-06T00:31:37.683750"
+    },
     {
       "name": "Assign Cookies",
       "platform": "leetcode",
