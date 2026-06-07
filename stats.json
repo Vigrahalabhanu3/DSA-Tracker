@@ -1,11 +1,11 @@
 {
-  "totalProblems": 76,
-  "easySolved": 33,
-  "mediumSolved": 41,
+  "totalProblems": 78,
+  "easySolved": 34,
+  "mediumSolved": 42,
   "hardSolved": 4,
   "streakDays": 1,
-  "totalHours": 86.6,
-  "lastUpdated": "2026-06-07T00:30:57.035707",
+  "totalHours": 87.75,
+  "lastUpdated": "2026-06-07T04:31:08.569553",
   "topicStats": {
     "Arrays": 2,
     "Strings": 8,
@@ -15,19 +15,19 @@
     "DynamicProgramming": 7,
     "BinarySearch": 3,
     "Sorting": 2,
-    "Hashing": 8,
+    "Hashing": 9,
     "Recursion": 4,
     "Stack": 3,
     "Queue": 5,
     "Heap": 1,
-    "Greedy": 5,
+    "Greedy": 6,
     "Backtracking": 4,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 23
+      "solved": 25
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T04:31:08.569543"
+    },
+    {
+      "name": "Majority Element",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T04:31:08.569532"
+    },
     {
       "name": "Longest Substring Without Repeating",
       "platform": "LeetCode",
@@ -269,22 +285,6 @@
       "platform": "LeetCode",
       "difficulty": "Medium",
       "topic": "Hashing"
-    },
-    {
-      "name": "Longest Substring Without Repeating",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T12:33:26.932787"
-    },
-    {
-      "name": "Course Schedule",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T12:33:26.932783"
     }
   ],
   "lastActive": "2026-06-07",
