@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 73 |
-| **🟢 Easy** | 32 (43.8%) |
-| **🟡 Medium** | 39 (53.4%) |
-| **🔴 Hard** | 4 (5.5%) |
+| **Total Problems Solved** | 76 |
+| **🟢 Easy** | 33 (43.4%) |
+| **🟡 Medium** | 41 (53.9%) |
+| **🔴 Hard** | 4 (5.3%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 84.62h |
+| **⏱️ Total Hours** | 86.60h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 20 |
+| LeetCode | 23 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,15 +28,15 @@
 
 | Topic | Count |
 |-------|-------|
+| Strings | 8 |
 | Hashing | 8 |
-| Strings | 7 |
 | DynamicProgramming | 7 |
 | LinkedList | 6 |
 | Graphs | 6 |
+| Queue | 5 |
+| Greedy | 5 |
 | Trees | 4 |
 | Recursion | 4 |
-| Queue | 4 |
-| Greedy | 4 |
 | Backtracking | 4 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-07 |
+| Assign Cookies | 🟢 Easy | Greedy | 2026-06-07 |
+| Task Scheduler | 🟡 Medium | Queue | 2026-06-07 |
 | House Robber | 🟡 Medium | DynamicProgramming | 2026-06-06 |
 | Combinations | 🟡 Medium | Backtracking | 2026-06-06 |
-| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-06 |
-| Reorder List | 🟡 Medium | LinkedList | 2026-06-06 |
-| Regular Expression Matching | 🔴 Hard | DynamicProgramming | 2026-06-06 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-06T18:31:24.817007
-**Last Active**: 2026-06-06
+**Last Updated**: 2026-06-07T00:30:57.035707
+**Last Active**: 2026-06-07

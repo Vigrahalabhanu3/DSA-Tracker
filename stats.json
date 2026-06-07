@@ -1,14 +1,14 @@
 {
-  "totalProblems": 73,
-  "easySolved": 32,
-  "mediumSolved": 39,
+  "totalProblems": 76,
+  "easySolved": 33,
+  "mediumSolved": 41,
   "hardSolved": 4,
   "streakDays": 1,
-  "totalHours": 84.62,
-  "lastUpdated": "2026-06-06T18:31:24.817007",
+  "totalHours": 86.6,
+  "lastUpdated": "2026-06-07T00:30:57.035707",
   "topicStats": {
     "Arrays": 2,
-    "Strings": 7,
+    "Strings": 8,
     "LinkedList": 6,
     "Trees": 4,
     "Graphs": 6,
@@ -18,16 +18,16 @@
     "Hashing": 8,
     "Recursion": 4,
     "Stack": 3,
-    "Queue": 4,
+    "Queue": 5,
     "Heap": 1,
-    "Greedy": 4,
+    "Greedy": 5,
     "Backtracking": 4,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 20
+      "solved": 23
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Longest Substring Without Repeating",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T00:30:57.035685"
+    },
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T00:30:57.035680"
+    },
+    {
+      "name": "Task Scheduler",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Queue",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T00:30:57.035666"
+    },
     {
       "name": "House Robber",
       "platform": "LeetCode",
@@ -261,32 +285,8 @@
       "topic": "Graphs",
       "date": "2026-06-02",
       "solvedAt": "2026-06-02T12:33:26.932783"
-    },
-    {
-      "name": "Reorder List",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T12:33:26.932774"
-    },
-    {
-      "name": "Implement Stack Using Queues",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T08:31:10.339983"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-06-02",
-      "solvedAt": "2026-06-02T08:31:10.339981"
     }
   ],
-  "lastActive": "2026-06-06",
+  "lastActive": "2026-06-07",
   "totalSolved": 41
 }
