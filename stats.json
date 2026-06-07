@@ -1,20 +1,20 @@
 {
-  "totalProblems": 78,
-  "easySolved": 34,
-  "mediumSolved": 42,
+  "totalProblems": 81,
+  "easySolved": 35,
+  "mediumSolved": 44,
   "hardSolved": 4,
   "streakDays": 1,
-  "totalHours": 87.75,
-  "lastUpdated": "2026-06-07T04:31:08.569553",
+  "totalHours": 88.78,
+  "lastUpdated": "2026-06-07T08:31:10.797783",
   "topicStats": {
     "Arrays": 2,
-    "Strings": 8,
+    "Strings": 9,
     "LinkedList": 6,
-    "Trees": 4,
+    "Trees": 5,
     "Graphs": 6,
     "DynamicProgramming": 7,
     "BinarySearch": 3,
-    "Sorting": 2,
+    "Sorting": 3,
     "Hashing": 9,
     "Recursion": 4,
     "Stack": 3,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 25
+      "solved": 28
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Binary Tree Level Order Traversal",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T08:31:10.797773"
+    },
+    {
+      "name": "String Compression",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T08:31:10.797770"
+    },
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T08:31:10.797760"
+    },
     {
       "name": "Island Perimeter",
       "platform": "LeetCode",
@@ -265,26 +289,6 @@
       "topic": "Queue",
       "date": "2026-06-03",
       "solvedAt": "2026-06-03T08:31:16.601536"
-    },
-    {
-      "name": "Merge Intervals",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-03",
-      "solvedAt": "2026-06-03T08:31:16.601527"
-    },
-    {
-      "name": "Rotate Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays"
-    },
-    {
-      "name": "Subarray Sum Equals K",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing"
     }
   ],
   "lastActive": "2026-06-07",
