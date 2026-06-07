@@ -1,11 +1,11 @@
 {
-  "totalProblems": 81,
-  "easySolved": 35,
-  "mediumSolved": 44,
-  "hardSolved": 4,
+  "totalProblems": 84,
+  "easySolved": 36,
+  "mediumSolved": 45,
+  "hardSolved": 5,
   "streakDays": 1,
-  "totalHours": 88.78,
-  "lastUpdated": "2026-06-07T08:31:10.797783",
+  "totalHours": 89.63,
+  "lastUpdated": "2026-06-07T12:32:11.261385",
   "topicStats": {
     "Arrays": 2,
     "Strings": 9,
@@ -14,20 +14,20 @@
     "Graphs": 6,
     "DynamicProgramming": 7,
     "BinarySearch": 3,
-    "Sorting": 3,
+    "Sorting": 4,
     "Hashing": 9,
     "Recursion": 4,
-    "Stack": 3,
+    "Stack": 4,
     "Queue": 5,
     "Heap": 1,
     "Greedy": 6,
-    "Backtracking": 4,
+    "Backtracking": 5,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 28
+      "solved": 31
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T12:32:11.261372"
+    },
+    {
+      "name": "Min Stack",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T12:32:11.261369"
+    },
+    {
+      "name": "N-Queens",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Backtracking",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T12:32:11.261355"
+    },
     {
       "name": "Binary Tree Level Order Traversal",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Hashing",
       "date": "2026-06-05",
       "solvedAt": "2026-06-05T18:32:12.236269"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-05",
-      "solvedAt": "2026-06-05T00:30:59.108872"
-    },
-    {
-      "name": "Merge K Sorted Lists",
-      "platform": "leetcode",
-      "difficulty": "Hard",
-      "topic": "Heap",
-      "date": "2026-06-03",
-      "solvedAt": "2026-06-03T08:31:16.601539"
-    },
-    {
-      "name": "Implement Queue Using Stacks",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-03",
-      "solvedAt": "2026-06-03T08:31:16.601536"
     }
   ],
   "lastActive": "2026-06-07",

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 81 |
-| **🟢 Easy** | 35 (43.2%) |
-| **🟡 Medium** | 44 (54.3%) |
-| **🔴 Hard** | 4 (4.9%) |
+| **Total Problems Solved** | 84 |
+| **🟢 Easy** | 36 (42.9%) |
+| **🟡 Medium** | 45 (53.6%) |
+| **🔴 Hard** | 5 (6.0%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 88.78h |
+| **⏱️ Total Hours** | 89.63h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 28 |
+| LeetCode | 31 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -36,19 +36,19 @@
 | Greedy | 6 |
 | Trees | 5 |
 | Queue | 5 |
-| Recursion | 4 |
-| Backtracking | 4 |
+| Backtracking | 5 |
+| Sorting | 4 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-07 |
+| Min Stack | 🟢 Easy | Stack | 2026-06-07 |
+| N-Queens | 🔴 Hard | Backtracking | 2026-06-07 |
 | Binary Tree Level Order Traversal | 🟢 Easy | Trees | 2026-06-07 |
 | String Compression | 🟡 Medium | Strings | 2026-06-07 |
-| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-07 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-07 |
-| Majority Element | 🟢 Easy | Hashing | 2026-06-07 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-07T08:31:10.797783
+**Last Updated**: 2026-06-07T12:32:11.261385
 **Last Active**: 2026-06-07
