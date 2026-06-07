@@ -1,18 +1,18 @@
 {
-  "totalProblems": 84,
+  "totalProblems": 86,
   "easySolved": 36,
-  "mediumSolved": 45,
-  "hardSolved": 5,
+  "mediumSolved": 46,
+  "hardSolved": 6,
   "streakDays": 1,
-  "totalHours": 89.63,
-  "lastUpdated": "2026-06-07T12:32:11.261385",
+  "totalHours": 90.27,
+  "lastUpdated": "2026-06-07T18:31:21.450007",
   "topicStats": {
     "Arrays": 2,
-    "Strings": 9,
+    "Strings": 10,
     "LinkedList": 6,
     "Trees": 5,
     "Graphs": 6,
-    "DynamicProgramming": 7,
+    "DynamicProgramming": 8,
     "BinarySearch": 3,
     "Sorting": 4,
     "Hashing": 9,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 31
+      "solved": 33
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Longest Substring Without Repeating",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T18:31:21.449998"
+    },
+    {
+      "name": "Regular Expression Matching",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-07",
+      "solvedAt": "2026-06-07T18:31:21.449987"
+    },
     {
       "name": "Kth Largest Element",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "LinkedList",
       "date": "2026-06-06",
       "solvedAt": "2026-06-06T00:31:00.366552"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-05",
-      "solvedAt": "2026-06-05T18:32:12.236279"
-    },
-    {
-      "name": "Top K Frequent Elements",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-06-05",
-      "solvedAt": "2026-06-05T18:32:12.236269"
     }
   ],
   "lastActive": "2026-06-07",

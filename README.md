@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 84 |
-| **🟢 Easy** | 36 (42.9%) |
-| **🟡 Medium** | 45 (53.6%) |
-| **🔴 Hard** | 5 (6.0%) |
+| **Total Problems Solved** | 86 |
+| **🟢 Easy** | 36 (41.9%) |
+| **🟡 Medium** | 46 (53.5%) |
+| **🔴 Hard** | 6 (7.0%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 89.63h |
+| **⏱️ Total Hours** | 90.27h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 31 |
+| LeetCode | 33 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,9 +28,9 @@
 
 | Topic | Count |
 |-------|-------|
-| Strings | 9 |
+| Strings | 10 |
 | Hashing | 9 |
-| DynamicProgramming | 7 |
+| DynamicProgramming | 8 |
 | LinkedList | 6 |
 | Graphs | 6 |
 | Greedy | 6 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-07 |
+| Regular Expression Matching | 🔴 Hard | DynamicProgramming | 2026-06-07 |
 | Kth Largest Element | 🟡 Medium | Sorting | 2026-06-07 |
 | Min Stack | 🟢 Easy | Stack | 2026-06-07 |
 | N-Queens | 🔴 Hard | Backtracking | 2026-06-07 |
-| Binary Tree Level Order Traversal | 🟢 Easy | Trees | 2026-06-07 |
-| String Compression | 🟡 Medium | Strings | 2026-06-07 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-07T12:32:11.261385
+**Last Updated**: 2026-06-07T18:31:21.450007
 **Last Active**: 2026-06-07
