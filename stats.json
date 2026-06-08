@@ -1,11 +1,11 @@
 {
-  "totalProblems": 89,
+  "totalProblems": 92,
   "easySolved": 36,
-  "mediumSolved": 49,
+  "mediumSolved": 52,
   "hardSolved": 6,
   "streakDays": 1,
-  "totalHours": 91.46,
-  "lastUpdated": "2026-06-08T00:31:08.747047",
+  "totalHours": 92.52,
+  "lastUpdated": "2026-06-08T04:31:10.698725",
   "topicStats": {
     "Arrays": 2,
     "Strings": 10,
@@ -14,20 +14,20 @@
     "Graphs": 6,
     "DynamicProgramming": 8,
     "BinarySearch": 3,
-    "Sorting": 4,
+    "Sorting": 5,
     "Hashing": 9,
     "Recursion": 4,
     "Stack": 4,
     "Queue": 5,
-    "Heap": 2,
+    "Heap": 3,
     "Greedy": 6,
-    "Backtracking": 5,
+    "Backtracking": 6,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 36
+      "solved": 39
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T04:31:10.698716"
+    },
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T04:31:10.698713"
+    },
+    {
+      "name": "Sort Colors",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T04:31:10.698702"
+    },
     {
       "name": "Lowest Common Ancestor",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Strings",
       "date": "2026-06-06",
       "solvedAt": "2026-06-06T00:31:37.683758"
-    },
-    {
-      "name": "Implement Queue Using Stacks",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T00:31:37.683750"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T00:31:03.654086"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T00:31:03.654078"
     }
   ],
   "lastActive": "2026-06-08",

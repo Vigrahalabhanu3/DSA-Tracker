@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 89 |
-| **🟢 Easy** | 36 (40.4%) |
-| **🟡 Medium** | 49 (55.1%) |
-| **🔴 Hard** | 6 (6.7%) |
+| **Total Problems Solved** | 92 |
+| **🟢 Easy** | 36 (39.1%) |
+| **🟡 Medium** | 52 (56.5%) |
+| **🔴 Hard** | 6 (6.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 91.46h |
+| **⏱️ Total Hours** | 92.52h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 36 |
+| LeetCode | 39 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -35,20 +35,20 @@
 | Trees | 6 |
 | Graphs | 6 |
 | Greedy | 6 |
+| Backtracking | 6 |
+| Sorting | 5 |
 | Queue | 5 |
-| Backtracking | 5 |
-| Sorting | 4 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Min Heap | 🟡 Medium | Heap | 2026-06-08 |
+| Word Search | 🟡 Medium | Backtracking | 2026-06-08 |
+| Sort Colors | 🟡 Medium | Sorting | 2026-06-08 |
 | Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-08 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-08 |
-| Add Two Numbers | 🟡 Medium | LinkedList | 2026-06-08 |
-| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-07 |
-| Regular Expression Matching | 🔴 Hard | DynamicProgramming | 2026-06-07 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-08T00:31:08.747047
+**Last Updated**: 2026-06-08T04:31:10.698725
 **Last Active**: 2026-06-08
