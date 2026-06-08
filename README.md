@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 97 |
-| **🟢 Easy** | 38 (39.2%) |
-| **🟡 Medium** | 54 (55.7%) |
-| **🔴 Hard** | 7 (7.2%) |
+| **Total Problems Solved** | 100 |
+| **🟢 Easy** | 38 (38.0%) |
+| **🟡 Medium** | 57 (57.0%) |
+| **🔴 Hard** | 7 (7.0%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 94.52h |
+| **⏱️ Total Hours** | 96.24h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 44 |
+| LeetCode | 47 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,13 +28,13 @@
 
 | Topic | Count |
 |-------|-------|
-| Strings | 10 |
+| Strings | 11 |
 | Hashing | 9 |
 | Trees | 8 |
 | DynamicProgramming | 8 |
+| Backtracking | 8 |
 | LinkedList | 7 |
-| Backtracking | 7 |
-| Graphs | 6 |
+| Graphs | 7 |
 | Queue | 6 |
 | Greedy | 6 |
 | Sorting | 5 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Topological Sort | 🟡 Medium | Graphs | 2026-06-08 |
+| Word Search | 🟡 Medium | Backtracking | 2026-06-08 |
+| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-08 |
 | Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-08 |
 | N-Queens | 🔴 Hard | Backtracking | 2026-06-08 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-08 |
-| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-08 |
-| Number of Recent Calls | 🟢 Easy | Queue | 2026-06-08 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-08T12:32:05.127952
+**Last Updated**: 2026-06-08T18:31:29.498855
 **Last Active**: 2026-06-08

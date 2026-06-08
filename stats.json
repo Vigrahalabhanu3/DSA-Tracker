@@ -1,17 +1,17 @@
 {
-  "totalProblems": 97,
+  "totalProblems": 100,
   "easySolved": 38,
-  "mediumSolved": 54,
+  "mediumSolved": 57,
   "hardSolved": 7,
   "streakDays": 1,
-  "totalHours": 94.52,
-  "lastUpdated": "2026-06-08T12:32:05.127952",
+  "totalHours": 96.24,
+  "lastUpdated": "2026-06-08T18:31:29.498855",
   "topicStats": {
     "Arrays": 2,
-    "Strings": 10,
+    "Strings": 11,
     "LinkedList": 7,
     "Trees": 8,
-    "Graphs": 6,
+    "Graphs": 7,
     "DynamicProgramming": 8,
     "BinarySearch": 3,
     "Sorting": 5,
@@ -21,13 +21,13 @@
     "Queue": 6,
     "Heap": 4,
     "Greedy": 6,
-    "Backtracking": 7,
+    "Backtracking": 8,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 44
+      "solved": 47
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Topological Sort",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T18:31:29.498846"
+    },
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T18:31:29.498843"
+    },
+    {
+      "name": "Longest Substring Without Repeating",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T18:31:29.498834"
+    },
     {
       "name": "Lowest Common Ancestor",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Arrays",
       "date": "2026-06-06",
       "solvedAt": "2026-06-06T18:31:24.816988"
-    },
-    {
-      "name": "Reorder List",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T12:32:11.270741"
-    },
-    {
-      "name": "Regular Expression Matching",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T12:32:11.270731"
-    },
-    {
-      "name": "Majority Element",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T08:31:06.143648"
     }
   ],
   "lastActive": "2026-06-08",
