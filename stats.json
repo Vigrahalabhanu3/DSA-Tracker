@@ -1,16 +1,16 @@
 {
-  "totalProblems": 86,
+  "totalProblems": 89,
   "easySolved": 36,
-  "mediumSolved": 46,
+  "mediumSolved": 49,
   "hardSolved": 6,
   "streakDays": 1,
-  "totalHours": 90.27,
-  "lastUpdated": "2026-06-07T18:31:21.450007",
+  "totalHours": 91.46,
+  "lastUpdated": "2026-06-08T00:31:08.747047",
   "topicStats": {
     "Arrays": 2,
     "Strings": 10,
-    "LinkedList": 6,
-    "Trees": 5,
+    "LinkedList": 7,
+    "Trees": 6,
     "Graphs": 6,
     "DynamicProgramming": 8,
     "BinarySearch": 3,
@@ -19,7 +19,7 @@
     "Recursion": 4,
     "Stack": 4,
     "Queue": 5,
-    "Heap": 1,
+    "Heap": 2,
     "Greedy": 6,
     "Backtracking": 5,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 33
+      "solved": 36
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T00:31:08.747035"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T00:31:08.747032"
+    },
+    {
+      "name": "Add Two Numbers",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T00:31:08.747019"
+    },
     {
       "name": "Longest Substring Without Repeating",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "BinarySearch",
       "date": "2026-06-06",
       "solvedAt": "2026-06-06T00:31:03.654078"
-    },
-    {
-      "name": "String Compression",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T00:31:00.366564"
-    },
-    {
-      "name": "Longest Increasing Subsequence",
-      "platform": "leetcode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T00:31:00.366561"
-    },
-    {
-      "name": "Merge Two Sorted Lists",
-      "platform": "leetcode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T00:31:00.366552"
     }
   ],
-  "lastActive": "2026-06-07",
+  "lastActive": "2026-06-08",
   "totalSolved": 41
 }
