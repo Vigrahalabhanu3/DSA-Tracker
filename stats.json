@@ -1,16 +1,16 @@
 {
-  "totalProblems": 95,
+  "totalProblems": 97,
   "easySolved": 38,
-  "mediumSolved": 53,
-  "hardSolved": 6,
+  "mediumSolved": 54,
+  "hardSolved": 7,
   "streakDays": 1,
-  "totalHours": 93.38,
-  "lastUpdated": "2026-06-08T08:31:08.080457",
+  "totalHours": 94.52,
+  "lastUpdated": "2026-06-08T12:32:05.127952",
   "topicStats": {
     "Arrays": 2,
     "Strings": 10,
     "LinkedList": 7,
-    "Trees": 7,
+    "Trees": 8,
     "Graphs": 6,
     "DynamicProgramming": 8,
     "BinarySearch": 3,
@@ -21,13 +21,13 @@
     "Queue": 6,
     "Heap": 4,
     "Greedy": 6,
-    "Backtracking": 6,
+    "Backtracking": 7,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 42
+      "solved": 44
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T12:32:05.127939"
+    },
+    {
+      "name": "N-Queens",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Backtracking",
+      "date": "2026-06-08",
+      "solvedAt": "2026-06-08T12:32:05.127927"
+    },
     {
       "name": "Min Heap",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Hashing",
       "date": "2026-06-06",
       "solvedAt": "2026-06-06T08:31:06.143648"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T08:31:06.143637"
-    },
-    {
-      "name": "String Compression",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T04:31:08.472263"
     }
   ],
   "lastActive": "2026-06-08",
