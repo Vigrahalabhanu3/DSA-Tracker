@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 92 |
-| **🟢 Easy** | 36 (39.1%) |
-| **🟡 Medium** | 52 (56.5%) |
-| **🔴 Hard** | 6 (6.5%) |
+| **Total Problems Solved** | 95 |
+| **🟢 Easy** | 38 (40.0%) |
+| **🟡 Medium** | 53 (55.8%) |
+| **🔴 Hard** | 6 (6.3%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 92.52h |
+| **⏱️ Total Hours** | 93.38h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 39 |
+| LeetCode | 42 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -32,12 +32,12 @@
 | Hashing | 9 |
 | DynamicProgramming | 8 |
 | LinkedList | 7 |
-| Trees | 6 |
+| Trees | 7 |
 | Graphs | 6 |
+| Queue | 6 |
 | Greedy | 6 |
 | Backtracking | 6 |
 | Sorting | 5 |
-| Queue | 5 |
 
 
 ## 🚀 Recent Solved Problems
@@ -45,10 +45,10 @@
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
 | Min Heap | 🟡 Medium | Heap | 2026-06-08 |
-| Word Search | 🟡 Medium | Backtracking | 2026-06-08 |
-| Sort Colors | 🟡 Medium | Sorting | 2026-06-08 |
-| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-08 |
+| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-08 |
+| Number of Recent Calls | 🟢 Easy | Queue | 2026-06-08 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-08 |
+| Word Search | 🟡 Medium | Backtracking | 2026-06-08 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-08T04:31:10.698725
+**Last Updated**: 2026-06-08T08:31:08.080457
 **Last Active**: 2026-06-08
