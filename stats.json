@@ -1,19 +1,19 @@
 {
-  "totalProblems": 100,
-  "easySolved": 38,
-  "mediumSolved": 57,
+  "totalProblems": 102,
+  "easySolved": 39,
+  "mediumSolved": 58,
   "hardSolved": 7,
   "streakDays": 1,
-  "totalHours": 96.24,
-  "lastUpdated": "2026-06-08T18:31:29.498855",
+  "totalHours": 97.69,
+  "lastUpdated": "2026-06-09T00:30:53.433392",
   "topicStats": {
     "Arrays": 2,
     "Strings": 11,
     "LinkedList": 7,
     "Trees": 8,
     "Graphs": 7,
-    "DynamicProgramming": 8,
-    "BinarySearch": 3,
+    "DynamicProgramming": 9,
+    "BinarySearch": 4,
     "Sorting": 5,
     "Hashing": 9,
     "Recursion": 4,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 47
+      "solved": 49
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Climbing Stairs",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T00:30:53.433380"
+    },
+    {
+      "name": "Search in Rotated Sorted Array",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T00:30:53.433368"
+    },
     {
       "name": "Topological Sort",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "DynamicProgramming",
       "date": "2026-06-06",
       "solvedAt": "2026-06-06T18:31:24.817000"
-    },
-    {
-      "name": "Combinations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T18:31:24.816996"
-    },
-    {
-      "name": "Contains Duplicate",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T18:31:24.816988"
     }
   ],
-  "lastActive": "2026-06-08",
+  "lastActive": "2026-06-09",
   "totalSolved": 41
 }
