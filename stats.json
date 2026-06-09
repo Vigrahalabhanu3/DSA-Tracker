@@ -1,11 +1,11 @@
 {
-  "totalProblems": 106,
+  "totalProblems": 109,
   "easySolved": 39,
-  "mediumSolved": 61,
+  "mediumSolved": 64,
   "hardSolved": 8,
   "streakDays": 1,
-  "totalHours": 99.37,
-  "lastUpdated": "2026-06-09T08:31:09.051444",
+  "totalHours": 100.38,
+  "lastUpdated": "2026-06-09T12:32:09.269501",
   "topicStats": {
     "Arrays": 2,
     "Strings": 11,
@@ -17,17 +17,17 @@
     "Sorting": 6,
     "Hashing": 9,
     "Recursion": 4,
-    "Stack": 4,
+    "Stack": 5,
     "Queue": 6,
     "Heap": 6,
-    "Greedy": 6,
-    "Backtracking": 9,
+    "Greedy": 7,
+    "Backtracking": 10,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 53
+      "solved": 56
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Evaluate Reverse Polish Notation",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T12:32:09.269493"
+    },
+    {
+      "name": "Permutations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T12:32:09.269490"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T12:32:09.269480"
+    },
     {
       "name": "Min Heap",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Strings",
       "date": "2026-06-07",
       "solvedAt": "2026-06-07T08:31:10.797770"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T08:31:10.797760"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T04:31:08.569543"
-    },
-    {
-      "name": "Majority Element",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T04:31:08.569532"
     }
   ],
   "lastActive": "2026-06-09",
