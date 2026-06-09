@@ -1,11 +1,11 @@
 {
-  "totalProblems": 102,
+  "totalProblems": 104,
   "easySolved": 39,
-  "mediumSolved": 58,
-  "hardSolved": 7,
+  "mediumSolved": 59,
+  "hardSolved": 8,
   "streakDays": 1,
-  "totalHours": 97.69,
-  "lastUpdated": "2026-06-09T00:30:53.433392",
+  "totalHours": 98.85,
+  "lastUpdated": "2026-06-09T04:31:09.750889",
   "topicStats": {
     "Arrays": 2,
     "Strings": 11,
@@ -19,15 +19,15 @@
     "Recursion": 4,
     "Stack": 4,
     "Queue": 6,
-    "Heap": 4,
+    "Heap": 5,
     "Greedy": 6,
-    "Backtracking": 8,
+    "Backtracking": 9,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 49
+      "solved": 51
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "N-Queens",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Backtracking",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T04:31:09.750879"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T04:31:09.750869"
+    },
     {
       "name": "Climbing Stairs",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-07",
       "solvedAt": "2026-06-07T00:30:57.035680"
-    },
-    {
-      "name": "Task Scheduler",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Queue",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T00:30:57.035666"
-    },
-    {
-      "name": "House Robber",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-06",
-      "solvedAt": "2026-06-06T18:31:24.817000"
     }
   ],
   "lastActive": "2026-06-09",
