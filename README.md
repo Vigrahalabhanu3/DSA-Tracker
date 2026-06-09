@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 109 |
-| **🟢 Easy** | 39 (35.8%) |
-| **🟡 Medium** | 64 (58.7%) |
-| **🔴 Hard** | 8 (7.3%) |
+| **Total Problems Solved** | 112 |
+| **🟢 Easy** | 40 (35.7%) |
+| **🟡 Medium** | 66 (58.9%) |
+| **🔴 Hard** | 8 (7.1%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 100.38h |
+| **⏱️ Total Hours** | 101.83h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 56 |
+| LeetCode | 59 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,13 +29,13 @@
 | Topic | Count |
 |-------|-------|
 | Strings | 11 |
+| Hashing | 10 |
 | Backtracking | 10 |
 | DynamicProgramming | 9 |
-| Hashing | 9 |
+| LinkedList | 8 |
 | Trees | 8 |
-| LinkedList | 7 |
+| Greedy | 8 |
 | Graphs | 7 |
-| Greedy | 7 |
 | Sorting | 6 |
 | Queue | 6 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Group Anagrams | 🟡 Medium | Hashing | 2026-06-09 |
+| Island Perimeter | 🟡 Medium | Greedy | 2026-06-09 |
+| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-09 |
 | Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-09 |
 | Permutations | 🟡 Medium | Backtracking | 2026-06-09 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-09 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-09 |
-| Sort Colors | 🟡 Medium | Sorting | 2026-06-09 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-09T12:32:09.269501
+**Last Updated**: 2026-06-09T18:31:27.294560
 **Last Active**: 2026-06-09

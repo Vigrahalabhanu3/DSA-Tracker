@@ -1,33 +1,33 @@
 {
-  "totalProblems": 109,
-  "easySolved": 39,
-  "mediumSolved": 64,
+  "totalProblems": 112,
+  "easySolved": 40,
+  "mediumSolved": 66,
   "hardSolved": 8,
   "streakDays": 1,
-  "totalHours": 100.38,
-  "lastUpdated": "2026-06-09T12:32:09.269501",
+  "totalHours": 101.83,
+  "lastUpdated": "2026-06-09T18:31:27.294560",
   "topicStats": {
     "Arrays": 2,
     "Strings": 11,
-    "LinkedList": 7,
+    "LinkedList": 8,
     "Trees": 8,
     "Graphs": 7,
     "DynamicProgramming": 9,
     "BinarySearch": 4,
     "Sorting": 6,
-    "Hashing": 9,
+    "Hashing": 10,
     "Recursion": 4,
     "Stack": 5,
     "Queue": 6,
     "Heap": 6,
-    "Greedy": 7,
+    "Greedy": 8,
     "Backtracking": 10,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 56
+      "solved": 59
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Group Anagrams",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Hashing",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T18:31:27.294549"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T18:31:27.294545"
+    },
+    {
+      "name": "Merge Two Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T18:31:27.294535"
+    },
     {
       "name": "Evaluate Reverse Polish Notation",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Stack",
       "date": "2026-06-07",
       "solvedAt": "2026-06-07T12:32:11.261369"
-    },
-    {
-      "name": "N-Queens",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Backtracking",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T12:32:11.261355"
-    },
-    {
-      "name": "Binary Tree Level Order Traversal",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T08:31:10.797773"
-    },
-    {
-      "name": "String Compression",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T08:31:10.797770"
     }
   ],
   "lastActive": "2026-06-09",
