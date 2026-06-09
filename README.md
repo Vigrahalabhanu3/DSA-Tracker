@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 104 |
-| **🟢 Easy** | 39 (37.5%) |
-| **🟡 Medium** | 59 (56.7%) |
-| **🔴 Hard** | 8 (7.7%) |
+| **Total Problems Solved** | 106 |
+| **🟢 Easy** | 39 (36.8%) |
+| **🟡 Medium** | 61 (57.5%) |
+| **🔴 Hard** | 8 (7.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 98.85h |
+| **⏱️ Total Hours** | 99.37h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 51 |
+| LeetCode | 53 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -35,20 +35,20 @@
 | Trees | 8 |
 | LinkedList | 7 |
 | Graphs | 7 |
+| Sorting | 6 |
 | Queue | 6 |
-| Greedy | 6 |
-| Sorting | 5 |
+| Heap | 6 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Min Heap | 🟡 Medium | Heap | 2026-06-09 |
+| Sort Colors | 🟡 Medium | Sorting | 2026-06-09 |
 | N-Queens | 🔴 Hard | Backtracking | 2026-06-09 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-09 |
 | Climbing Stairs | 🟢 Easy | DynamicProgramming | 2026-06-09 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-09 |
-| Topological Sort | 🟡 Medium | Graphs | 2026-06-08 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-09T04:31:09.750889
+**Last Updated**: 2026-06-09T08:31:09.051444
 **Last Active**: 2026-06-09

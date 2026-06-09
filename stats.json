@@ -1,11 +1,11 @@
 {
-  "totalProblems": 104,
+  "totalProblems": 106,
   "easySolved": 39,
-  "mediumSolved": 59,
+  "mediumSolved": 61,
   "hardSolved": 8,
   "streakDays": 1,
-  "totalHours": 98.85,
-  "lastUpdated": "2026-06-09T04:31:09.750889",
+  "totalHours": 99.37,
+  "lastUpdated": "2026-06-09T08:31:09.051444",
   "topicStats": {
     "Arrays": 2,
     "Strings": 11,
@@ -14,12 +14,12 @@
     "Graphs": 7,
     "DynamicProgramming": 9,
     "BinarySearch": 4,
-    "Sorting": 5,
+    "Sorting": 6,
     "Hashing": 9,
     "Recursion": 4,
     "Stack": 4,
     "Queue": 6,
-    "Heap": 5,
+    "Heap": 6,
     "Greedy": 6,
     "Backtracking": 9,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 51
+      "solved": 53
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T08:31:09.051433"
+    },
+    {
+      "name": "Sort Colors",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-09",
+      "solvedAt": "2026-06-09T08:31:09.051420"
+    },
     {
       "name": "N-Queens",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Hashing",
       "date": "2026-06-07",
       "solvedAt": "2026-06-07T04:31:08.569532"
-    },
-    {
-      "name": "Longest Substring Without Repeating",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T00:30:57.035685"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T00:30:57.035680"
     }
   ],
   "lastActive": "2026-06-09",
