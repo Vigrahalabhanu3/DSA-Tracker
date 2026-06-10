@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 112 |
-| **🟢 Easy** | 40 (35.7%) |
-| **🟡 Medium** | 66 (58.9%) |
-| **🔴 Hard** | 8 (7.1%) |
+| **Total Problems Solved** | 114 |
+| **🟢 Easy** | 40 (35.1%) |
+| **🟡 Medium** | 68 (59.6%) |
+| **🔴 Hard** | 8 (7.0%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 101.83h |
+| **⏱️ Total Hours** | 102.99h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 59 |
+| LeetCode | 61 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,14 +29,14 @@
 | Topic | Count |
 |-------|-------|
 | Strings | 11 |
+| DynamicProgramming | 10 |
 | Hashing | 10 |
 | Backtracking | 10 |
-| DynamicProgramming | 9 |
 | LinkedList | 8 |
 | Trees | 8 |
 | Greedy | 8 |
 | Graphs | 7 |
-| Sorting | 6 |
+| Sorting | 7 |
 | Queue | 6 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-10 |
+| Merge Intervals | 🟡 Medium | Sorting | 2026-06-10 |
 | Group Anagrams | 🟡 Medium | Hashing | 2026-06-09 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-09 |
 | Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-09 |
-| Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-09 |
-| Permutations | 🟡 Medium | Backtracking | 2026-06-09 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-09T18:31:27.294560
-**Last Active**: 2026-06-09
+**Last Updated**: 2026-06-10T00:30:56.150684
+**Last Active**: 2026-06-10

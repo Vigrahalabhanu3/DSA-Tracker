@@ -1,20 +1,20 @@
 {
-  "totalProblems": 112,
+  "totalProblems": 114,
   "easySolved": 40,
-  "mediumSolved": 66,
+  "mediumSolved": 68,
   "hardSolved": 8,
   "streakDays": 1,
-  "totalHours": 101.83,
-  "lastUpdated": "2026-06-09T18:31:27.294560",
+  "totalHours": 102.99,
+  "lastUpdated": "2026-06-10T00:30:56.150684",
   "topicStats": {
     "Arrays": 2,
     "Strings": 11,
     "LinkedList": 8,
     "Trees": 8,
     "Graphs": 7,
-    "DynamicProgramming": 9,
+    "DynamicProgramming": 10,
     "BinarySearch": 4,
-    "Sorting": 6,
+    "Sorting": 7,
     "Hashing": 10,
     "Recursion": 4,
     "Stack": 5,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 59
+      "solved": 61
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T00:30:56.150675"
+    },
+    {
+      "name": "Merge Intervals",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T00:30:56.150667"
+    },
     {
       "name": "Group Anagrams",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "DynamicProgramming",
       "date": "2026-06-07",
       "solvedAt": "2026-06-07T18:31:21.449987"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T12:32:11.261372"
-    },
-    {
-      "name": "Min Stack",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T12:32:11.261369"
     }
   ],
-  "lastActive": "2026-06-09",
+  "lastActive": "2026-06-10",
   "totalSolved": 41
 }
