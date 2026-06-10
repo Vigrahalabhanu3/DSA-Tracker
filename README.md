@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 116 |
-| **🟢 Easy** | 42 (36.2%) |
-| **🟡 Medium** | 68 (58.6%) |
-| **🔴 Hard** | 8 (6.9%) |
+| **Total Problems Solved** | 119 |
+| **🟢 Easy** | 42 (35.3%) |
+| **🟡 Medium** | 70 (58.8%) |
+| **🔴 Hard** | 9 (7.6%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 104.87h |
+| **⏱️ Total Hours** | 106.18h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 63 |
+| LeetCode | 66 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,26 +29,26 @@
 | Topic | Count |
 |-------|-------|
 | Strings | 11 |
+| DynamicProgramming | 11 |
 | Hashing | 11 |
-| DynamicProgramming | 10 |
 | Backtracking | 10 |
 | LinkedList | 8 |
 | Trees | 8 |
+| Graphs | 8 |
 | Greedy | 8 |
-| Graphs | 7 |
 | Sorting | 7 |
-| Queue | 6 |
+| Heap | 7 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Topological Sort | 🟡 Medium | Graphs | 2026-06-10 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-10 |
+| Edit Distance | 🔴 Hard | DynamicProgramming | 2026-06-10 |
 | Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-10 |
 | Majority Element | 🟢 Easy | Hashing | 2026-06-10 |
-| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-10 |
-| Merge Intervals | 🟡 Medium | Sorting | 2026-06-10 |
-| Group Anagrams | 🟡 Medium | Hashing | 2026-06-09 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-10T04:31:06.381738
+**Last Updated**: 2026-06-10T08:31:08.823083
 **Last Active**: 2026-06-10

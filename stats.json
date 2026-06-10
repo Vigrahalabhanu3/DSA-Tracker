@@ -1,25 +1,25 @@
 {
-  "totalProblems": 116,
+  "totalProblems": 119,
   "easySolved": 42,
-  "mediumSolved": 68,
-  "hardSolved": 8,
+  "mediumSolved": 70,
+  "hardSolved": 9,
   "streakDays": 1,
-  "totalHours": 104.87,
-  "lastUpdated": "2026-06-10T04:31:06.381738",
+  "totalHours": 106.18,
+  "lastUpdated": "2026-06-10T08:31:08.823083",
   "topicStats": {
     "Arrays": 2,
     "Strings": 11,
     "LinkedList": 8,
     "Trees": 8,
-    "Graphs": 7,
-    "DynamicProgramming": 10,
+    "Graphs": 8,
+    "DynamicProgramming": 11,
     "BinarySearch": 5,
     "Sorting": 7,
     "Hashing": 11,
     "Recursion": 4,
     "Stack": 5,
     "Queue": 6,
-    "Heap": 6,
+    "Heap": 7,
     "Greedy": 8,
     "Backtracking": 10,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 63
+      "solved": 66
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Topological Sort",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T08:31:08.823072"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T08:31:08.823069"
+    },
+    {
+      "name": "Edit Distance",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T08:31:08.823058"
+    },
     {
       "name": "Search Insert Position",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-08",
       "solvedAt": "2026-06-08T04:31:10.698702"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T00:31:08.747035"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T00:31:08.747032"
-    },
-    {
-      "name": "Add Two Numbers",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T00:31:08.747019"
     }
   ],
   "lastActive": "2026-06-10",
