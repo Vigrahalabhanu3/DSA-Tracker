@@ -1,14 +1,14 @@
 {
-  "totalProblems": 119,
-  "easySolved": 42,
-  "mediumSolved": 70,
+  "totalProblems": 122,
+  "easySolved": 43,
+  "mediumSolved": 72,
   "hardSolved": 9,
   "streakDays": 1,
-  "totalHours": 106.18,
-  "lastUpdated": "2026-06-10T08:31:08.823083",
+  "totalHours": 107.93,
+  "lastUpdated": "2026-06-10T12:32:07.428587",
   "topicStats": {
     "Arrays": 2,
-    "Strings": 11,
+    "Strings": 12,
     "LinkedList": 8,
     "Trees": 8,
     "Graphs": 8,
@@ -18,16 +18,16 @@
     "Hashing": 11,
     "Recursion": 4,
     "Stack": 5,
-    "Queue": 6,
+    "Queue": 7,
     "Heap": 7,
     "Greedy": 8,
-    "Backtracking": 10,
+    "Backtracking": 11,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 66
+      "solved": 69
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T12:32:07.428575"
+    },
+    {
+      "name": "Number of Recent Calls",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T12:32:07.428571"
+    },
+    {
+      "name": "String Compression",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T12:32:07.428558"
+    },
     {
       "name": "Topological Sort",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Queue",
       "date": "2026-06-08",
       "solvedAt": "2026-06-08T08:31:08.080435"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T04:31:10.698716"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T04:31:10.698713"
-    },
-    {
-      "name": "Sort Colors",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T04:31:10.698702"
     }
   ],
   "lastActive": "2026-06-10",
