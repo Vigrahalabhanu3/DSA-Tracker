@@ -1,11 +1,11 @@
 {
-  "totalProblems": 114,
-  "easySolved": 40,
+  "totalProblems": 116,
+  "easySolved": 42,
   "mediumSolved": 68,
   "hardSolved": 8,
   "streakDays": 1,
-  "totalHours": 102.99,
-  "lastUpdated": "2026-06-10T00:30:56.150684",
+  "totalHours": 104.87,
+  "lastUpdated": "2026-06-10T04:31:06.381738",
   "topicStats": {
     "Arrays": 2,
     "Strings": 11,
@@ -13,9 +13,9 @@
     "Trees": 8,
     "Graphs": 7,
     "DynamicProgramming": 10,
-    "BinarySearch": 4,
+    "BinarySearch": 5,
     "Sorting": 7,
-    "Hashing": 10,
+    "Hashing": 11,
     "Recursion": 4,
     "Stack": 5,
     "Queue": 6,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 61
+      "solved": 63
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Search Insert Position",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T04:31:06.381727"
+    },
+    {
+      "name": "Majority Element",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T04:31:06.381717"
+    },
     {
       "name": "House Robber",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "LinkedList",
       "date": "2026-06-08",
       "solvedAt": "2026-06-08T00:31:08.747019"
-    },
-    {
-      "name": "Longest Substring Without Repeating",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T18:31:21.449998"
-    },
-    {
-      "name": "Regular Expression Matching",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-07",
-      "solvedAt": "2026-06-07T18:31:21.449987"
     }
   ],
   "lastActive": "2026-06-10",
