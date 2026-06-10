@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 122 |
-| **🟢 Easy** | 43 (35.2%) |
-| **🟡 Medium** | 72 (59.0%) |
-| **🔴 Hard** | 9 (7.4%) |
+| **Total Problems Solved** | 124 |
+| **🟢 Easy** | 43 (34.7%) |
+| **🟡 Medium** | 74 (59.7%) |
+| **🔴 Hard** | 9 (7.3%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 107.93h |
+| **⏱️ Total Hours** | 108.88h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 69 |
+| LeetCode | 71 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -32,10 +32,10 @@
 | DynamicProgramming | 11 |
 | Hashing | 11 |
 | Backtracking | 11 |
+| Trees | 9 |
+| Greedy | 9 |
 | LinkedList | 8 |
-| Trees | 8 |
 | Graphs | 8 |
-| Greedy | 8 |
 | Sorting | 7 |
 | Queue | 7 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-10 |
+| Island Perimeter | 🟡 Medium | Greedy | 2026-06-10 |
 | Word Search | 🟡 Medium | Backtracking | 2026-06-10 |
 | Number of Recent Calls | 🟢 Easy | Queue | 2026-06-10 |
 | String Compression | 🟡 Medium | Strings | 2026-06-10 |
-| Topological Sort | 🟡 Medium | Graphs | 2026-06-10 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-10 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-10T12:32:07.428587
+**Last Updated**: 2026-06-10T18:31:23.963078
 **Last Active**: 2026-06-10

@@ -1,16 +1,16 @@
 {
-  "totalProblems": 122,
+  "totalProblems": 124,
   "easySolved": 43,
-  "mediumSolved": 72,
+  "mediumSolved": 74,
   "hardSolved": 9,
   "streakDays": 1,
-  "totalHours": 107.93,
-  "lastUpdated": "2026-06-10T12:32:07.428587",
+  "totalHours": 108.88,
+  "lastUpdated": "2026-06-10T18:31:23.963078",
   "topicStats": {
     "Arrays": 2,
     "Strings": 12,
     "LinkedList": 8,
-    "Trees": 8,
+    "Trees": 9,
     "Graphs": 8,
     "DynamicProgramming": 11,
     "BinarySearch": 5,
@@ -20,14 +20,14 @@
     "Stack": 5,
     "Queue": 7,
     "Heap": 7,
-    "Greedy": 8,
+    "Greedy": 9,
     "Backtracking": 11,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 69
+      "solved": 71
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T18:31:23.963069"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-10",
+      "solvedAt": "2026-06-10T18:31:23.963059"
+    },
     {
       "name": "Word Search",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-08",
       "solvedAt": "2026-06-08T08:31:08.080447"
-    },
-    {
-      "name": "Invert Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T08:31:08.080444"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T08:31:08.080435"
     }
   ],
   "lastActive": "2026-06-10",
