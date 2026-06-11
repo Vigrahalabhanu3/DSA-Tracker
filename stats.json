@@ -1,18 +1,18 @@
 {
-  "totalProblems": 134,
+  "totalProblems": 136,
   "easySolved": 46,
-  "mediumSolved": 77,
+  "mediumSolved": 79,
   "hardSolved": 13,
   "streakDays": 1,
-  "totalHours": 113.64,
-  "lastUpdated": "2026-06-11T12:32:03.366256",
+  "totalHours": 114.64,
+  "lastUpdated": "2026-06-11T18:31:23.217879",
   "topicStats": {
     "Arrays": 2,
     "Strings": 12,
     "LinkedList": 9,
     "Trees": 9,
-    "Graphs": 9,
-    "DynamicProgramming": 13,
+    "Graphs": 10,
+    "DynamicProgramming": 14,
     "BinarySearch": 6,
     "Sorting": 7,
     "Hashing": 11,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 81
+      "solved": 83
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T18:31:23.217868"
+    },
+    {
+      "name": "Number of Islands",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T18:31:23.217857"
+    },
     {
       "name": "Permutations",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-09",
       "solvedAt": "2026-06-09T12:32:09.269480"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T08:31:09.051433"
-    },
-    {
-      "name": "Sort Colors",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T08:31:09.051420"
     }
   ],
   "lastActive": "2026-06-11",
