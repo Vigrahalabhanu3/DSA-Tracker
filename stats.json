@@ -1,22 +1,22 @@
 {
-  "totalProblems": 127,
-  "easySolved": 43,
+  "totalProblems": 129,
+  "easySolved": 45,
   "mediumSolved": 75,
   "hardSolved": 11,
   "streakDays": 1,
-  "totalHours": 109.77,
-  "lastUpdated": "2026-06-11T00:30:55.217930",
+  "totalHours": 111.24,
+  "lastUpdated": "2026-06-11T04:31:06.967845",
   "topicStats": {
     "Arrays": 2,
     "Strings": 12,
-    "LinkedList": 8,
+    "LinkedList": 9,
     "Trees": 9,
     "Graphs": 8,
     "DynamicProgramming": 12,
     "BinarySearch": 5,
     "Sorting": 7,
     "Hashing": 11,
-    "Recursion": 4,
+    "Recursion": 5,
     "Stack": 5,
     "Queue": 7,
     "Heap": 8,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 74
+      "solved": 76
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Merge Two Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T04:31:06.967834"
+    },
+    {
+      "name": "Fibonacci Number",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T04:31:06.967823"
+    },
     {
       "name": "Permutations",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Graphs",
       "date": "2026-06-08",
       "solvedAt": "2026-06-08T18:31:29.498846"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T18:31:29.498843"
-    },
-    {
-      "name": "Longest Substring Without Repeating",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T18:31:29.498834"
     }
   ],
   "lastActive": "2026-06-11",

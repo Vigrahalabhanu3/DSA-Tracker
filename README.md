@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 127 |
-| **🟢 Easy** | 43 (33.9%) |
-| **🟡 Medium** | 75 (59.1%) |
-| **🔴 Hard** | 11 (8.7%) |
+| **Total Problems Solved** | 129 |
+| **🟢 Easy** | 45 (34.9%) |
+| **🟡 Medium** | 75 (58.1%) |
+| **🔴 Hard** | 11 (8.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 109.77h |
+| **⏱️ Total Hours** | 111.24h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 74 |
+| LeetCode | 76 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -32,9 +32,9 @@
 | DynamicProgramming | 12 |
 | Backtracking | 12 |
 | Hashing | 11 |
+| LinkedList | 9 |
 | Trees | 9 |
 | Greedy | 9 |
-| LinkedList | 8 |
 | Graphs | 8 |
 | Heap | 8 |
 | Sorting | 7 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-11 |
+| Fibonacci Number | 🟢 Easy | Recursion | 2026-06-11 |
 | Permutations | 🟡 Medium | Backtracking | 2026-06-11 |
 | Edit Distance | 🔴 Hard | DynamicProgramming | 2026-06-11 |
 | Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-11 |
-| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-10 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-10 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-11T00:30:55.217930
+**Last Updated**: 2026-06-11T04:31:06.967845
 **Last Active**: 2026-06-11
