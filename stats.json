@@ -1,33 +1,33 @@
 {
-  "totalProblems": 124,
+  "totalProblems": 127,
   "easySolved": 43,
-  "mediumSolved": 74,
-  "hardSolved": 9,
+  "mediumSolved": 75,
+  "hardSolved": 11,
   "streakDays": 1,
-  "totalHours": 108.88,
-  "lastUpdated": "2026-06-10T18:31:23.963078",
+  "totalHours": 109.77,
+  "lastUpdated": "2026-06-11T00:30:55.217930",
   "topicStats": {
     "Arrays": 2,
     "Strings": 12,
     "LinkedList": 8,
     "Trees": 9,
     "Graphs": 8,
-    "DynamicProgramming": 11,
+    "DynamicProgramming": 12,
     "BinarySearch": 5,
     "Sorting": 7,
     "Hashing": 11,
     "Recursion": 4,
     "Stack": 5,
     "Queue": 7,
-    "Heap": 7,
+    "Heap": 8,
     "Greedy": 9,
-    "Backtracking": 11,
+    "Backtracking": 12,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 71
+      "solved": 74
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Permutations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T00:30:55.217917"
+    },
+    {
+      "name": "Edit Distance",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T00:30:55.217914"
+    },
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T00:30:55.217901"
+    },
     {
       "name": "Lowest Common Ancestor",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "Strings",
       "date": "2026-06-08",
       "solvedAt": "2026-06-08T18:31:29.498834"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T12:32:05.127939"
-    },
-    {
-      "name": "N-Queens",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Backtracking",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T12:32:05.127927"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T08:31:08.080447"
     }
   ],
-  "lastActive": "2026-06-10",
+  "lastActive": "2026-06-11",
   "totalSolved": 41
 }

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 124 |
-| **🟢 Easy** | 43 (34.7%) |
-| **🟡 Medium** | 74 (59.7%) |
-| **🔴 Hard** | 9 (7.3%) |
+| **Total Problems Solved** | 127 |
+| **🟢 Easy** | 43 (33.9%) |
+| **🟡 Medium** | 75 (59.1%) |
+| **🔴 Hard** | 11 (8.7%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 108.88h |
+| **⏱️ Total Hours** | 109.77h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 71 |
+| LeetCode | 74 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,26 +29,26 @@
 | Topic | Count |
 |-------|-------|
 | Strings | 12 |
-| DynamicProgramming | 11 |
+| DynamicProgramming | 12 |
+| Backtracking | 12 |
 | Hashing | 11 |
-| Backtracking | 11 |
 | Trees | 9 |
 | Greedy | 9 |
 | LinkedList | 8 |
 | Graphs | 8 |
+| Heap | 8 |
 | Sorting | 7 |
-| Queue | 7 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Permutations | 🟡 Medium | Backtracking | 2026-06-11 |
+| Edit Distance | 🔴 Hard | DynamicProgramming | 2026-06-11 |
+| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-11 |
 | Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-10 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-10 |
-| Word Search | 🟡 Medium | Backtracking | 2026-06-10 |
-| Number of Recent Calls | 🟢 Easy | Queue | 2026-06-10 |
-| String Compression | 🟡 Medium | Strings | 2026-06-10 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-10T18:31:23.963078
-**Last Active**: 2026-06-10
+**Last Updated**: 2026-06-11T00:30:55.217930
+**Last Active**: 2026-06-11
