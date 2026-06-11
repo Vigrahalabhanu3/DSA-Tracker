@@ -1,17 +1,17 @@
 {
-  "totalProblems": 131,
+  "totalProblems": 134,
   "easySolved": 46,
-  "mediumSolved": 75,
-  "hardSolved": 12,
+  "mediumSolved": 77,
+  "hardSolved": 13,
   "streakDays": 1,
-  "totalHours": 112.4,
-  "lastUpdated": "2026-06-11T08:31:05.829524",
+  "totalHours": 113.64,
+  "lastUpdated": "2026-06-11T12:32:03.366256",
   "topicStats": {
     "Arrays": 2,
     "Strings": 12,
     "LinkedList": 9,
     "Trees": 9,
-    "Graphs": 8,
+    "Graphs": 9,
     "DynamicProgramming": 13,
     "BinarySearch": 6,
     "Sorting": 7,
@@ -19,15 +19,15 @@
     "Recursion": 5,
     "Stack": 5,
     "Queue": 7,
-    "Heap": 8,
+    "Heap": 9,
     "Greedy": 9,
-    "Backtracking": 12,
+    "Backtracking": 13,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 78
+      "solved": 81
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Permutations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T12:32:03.366244"
+    },
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T12:32:03.366241"
+    },
+    {
+      "name": "Course Schedule",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T12:32:03.366228"
+    },
     {
       "name": "Edit Distance",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-09",
       "solvedAt": "2026-06-09T08:31:09.051420"
-    },
-    {
-      "name": "N-Queens",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Backtracking",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T04:31:09.750879"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T04:31:09.750869"
-    },
-    {
-      "name": "Climbing Stairs",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T00:30:53.433380"
     }
   ],
   "lastActive": "2026-06-11",

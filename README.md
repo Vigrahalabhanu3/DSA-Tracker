@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 131 |
-| **🟢 Easy** | 46 (35.1%) |
-| **🟡 Medium** | 75 (57.3%) |
-| **🔴 Hard** | 12 (9.2%) |
+| **Total Problems Solved** | 134 |
+| **🟢 Easy** | 46 (34.3%) |
+| **🟡 Medium** | 77 (57.5%) |
+| **🔴 Hard** | 13 (9.7%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 112.40h |
+| **⏱️ Total Hours** | 113.64h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 78 |
+| LeetCode | 81 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,14 +29,14 @@
 | Topic | Count |
 |-------|-------|
 | DynamicProgramming | 13 |
+| Backtracking | 13 |
 | Strings | 12 |
-| Backtracking | 12 |
 | Hashing | 11 |
 | LinkedList | 9 |
 | Trees | 9 |
+| Graphs | 9 |
+| Heap | 9 |
 | Greedy | 9 |
-| Graphs | 8 |
-| Heap | 8 |
 | Sorting | 7 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Permutations | 🟡 Medium | Backtracking | 2026-06-11 |
+| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-11 |
+| Course Schedule | 🟡 Medium | Graphs | 2026-06-11 |
 | Edit Distance | 🔴 Hard | DynamicProgramming | 2026-06-11 |
 | Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-11 |
-| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-11 |
-| Fibonacci Number | 🟢 Easy | Recursion | 2026-06-11 |
-| Permutations | 🟡 Medium | Backtracking | 2026-06-11 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-11T08:31:05.829524
+**Last Updated**: 2026-06-11T12:32:03.366256
 **Last Active**: 2026-06-11
