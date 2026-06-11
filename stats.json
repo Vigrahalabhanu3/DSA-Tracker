@@ -1,19 +1,19 @@
 {
-  "totalProblems": 129,
-  "easySolved": 45,
+  "totalProblems": 131,
+  "easySolved": 46,
   "mediumSolved": 75,
-  "hardSolved": 11,
+  "hardSolved": 12,
   "streakDays": 1,
-  "totalHours": 111.24,
-  "lastUpdated": "2026-06-11T04:31:06.967845",
+  "totalHours": 112.4,
+  "lastUpdated": "2026-06-11T08:31:05.829524",
   "topicStats": {
     "Arrays": 2,
     "Strings": 12,
     "LinkedList": 9,
     "Trees": 9,
     "Graphs": 8,
-    "DynamicProgramming": 12,
-    "BinarySearch": 5,
+    "DynamicProgramming": 13,
+    "BinarySearch": 6,
     "Sorting": 7,
     "Hashing": 11,
     "Recursion": 5,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 76
+      "solved": 78
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Edit Distance",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T08:31:05.829514"
+    },
+    {
+      "name": "Search Insert Position",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-11",
+      "solvedAt": "2026-06-11T08:31:05.829505"
+    },
     {
       "name": "Merge Two Sorted Lists",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "DynamicProgramming",
       "date": "2026-06-09",
       "solvedAt": "2026-06-09T00:30:53.433380"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T00:30:53.433368"
-    },
-    {
-      "name": "Topological Sort",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-08",
-      "solvedAt": "2026-06-08T18:31:29.498846"
     }
   ],
   "lastActive": "2026-06-11",

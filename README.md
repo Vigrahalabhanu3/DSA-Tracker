@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 129 |
-| **🟢 Easy** | 45 (34.9%) |
-| **🟡 Medium** | 75 (58.1%) |
-| **🔴 Hard** | 11 (8.5%) |
+| **Total Problems Solved** | 131 |
+| **🟢 Easy** | 46 (35.1%) |
+| **🟡 Medium** | 75 (57.3%) |
+| **🔴 Hard** | 12 (9.2%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 111.24h |
+| **⏱️ Total Hours** | 112.40h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 76 |
+| LeetCode | 78 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,8 +28,8 @@
 
 | Topic | Count |
 |-------|-------|
+| DynamicProgramming | 13 |
 | Strings | 12 |
-| DynamicProgramming | 12 |
 | Backtracking | 12 |
 | Hashing | 11 |
 | LinkedList | 9 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Edit Distance | 🔴 Hard | DynamicProgramming | 2026-06-11 |
+| Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-11 |
 | Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-11 |
 | Fibonacci Number | 🟢 Easy | Recursion | 2026-06-11 |
 | Permutations | 🟡 Medium | Backtracking | 2026-06-11 |
-| Edit Distance | 🔴 Hard | DynamicProgramming | 2026-06-11 |
-| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-11 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-11T04:31:06.967845
+**Last Updated**: 2026-06-11T08:31:05.829524
 **Last Active**: 2026-06-11
