@@ -1,25 +1,25 @@
 {
-  "totalProblems": 145,
-  "easySolved": 50,
-  "mediumSolved": 84,
-  "hardSolved": 13,
+  "totalProblems": 148,
+  "easySolved": 51,
+  "mediumSolved": 85,
+  "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 117.37,
-  "lastUpdated": "2026-06-12T08:31:07.466319",
+  "totalHours": 117.96,
+  "lastUpdated": "2026-06-12T12:32:04.905622",
   "topicStats": {
     "Arrays": 3,
     "Strings": 12,
-    "LinkedList": 11,
+    "LinkedList": 12,
     "Trees": 9,
     "Graphs": 10,
     "DynamicProgramming": 15,
-    "BinarySearch": 8,
+    "BinarySearch": 9,
     "Sorting": 7,
     "Hashing": 11,
     "Recursion": 6,
     "Stack": 5,
     "Queue": 7,
-    "Heap": 10,
+    "Heap": 11,
     "Greedy": 10,
     "Backtracking": 13,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 92
+      "solved": 95
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T12:32:04.905608"
+    },
+    {
+      "name": "First Bad Version",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T12:32:04.905605"
+    },
+    {
+      "name": "Add Two Numbers",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T12:32:04.905590"
+    },
     {
       "name": "Contains Duplicate",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Graphs",
       "date": "2026-06-10",
       "solvedAt": "2026-06-10T08:31:08.823072"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T08:31:08.823069"
-    },
-    {
-      "name": "Edit Distance",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T08:31:08.823058"
-    },
-    {
-      "name": "Search Insert Position",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T04:31:06.381727"
     }
   ],
   "lastActive": "2026-06-12",
