@@ -1,11 +1,11 @@
 {
-  "totalProblems": 148,
-  "easySolved": 51,
-  "mediumSolved": 85,
+  "totalProblems": 150,
+  "easySolved": 52,
+  "mediumSolved": 86,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 117.96,
-  "lastUpdated": "2026-06-12T12:32:04.905622",
+  "totalHours": 119.62,
+  "lastUpdated": "2026-06-12T18:31:24.631719",
   "topicStats": {
     "Arrays": 3,
     "Strings": 12,
@@ -16,18 +16,18 @@
     "BinarySearch": 9,
     "Sorting": 7,
     "Hashing": 11,
-    "Recursion": 6,
+    "Recursion": 7,
     "Stack": 5,
     "Queue": 7,
     "Heap": 11,
     "Greedy": 10,
-    "Backtracking": 13,
+    "Backtracking": 14,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 95
+      "solved": 97
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T18:31:24.631707"
+    },
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T18:31:24.631698"
+    },
     {
       "name": "Merge K Sorted Lists",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Queue",
       "date": "2026-06-10",
       "solvedAt": "2026-06-10T12:32:07.428571"
-    },
-    {
-      "name": "String Compression",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T12:32:07.428558"
-    },
-    {
-      "name": "Topological Sort",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T08:31:08.823072"
     }
   ],
   "lastActive": "2026-06-12",

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 148 |
-| **🟢 Easy** | 51 (34.5%) |
-| **🟡 Medium** | 85 (57.4%) |
-| **🔴 Hard** | 14 (9.5%) |
+| **Total Problems Solved** | 150 |
+| **🟢 Easy** | 52 (34.7%) |
+| **🟡 Medium** | 86 (57.3%) |
+| **🔴 Hard** | 14 (9.3%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 117.96h |
+| **⏱️ Total Hours** | 119.62h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 95 |
+| LeetCode | 97 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,7 +29,7 @@
 | Topic | Count |
 |-------|-------|
 | DynamicProgramming | 15 |
-| Backtracking | 13 |
+| Backtracking | 14 |
 | Strings | 12 |
 | LinkedList | 12 |
 | Hashing | 11 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Reverse String | 🟢 Easy | Recursion | 2026-06-12 |
+| Word Search | 🟡 Medium | Backtracking | 2026-06-12 |
 | Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-12 |
 | First Bad Version | 🟢 Easy | BinarySearch | 2026-06-12 |
 | Add Two Numbers | 🟡 Medium | LinkedList | 2026-06-12 |
-| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-12 |
-| Find First and Last Position | 🟡 Medium | BinarySearch | 2026-06-12 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-12T12:32:04.905622
+**Last Updated**: 2026-06-12T18:31:24.631719
 **Last Active**: 2026-06-12
