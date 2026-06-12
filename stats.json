@@ -1,22 +1,22 @@
 {
-  "totalProblems": 136,
-  "easySolved": 46,
-  "mediumSolved": 79,
+  "totalProblems": 139,
+  "easySolved": 47,
+  "mediumSolved": 81,
   "hardSolved": 13,
   "streakDays": 1,
-  "totalHours": 114.64,
-  "lastUpdated": "2026-06-11T18:31:23.217879",
+  "totalHours": 115.49,
+  "lastUpdated": "2026-06-12T00:30:56.002524",
   "topicStats": {
     "Arrays": 2,
     "Strings": 12,
-    "LinkedList": 9,
+    "LinkedList": 10,
     "Trees": 9,
     "Graphs": 10,
-    "DynamicProgramming": 14,
+    "DynamicProgramming": 15,
     "BinarySearch": 6,
     "Sorting": 7,
     "Hashing": 11,
-    "Recursion": 5,
+    "Recursion": 6,
     "Stack": 5,
     "Queue": 7,
     "Heap": 9,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 83
+      "solved": 86
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Add Two Numbers",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T00:30:56.002514"
+    },
+    {
+      "name": "Power of Three",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T00:30:56.002511"
+    },
+    {
+      "name": "Longest Increasing Subsequence",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T00:30:56.002500"
+    },
     {
       "name": "House Robber",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "LinkedList",
       "date": "2026-06-09",
       "solvedAt": "2026-06-09T18:31:27.294535"
-    },
-    {
-      "name": "Evaluate Reverse Polish Notation",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Stack",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T12:32:09.269493"
-    },
-    {
-      "name": "Permutations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T12:32:09.269490"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T12:32:09.269480"
     }
   ],
-  "lastActive": "2026-06-11",
+  "lastActive": "2026-06-12",
   "totalSolved": 41
 }

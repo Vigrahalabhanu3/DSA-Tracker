@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 136 |
-| **🟢 Easy** | 46 (33.8%) |
-| **🟡 Medium** | 79 (58.1%) |
-| **🔴 Hard** | 13 (9.6%) |
+| **Total Problems Solved** | 139 |
+| **🟢 Easy** | 47 (33.8%) |
+| **🟡 Medium** | 81 (58.3%) |
+| **🔴 Hard** | 13 (9.4%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 114.64h |
+| **⏱️ Total Hours** | 115.49h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 83 |
+| LeetCode | 86 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,12 +28,12 @@
 
 | Topic | Count |
 |-------|-------|
-| DynamicProgramming | 14 |
+| DynamicProgramming | 15 |
 | Backtracking | 13 |
 | Strings | 12 |
 | Hashing | 11 |
+| LinkedList | 10 |
 | Graphs | 10 |
-| LinkedList | 9 |
 | Trees | 9 |
 | Heap | 9 |
 | Greedy | 9 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Add Two Numbers | 🟡 Medium | LinkedList | 2026-06-12 |
+| Power of Three | 🟢 Easy | Recursion | 2026-06-12 |
+| Longest Increasing Subsequence | 🟡 Medium | DynamicProgramming | 2026-06-12 |
 | House Robber | 🟡 Medium | DynamicProgramming | 2026-06-11 |
 | Number of Islands | 🟡 Medium | Graphs | 2026-06-11 |
-| Permutations | 🟡 Medium | Backtracking | 2026-06-11 |
-| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-11 |
-| Course Schedule | 🟡 Medium | Graphs | 2026-06-11 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-11T18:31:23.217879
-**Last Active**: 2026-06-11
+**Last Updated**: 2026-06-12T00:30:56.002524
+**Last Active**: 2026-06-12
