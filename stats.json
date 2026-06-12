@@ -1,33 +1,33 @@
 {
-  "totalProblems": 139,
-  "easySolved": 47,
-  "mediumSolved": 81,
+  "totalProblems": 142,
+  "easySolved": 49,
+  "mediumSolved": 82,
   "hardSolved": 13,
   "streakDays": 1,
-  "totalHours": 115.49,
-  "lastUpdated": "2026-06-12T00:30:56.002524",
+  "totalHours": 116.62,
+  "lastUpdated": "2026-06-12T04:31:08.247945",
   "topicStats": {
     "Arrays": 2,
     "Strings": 12,
-    "LinkedList": 10,
+    "LinkedList": 11,
     "Trees": 9,
     "Graphs": 10,
     "DynamicProgramming": 15,
-    "BinarySearch": 6,
+    "BinarySearch": 7,
     "Sorting": 7,
     "Hashing": 11,
     "Recursion": 6,
     "Stack": 5,
     "Queue": 7,
     "Heap": 9,
-    "Greedy": 9,
+    "Greedy": 10,
     "Backtracking": 13,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 86
+      "solved": 89
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Linked List Cycle",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T04:31:08.247933"
+    },
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T04:31:08.247929"
+    },
+    {
+      "name": "Find First and Last Position",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T04:31:08.247917"
+    },
     {
       "name": "Add Two Numbers",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-10",
       "solvedAt": "2026-06-10T00:30:56.150667"
-    },
-    {
-      "name": "Group Anagrams",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T18:31:27.294549"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T18:31:27.294545"
-    },
-    {
-      "name": "Merge Two Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-09",
-      "solvedAt": "2026-06-09T18:31:27.294535"
     }
   ],
   "lastActive": "2026-06-12",
