@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 142 |
-| **🟢 Easy** | 49 (34.5%) |
-| **🟡 Medium** | 82 (57.7%) |
-| **🔴 Hard** | 13 (9.2%) |
+| **Total Problems Solved** | 145 |
+| **🟢 Easy** | 50 (34.5%) |
+| **🟡 Medium** | 84 (57.9%) |
+| **🔴 Hard** | 13 (9.0%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 116.62h |
+| **⏱️ Total Hours** | 117.37h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 89 |
+| LeetCode | 92 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -34,21 +34,21 @@
 | LinkedList | 11 |
 | Hashing | 11 |
 | Graphs | 10 |
+| Heap | 10 |
 | Greedy | 10 |
 | Trees | 9 |
-| Heap | 9 |
-| BinarySearch | 7 |
+| BinarySearch | 8 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-12 |
+| Find First and Last Position | 🟡 Medium | BinarySearch | 2026-06-12 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-12 |
 | Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-12 |
 | Assign Cookies | 🟢 Easy | Greedy | 2026-06-12 |
-| Find First and Last Position | 🟡 Medium | BinarySearch | 2026-06-12 |
-| Add Two Numbers | 🟡 Medium | LinkedList | 2026-06-12 |
-| Power of Three | 🟢 Easy | Recursion | 2026-06-12 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-12T04:31:08.247945
+**Last Updated**: 2026-06-12T08:31:07.466319
 **Last Active**: 2026-06-12

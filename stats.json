@@ -1,25 +1,25 @@
 {
-  "totalProblems": 142,
-  "easySolved": 49,
-  "mediumSolved": 82,
+  "totalProblems": 145,
+  "easySolved": 50,
+  "mediumSolved": 84,
   "hardSolved": 13,
   "streakDays": 1,
-  "totalHours": 116.62,
-  "lastUpdated": "2026-06-12T04:31:08.247945",
+  "totalHours": 117.37,
+  "lastUpdated": "2026-06-12T08:31:07.466319",
   "topicStats": {
-    "Arrays": 2,
+    "Arrays": 3,
     "Strings": 12,
     "LinkedList": 11,
     "Trees": 9,
     "Graphs": 10,
     "DynamicProgramming": 15,
-    "BinarySearch": 7,
+    "BinarySearch": 8,
     "Sorting": 7,
     "Hashing": 11,
     "Recursion": 6,
     "Stack": 5,
     "Queue": 7,
-    "Heap": 9,
+    "Heap": 10,
     "Greedy": 10,
     "Backtracking": 13,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 89
+      "solved": 92
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Contains Duplicate",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T08:31:07.466308"
+    },
+    {
+      "name": "Find First and Last Position",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T08:31:07.466304"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-12",
+      "solvedAt": "2026-06-12T08:31:07.466292"
+    },
     {
       "name": "Linked List Cycle",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-06-10",
       "solvedAt": "2026-06-10T04:31:06.381727"
-    },
-    {
-      "name": "Majority Element",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T04:31:06.381717"
-    },
-    {
-      "name": "House Robber",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T00:30:56.150675"
-    },
-    {
-      "name": "Merge Intervals",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T00:30:56.150667"
     }
   ],
   "lastActive": "2026-06-12",
