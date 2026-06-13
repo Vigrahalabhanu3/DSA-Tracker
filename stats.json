@@ -1,15 +1,15 @@
 {
-  "totalProblems": 153,
-  "easySolved": 53,
-  "mediumSolved": 88,
+  "totalProblems": 156,
+  "easySolved": 54,
+  "mediumSolved": 90,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 121.27,
-  "lastUpdated": "2026-06-13T00:30:55.237328",
+  "totalHours": 122.68,
+  "lastUpdated": "2026-06-13T04:31:07.304700",
   "topicStats": {
     "Arrays": 3,
-    "Strings": 12,
-    "LinkedList": 12,
+    "Strings": 13,
+    "LinkedList": 13,
     "Trees": 9,
     "Graphs": 10,
     "DynamicProgramming": 15,
@@ -21,13 +21,13 @@
     "Queue": 7,
     "Heap": 11,
     "Greedy": 11,
-    "Backtracking": 14,
+    "Backtracking": 15,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 100
+      "solved": 103
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Longest Substring Without Repeating",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T04:31:07.304692"
+    },
+    {
+      "name": "Merge Two Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T04:31:07.304688"
+    },
+    {
+      "name": "Combinations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T04:31:07.304680"
+    },
     {
       "name": "Island Perimeter",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Backtracking",
       "date": "2026-06-11",
       "solvedAt": "2026-06-11T00:30:55.217917"
-    },
-    {
-      "name": "Edit Distance",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T00:30:55.217914"
-    },
-    {
-      "name": "Merge K Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Heap",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T00:30:55.217901"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T18:31:23.963069"
     }
   ],
   "lastActive": "2026-06-13",

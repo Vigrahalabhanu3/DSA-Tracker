@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 153 |
-| **🟢 Easy** | 53 (34.6%) |
-| **🟡 Medium** | 88 (57.5%) |
-| **🔴 Hard** | 14 (9.2%) |
+| **Total Problems Solved** | 156 |
+| **🟢 Easy** | 54 (34.6%) |
+| **🟡 Medium** | 90 (57.7%) |
+| **🔴 Hard** | 14 (9.0%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 121.27h |
+| **⏱️ Total Hours** | 122.68h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 100 |
+| LeetCode | 103 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,9 +29,9 @@
 | Topic | Count |
 |-------|-------|
 | DynamicProgramming | 15 |
-| Backtracking | 14 |
-| Strings | 12 |
-| LinkedList | 12 |
+| Backtracking | 15 |
+| Strings | 13 |
+| LinkedList | 13 |
 | Hashing | 12 |
 | Heap | 11 |
 | Greedy | 11 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-13 |
+| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-13 |
+| Combinations | 🟡 Medium | Backtracking | 2026-06-13 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-13 |
 | Majority Element | 🟢 Easy | Hashing | 2026-06-13 |
-| Daily Temperatures | 🟡 Medium | Stack | 2026-06-13 |
-| Reverse String | 🟢 Easy | Recursion | 2026-06-12 |
-| Word Search | 🟡 Medium | Backtracking | 2026-06-12 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-13T00:30:55.237328
+**Last Updated**: 2026-06-13T04:31:07.304700
 **Last Active**: 2026-06-13
