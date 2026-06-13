@@ -1,11 +1,11 @@
 {
-  "totalProblems": 158,
-  "easySolved": 56,
-  "mediumSolved": 90,
+  "totalProblems": 161,
+  "easySolved": 57,
+  "mediumSolved": 92,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 124.27,
-  "lastUpdated": "2026-06-13T08:31:05.764224",
+  "totalHours": 125.13,
+  "lastUpdated": "2026-06-13T12:32:02.954647",
   "topicStats": {
     "Arrays": 3,
     "Strings": 14,
@@ -14,12 +14,12 @@
     "Graphs": 10,
     "DynamicProgramming": 15,
     "BinarySearch": 9,
-    "Sorting": 7,
+    "Sorting": 8,
     "Hashing": 12,
-    "Recursion": 8,
+    "Recursion": 9,
     "Stack": 6,
     "Queue": 7,
-    "Heap": 11,
+    "Heap": 12,
     "Greedy": 11,
     "Backtracking": 15,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 105
+      "solved": 108
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T12:32:02.954636"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T12:32:02.954634"
+    },
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T12:32:02.954624"
+    },
     {
       "name": "Power of Three",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Graphs",
       "date": "2026-06-11",
       "solvedAt": "2026-06-11T12:32:03.366228"
-    },
-    {
-      "name": "Edit Distance",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T08:31:05.829514"
-    },
-    {
-      "name": "Search Insert Position",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T08:31:05.829505"
-    },
-    {
-      "name": "Merge Two Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T04:31:06.967834"
     }
   ],
   "lastActive": "2026-06-13",

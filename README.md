@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 158 |
-| **🟢 Easy** | 56 (35.4%) |
-| **🟡 Medium** | 90 (57.0%) |
-| **🔴 Hard** | 14 (8.9%) |
+| **Total Problems Solved** | 161 |
+| **🟢 Easy** | 57 (35.4%) |
+| **🟡 Medium** | 92 (57.1%) |
+| **🔴 Hard** | 14 (8.7%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 124.27h |
+| **⏱️ Total Hours** | 125.13h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 105 |
+| LeetCode | 108 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -33,7 +33,7 @@
 | Strings | 14 |
 | LinkedList | 13 |
 | Hashing | 12 |
-| Heap | 11 |
+| Heap | 12 |
 | Greedy | 11 |
 | Graphs | 10 |
 | Trees | 9 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Reverse String | 🟢 Easy | Recursion | 2026-06-13 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-13 |
+| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-13 |
 | Power of Three | 🟢 Easy | Recursion | 2026-06-13 |
 | Valid Palindrome | 🟢 Easy | Strings | 2026-06-13 |
-| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-13 |
-| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-13 |
-| Combinations | 🟡 Medium | Backtracking | 2026-06-13 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-13T08:31:05.764224
+**Last Updated**: 2026-06-13T12:32:02.954647
 **Last Active**: 2026-06-13
