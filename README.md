@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 161 |
-| **🟢 Easy** | 57 (35.4%) |
-| **🟡 Medium** | 92 (57.1%) |
-| **🔴 Hard** | 14 (8.7%) |
+| **Total Problems Solved** | 164 |
+| **🟢 Easy** | 58 (35.4%) |
+| **🟡 Medium** | 94 (57.3%) |
+| **🔴 Hard** | 14 (8.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 125.13h |
+| **⏱️ Total Hours** | 126.07h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 108 |
+| LeetCode | 111 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -31,12 +31,12 @@
 | DynamicProgramming | 15 |
 | Backtracking | 15 |
 | Strings | 14 |
-| LinkedList | 13 |
+| LinkedList | 14 |
 | Hashing | 12 |
 | Heap | 12 |
 | Greedy | 11 |
+| Trees | 10 |
 | Graphs | 10 |
-| Trees | 9 |
 | BinarySearch | 9 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-13 |
+| Daily Temperatures | 🟡 Medium | Stack | 2026-06-13 |
+| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-13 |
 | Reverse String | 🟢 Easy | Recursion | 2026-06-13 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-13 |
-| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-13 |
-| Power of Three | 🟢 Easy | Recursion | 2026-06-13 |
-| Valid Palindrome | 🟢 Easy | Strings | 2026-06-13 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-13T12:32:02.954647
+**Last Updated**: 2026-06-13T18:31:20.776221
 **Last Active**: 2026-06-13

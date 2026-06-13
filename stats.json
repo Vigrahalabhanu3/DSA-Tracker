@@ -1,23 +1,23 @@
 {
-  "totalProblems": 161,
-  "easySolved": 57,
-  "mediumSolved": 92,
+  "totalProblems": 164,
+  "easySolved": 58,
+  "mediumSolved": 94,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 125.13,
-  "lastUpdated": "2026-06-13T12:32:02.954647",
+  "totalHours": 126.07,
+  "lastUpdated": "2026-06-13T18:31:20.776221",
   "topicStats": {
     "Arrays": 3,
     "Strings": 14,
-    "LinkedList": 13,
-    "Trees": 9,
+    "LinkedList": 14,
+    "Trees": 10,
     "Graphs": 10,
     "DynamicProgramming": 15,
     "BinarySearch": 9,
     "Sorting": 8,
     "Hashing": 12,
     "Recursion": 9,
-    "Stack": 6,
+    "Stack": 7,
     "Queue": 7,
     "Heap": 12,
     "Greedy": 11,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 108
+      "solved": 111
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Linked List Cycle",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T18:31:20.776211"
+    },
+    {
+      "name": "Daily Temperatures",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T18:31:20.776208"
+    },
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T18:31:20.776198"
+    },
     {
       "name": "Reverse String",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Graphs",
       "date": "2026-06-11",
       "solvedAt": "2026-06-11T18:31:23.217857"
-    },
-    {
-      "name": "Permutations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T12:32:03.366244"
-    },
-    {
-      "name": "Merge K Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Heap",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T12:32:03.366241"
-    },
-    {
-      "name": "Course Schedule",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T12:32:03.366228"
     }
   ],
   "lastActive": "2026-06-13",
