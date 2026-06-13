@@ -1,11 +1,11 @@
 {
-  "totalProblems": 150,
-  "easySolved": 52,
-  "mediumSolved": 86,
+  "totalProblems": 153,
+  "easySolved": 53,
+  "mediumSolved": 88,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 119.62,
-  "lastUpdated": "2026-06-12T18:31:24.631719",
+  "totalHours": 121.27,
+  "lastUpdated": "2026-06-13T00:30:55.237328",
   "topicStats": {
     "Arrays": 3,
     "Strings": 12,
@@ -15,19 +15,19 @@
     "DynamicProgramming": 15,
     "BinarySearch": 9,
     "Sorting": 7,
-    "Hashing": 11,
+    "Hashing": 12,
     "Recursion": 7,
-    "Stack": 5,
+    "Stack": 6,
     "Queue": 7,
     "Heap": 11,
-    "Greedy": 10,
+    "Greedy": 11,
     "Backtracking": 14,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 97
+      "solved": 100
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T00:30:55.237318"
+    },
+    {
+      "name": "Majority Element",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T00:30:55.237315"
+    },
+    {
+      "name": "Daily Temperatures",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T00:30:55.237305"
+    },
     {
       "name": "Reverse String",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "Trees",
       "date": "2026-06-10",
       "solvedAt": "2026-06-10T18:31:23.963069"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T18:31:23.963059"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T12:32:07.428575"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-10",
-      "solvedAt": "2026-06-10T12:32:07.428571"
     }
   ],
-  "lastActive": "2026-06-12",
+  "lastActive": "2026-06-13",
   "totalSolved": 41
 }
