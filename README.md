@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 156 |
-| **🟢 Easy** | 54 (34.6%) |
-| **🟡 Medium** | 90 (57.7%) |
-| **🔴 Hard** | 14 (9.0%) |
+| **Total Problems Solved** | 158 |
+| **🟢 Easy** | 56 (35.4%) |
+| **🟡 Medium** | 90 (57.0%) |
+| **🔴 Hard** | 14 (8.9%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 122.68h |
+| **⏱️ Total Hours** | 124.27h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 103 |
+| LeetCode | 105 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,7 +30,7 @@
 |-------|-------|
 | DynamicProgramming | 15 |
 | Backtracking | 15 |
-| Strings | 13 |
+| Strings | 14 |
 | LinkedList | 13 |
 | Hashing | 12 |
 | Heap | 11 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Power of Three | 🟢 Easy | Recursion | 2026-06-13 |
+| Valid Palindrome | 🟢 Easy | Strings | 2026-06-13 |
 | Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-13 |
 | Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-13 |
 | Combinations | 🟡 Medium | Backtracking | 2026-06-13 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-13 |
-| Majority Element | 🟢 Easy | Hashing | 2026-06-13 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-13T04:31:07.304700
+**Last Updated**: 2026-06-13T08:31:05.764224
 **Last Active**: 2026-06-13

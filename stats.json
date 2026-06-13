@@ -1,14 +1,14 @@
 {
-  "totalProblems": 156,
-  "easySolved": 54,
+  "totalProblems": 158,
+  "easySolved": 56,
   "mediumSolved": 90,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 122.68,
-  "lastUpdated": "2026-06-13T04:31:07.304700",
+  "totalHours": 124.27,
+  "lastUpdated": "2026-06-13T08:31:05.764224",
   "topicStats": {
     "Arrays": 3,
-    "Strings": 13,
+    "Strings": 14,
     "LinkedList": 13,
     "Trees": 9,
     "Graphs": 10,
@@ -16,7 +16,7 @@
     "BinarySearch": 9,
     "Sorting": 7,
     "Hashing": 12,
-    "Recursion": 7,
+    "Recursion": 8,
     "Stack": 6,
     "Queue": 7,
     "Heap": 11,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 103
+      "solved": 105
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Power of Three",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T08:31:05.764214"
+    },
+    {
+      "name": "Valid Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-06-13",
+      "solvedAt": "2026-06-13T08:31:05.764205"
+    },
     {
       "name": "Longest Substring Without Repeating",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "LinkedList",
       "date": "2026-06-11",
       "solvedAt": "2026-06-11T04:31:06.967834"
-    },
-    {
-      "name": "Fibonacci Number",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T04:31:06.967823"
-    },
-    {
-      "name": "Permutations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T00:30:55.217917"
     }
   ],
   "lastActive": "2026-06-13",
