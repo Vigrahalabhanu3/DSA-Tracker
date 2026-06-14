@@ -1,11 +1,11 @@
 {
-  "totalProblems": 167,
-  "easySolved": 60,
-  "mediumSolved": 95,
+  "totalProblems": 170,
+  "easySolved": 62,
+  "mediumSolved": 96,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 127.11,
-  "lastUpdated": "2026-06-14T00:30:57.347972",
+  "totalHours": 128.7,
+  "lastUpdated": "2026-06-14T04:31:09.675597",
   "topicStats": {
     "Arrays": 3,
     "Strings": 14,
@@ -13,10 +13,10 @@
     "Trees": 10,
     "Graphs": 10,
     "DynamicProgramming": 15,
-    "BinarySearch": 10,
+    "BinarySearch": 11,
     "Sorting": 8,
-    "Hashing": 12,
-    "Recursion": 9,
+    "Hashing": 13,
+    "Recursion": 10,
     "Stack": 7,
     "Queue": 8,
     "Heap": 13,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 114
+      "solved": 117
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Power of Three",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T04:31:09.675590"
+    },
+    {
+      "name": "Search Insert Position",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T04:31:09.675588"
+    },
+    {
+      "name": "Group Anagrams",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Hashing",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T04:31:09.675580"
+    },
     {
       "name": "Implement Queue Using Stacks",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-12",
       "solvedAt": "2026-06-12T04:31:08.247929"
-    },
-    {
-      "name": "Find First and Last Position",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T04:31:08.247917"
-    },
-    {
-      "name": "Add Two Numbers",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T00:30:56.002514"
-    },
-    {
-      "name": "Power of Three",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T00:30:56.002511"
     }
   ],
   "lastActive": "2026-06-14",

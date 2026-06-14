@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 167 |
-| **🟢 Easy** | 60 (35.9%) |
-| **🟡 Medium** | 95 (56.9%) |
-| **🔴 Hard** | 14 (8.4%) |
+| **Total Problems Solved** | 170 |
+| **🟢 Easy** | 62 (36.5%) |
+| **🟡 Medium** | 96 (56.5%) |
+| **🔴 Hard** | 14 (8.2%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 127.11h |
+| **⏱️ Total Hours** | 128.70h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 114 |
+| LeetCode | 117 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -32,23 +32,23 @@
 | Backtracking | 15 |
 | Strings | 14 |
 | LinkedList | 14 |
+| Hashing | 13 |
 | Heap | 13 |
-| Hashing | 12 |
+| BinarySearch | 11 |
 | Greedy | 11 |
 | Trees | 10 |
 | Graphs | 10 |
-| BinarySearch | 10 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Power of Three | 🟢 Easy | Recursion | 2026-06-14 |
+| Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-14 |
+| Group Anagrams | 🟡 Medium | Hashing | 2026-06-14 |
 | Implement Queue Using Stacks | 🟢 Easy | Queue | 2026-06-14 |
 | Binary Search | 🟢 Easy | BinarySearch | 2026-06-14 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-14 |
-| Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-13 |
-| Daily Temperatures | 🟡 Medium | Stack | 2026-06-13 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-14T00:30:57.347972
+**Last Updated**: 2026-06-14T04:31:09.675597
 **Last Active**: 2026-06-14
