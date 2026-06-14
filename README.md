@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 164 |
-| **🟢 Easy** | 58 (35.4%) |
-| **🟡 Medium** | 94 (57.3%) |
-| **🔴 Hard** | 14 (8.5%) |
+| **Total Problems Solved** | 167 |
+| **🟢 Easy** | 60 (35.9%) |
+| **🟡 Medium** | 95 (56.9%) |
+| **🔴 Hard** | 14 (8.4%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 126.07h |
+| **⏱️ Total Hours** | 127.11h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 111 |
+| LeetCode | 114 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -32,23 +32,23 @@
 | Backtracking | 15 |
 | Strings | 14 |
 | LinkedList | 14 |
+| Heap | 13 |
 | Hashing | 12 |
-| Heap | 12 |
 | Greedy | 11 |
 | Trees | 10 |
 | Graphs | 10 |
-| BinarySearch | 9 |
+| BinarySearch | 10 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Implement Queue Using Stacks | 🟢 Easy | Queue | 2026-06-14 |
+| Binary Search | 🟢 Easy | BinarySearch | 2026-06-14 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-14 |
 | Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-13 |
 | Daily Temperatures | 🟡 Medium | Stack | 2026-06-13 |
-| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-13 |
-| Reverse String | 🟢 Easy | Recursion | 2026-06-13 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-13 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-13T18:31:20.776221
-**Last Active**: 2026-06-13
+**Last Updated**: 2026-06-14T00:30:57.347972
+**Last Active**: 2026-06-14

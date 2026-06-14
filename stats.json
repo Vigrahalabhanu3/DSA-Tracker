@@ -1,11 +1,11 @@
 {
-  "totalProblems": 164,
-  "easySolved": 58,
-  "mediumSolved": 94,
+  "totalProblems": 167,
+  "easySolved": 60,
+  "mediumSolved": 95,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 126.07,
-  "lastUpdated": "2026-06-13T18:31:20.776221",
+  "totalHours": 127.11,
+  "lastUpdated": "2026-06-14T00:30:57.347972",
   "topicStats": {
     "Arrays": 3,
     "Strings": 14,
@@ -13,13 +13,13 @@
     "Trees": 10,
     "Graphs": 10,
     "DynamicProgramming": 15,
-    "BinarySearch": 9,
+    "BinarySearch": 10,
     "Sorting": 8,
     "Hashing": 12,
     "Recursion": 9,
     "Stack": 7,
-    "Queue": 7,
-    "Heap": 12,
+    "Queue": 8,
+    "Heap": 13,
     "Greedy": 11,
     "Backtracking": 15,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 111
+      "solved": 114
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Implement Queue Using Stacks",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T00:30:57.347962"
+    },
+    {
+      "name": "Binary Search",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T00:30:57.347958"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T00:30:57.347948"
+    },
     {
       "name": "Linked List Cycle",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "Recursion",
       "date": "2026-06-12",
       "solvedAt": "2026-06-12T00:30:56.002511"
-    },
-    {
-      "name": "Longest Increasing Subsequence",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T00:30:56.002500"
-    },
-    {
-      "name": "House Robber",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T18:31:23.217868"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-11",
-      "solvedAt": "2026-06-11T18:31:23.217857"
     }
   ],
-  "lastActive": "2026-06-13",
+  "lastActive": "2026-06-14",
   "totalSolved": 41
 }
