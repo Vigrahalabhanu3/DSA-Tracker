@@ -1,19 +1,19 @@
 {
-  "totalProblems": 174,
+  "totalProblems": 177,
   "easySolved": 64,
-  "mediumSolved": 98,
+  "mediumSolved": 101,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 131.21,
-  "lastUpdated": "2026-06-14T12:32:06.407400",
+  "totalHours": 133.16,
+  "lastUpdated": "2026-06-14T18:31:21.147639",
   "topicStats": {
-    "Arrays": 3,
+    "Arrays": 4,
     "Strings": 14,
     "LinkedList": 14,
     "Trees": 10,
     "Graphs": 10,
-    "DynamicProgramming": 15,
-    "BinarySearch": 12,
+    "DynamicProgramming": 16,
+    "BinarySearch": 13,
     "Sorting": 8,
     "Hashing": 13,
     "Recursion": 12,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 121
+      "solved": 124
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Product of Array Except Self",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T18:31:21.147625"
+    },
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T18:31:21.147622"
+    },
+    {
+      "name": "Search in Rotated Sorted Array",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T18:31:21.147606"
+    },
     {
       "name": "Reverse String",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-12",
       "solvedAt": "2026-06-12T12:32:04.905608"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T12:32:04.905605"
-    },
-    {
-      "name": "Add Two Numbers",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T12:32:04.905590"
-    },
-    {
-      "name": "Contains Duplicate",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T08:31:07.466308"
     }
   ],
   "lastActive": "2026-06-14",
