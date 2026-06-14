@@ -1,11 +1,11 @@
 {
-  "totalProblems": 170,
-  "easySolved": 62,
-  "mediumSolved": 96,
+  "totalProblems": 172,
+  "easySolved": 63,
+  "mediumSolved": 97,
   "hardSolved": 14,
   "streakDays": 1,
-  "totalHours": 128.7,
-  "lastUpdated": "2026-06-14T04:31:09.675597",
+  "totalHours": 129.89,
+  "lastUpdated": "2026-06-14T08:31:08.993853",
   "topicStats": {
     "Arrays": 3,
     "Strings": 14,
@@ -16,8 +16,8 @@
     "BinarySearch": 11,
     "Sorting": 8,
     "Hashing": 13,
-    "Recursion": 10,
-    "Stack": 7,
+    "Recursion": 11,
+    "Stack": 8,
     "Queue": 8,
     "Heap": 13,
     "Greedy": 11,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 117
+      "solved": 119
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Power of Three",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T08:31:08.993840"
+    },
+    {
+      "name": "Evaluate Reverse Polish Notation",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-14",
+      "solvedAt": "2026-06-14T08:31:08.993819"
+    },
     {
       "name": "Power of Three",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-12",
       "solvedAt": "2026-06-12T08:31:07.466292"
-    },
-    {
-      "name": "Linked List Cycle",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T04:31:08.247933"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-12",
-      "solvedAt": "2026-06-12T04:31:08.247929"
     }
   ],
   "lastActive": "2026-06-14",
