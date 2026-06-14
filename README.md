@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 172 |
-| **🟢 Easy** | 63 (36.6%) |
-| **🟡 Medium** | 97 (56.4%) |
-| **🔴 Hard** | 14 (8.1%) |
+| **Total Problems Solved** | 174 |
+| **🟢 Easy** | 64 (36.8%) |
+| **🟡 Medium** | 98 (56.3%) |
+| **🔴 Hard** | 14 (8.0%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 129.89h |
+| **⏱️ Total Hours** | 131.21h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 119 |
+| LeetCode | 121 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -34,8 +34,8 @@
 | LinkedList | 14 |
 | Hashing | 13 |
 | Heap | 13 |
-| BinarySearch | 11 |
-| Recursion | 11 |
+| BinarySearch | 12 |
+| Recursion | 12 |
 | Greedy | 11 |
 | Trees | 10 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Reverse String | 🟢 Easy | Recursion | 2026-06-14 |
+| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-14 |
 | Power of Three | 🟢 Easy | Recursion | 2026-06-14 |
 | Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-14 |
 | Power of Three | 🟢 Easy | Recursion | 2026-06-14 |
-| Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-14 |
-| Group Anagrams | 🟡 Medium | Hashing | 2026-06-14 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-14T08:31:08.993853
+**Last Updated**: 2026-06-14T12:32:06.407400
 **Last Active**: 2026-06-14
