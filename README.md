@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 177 |
-| **🟢 Easy** | 64 (36.2%) |
-| **🟡 Medium** | 101 (57.1%) |
-| **🔴 Hard** | 14 (7.9%) |
+| **Total Problems Solved** | 180 |
+| **🟢 Easy** | 66 (36.7%) |
+| **🟡 Medium** | 102 (56.7%) |
+| **🔴 Hard** | 14 (7.8%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 133.16h |
+| **⏱️ Total Hours** | 134.16h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 124 |
+| LeetCode | 127 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -34,9 +34,9 @@
 | LinkedList | 14 |
 | BinarySearch | 13 |
 | Hashing | 13 |
+| Recursion | 13 |
 | Heap | 13 |
-| Recursion | 12 |
-| Greedy | 11 |
+| Greedy | 12 |
 | Trees | 10 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Valid Parentheses | 🟢 Easy | Stack | 2026-06-15 |
+| Reverse String | 🟢 Easy | Recursion | 2026-06-15 |
+| Island Perimeter | 🟡 Medium | Greedy | 2026-06-15 |
 | Product of Array Except Self | 🟡 Medium | Arrays | 2026-06-14 |
 | House Robber | 🟡 Medium | DynamicProgramming | 2026-06-14 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-14 |
-| Reverse String | 🟢 Easy | Recursion | 2026-06-14 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-14 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-14T18:31:21.147639
-**Last Active**: 2026-06-14
+**Last Updated**: 2026-06-15T00:30:54.287290
+**Last Active**: 2026-06-15
