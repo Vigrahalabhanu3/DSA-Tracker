@@ -1,11 +1,11 @@
 {
-  "totalProblems": 180,
-  "easySolved": 66,
+  "totalProblems": 182,
+  "easySolved": 67,
   "mediumSolved": 102,
-  "hardSolved": 14,
+  "hardSolved": 15,
   "streakDays": 1,
-  "totalHours": 134.16,
-  "lastUpdated": "2026-06-15T00:30:54.287290",
+  "totalHours": 135.96,
+  "lastUpdated": "2026-06-15T04:31:09.750290",
   "topicStats": {
     "Arrays": 4,
     "Strings": 14,
@@ -16,10 +16,10 @@
     "BinarySearch": 13,
     "Sorting": 8,
     "Hashing": 13,
-    "Recursion": 13,
+    "Recursion": 14,
     "Stack": 9,
     "Queue": 8,
-    "Heap": 13,
+    "Heap": 14,
     "Greedy": 12,
     "Backtracking": 15,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 127
+      "solved": 129
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Power of Three",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-15",
+      "solvedAt": "2026-06-15T04:31:09.750278"
+    },
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-15",
+      "solvedAt": "2026-06-15T04:31:09.750269"
+    },
     {
       "name": "Valid Parentheses",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-13",
       "solvedAt": "2026-06-13T00:30:55.237318"
-    },
-    {
-      "name": "Majority Element",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T00:30:55.237315"
-    },
-    {
-      "name": "Daily Temperatures",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Stack",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T00:30:55.237305"
     }
   ],
   "lastActive": "2026-06-15",

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 180 |
-| **🟢 Easy** | 66 (36.7%) |
-| **🟡 Medium** | 102 (56.7%) |
-| **🔴 Hard** | 14 (7.8%) |
+| **Total Problems Solved** | 182 |
+| **🟢 Easy** | 67 (36.8%) |
+| **🟡 Medium** | 102 (56.0%) |
+| **🔴 Hard** | 15 (8.2%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 134.16h |
+| **⏱️ Total Hours** | 135.96h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 127 |
+| LeetCode | 129 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -32,10 +32,10 @@
 | Backtracking | 15 |
 | Strings | 14 |
 | LinkedList | 14 |
+| Recursion | 14 |
+| Heap | 14 |
 | BinarySearch | 13 |
 | Hashing | 13 |
-| Recursion | 13 |
-| Heap | 13 |
 | Greedy | 12 |
 | Trees | 10 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Power of Three | 🟢 Easy | Recursion | 2026-06-15 |
+| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-15 |
 | Valid Parentheses | 🟢 Easy | Stack | 2026-06-15 |
 | Reverse String | 🟢 Easy | Recursion | 2026-06-15 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-15 |
-| Product of Array Except Self | 🟡 Medium | Arrays | 2026-06-14 |
-| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-14 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-15T00:30:54.287290
+**Last Updated**: 2026-06-15T04:31:09.750290
 **Last Active**: 2026-06-15
