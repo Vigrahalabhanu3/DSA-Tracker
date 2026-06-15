@@ -1,33 +1,33 @@
 {
-  "totalProblems": 182,
-  "easySolved": 67,
-  "mediumSolved": 102,
-  "hardSolved": 15,
+  "totalProblems": 185,
+  "easySolved": 68,
+  "mediumSolved": 103,
+  "hardSolved": 16,
   "streakDays": 1,
-  "totalHours": 135.96,
-  "lastUpdated": "2026-06-15T04:31:09.750290",
+  "totalHours": 136.58,
+  "lastUpdated": "2026-06-15T08:31:07.784877",
   "topicStats": {
     "Arrays": 4,
     "Strings": 14,
     "LinkedList": 14,
     "Trees": 10,
     "Graphs": 10,
-    "DynamicProgramming": 16,
+    "DynamicProgramming": 17,
     "BinarySearch": 13,
     "Sorting": 8,
     "Hashing": 13,
     "Recursion": 14,
     "Stack": 9,
     "Queue": 8,
-    "Heap": 14,
-    "Greedy": 12,
+    "Heap": 15,
+    "Greedy": 13,
     "Backtracking": 15,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 129
+      "solved": 132
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-15",
+      "solvedAt": "2026-06-15T08:31:07.784868"
+    },
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-15",
+      "solvedAt": "2026-06-15T08:31:07.784865"
+    },
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-15",
+      "solvedAt": "2026-06-15T08:31:07.784856"
+    },
     {
       "name": "Power of Three",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Strings",
       "date": "2026-06-13",
       "solvedAt": "2026-06-13T04:31:07.304692"
-    },
-    {
-      "name": "Merge Two Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T04:31:07.304688"
-    },
-    {
-      "name": "Combinations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T04:31:07.304680"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T00:30:55.237318"
     }
   ],
   "lastActive": "2026-06-15",

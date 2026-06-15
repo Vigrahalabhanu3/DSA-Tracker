@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 182 |
-| **🟢 Easy** | 67 (36.8%) |
-| **🟡 Medium** | 102 (56.0%) |
-| **🔴 Hard** | 15 (8.2%) |
+| **Total Problems Solved** | 185 |
+| **🟢 Easy** | 68 (36.8%) |
+| **🟡 Medium** | 103 (55.7%) |
+| **🔴 Hard** | 16 (8.6%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 135.96h |
+| **⏱️ Total Hours** | 136.58h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 129 |
+| LeetCode | 132 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,15 +28,15 @@
 
 | Topic | Count |
 |-------|-------|
-| DynamicProgramming | 16 |
+| DynamicProgramming | 17 |
+| Heap | 15 |
 | Backtracking | 15 |
 | Strings | 14 |
 | LinkedList | 14 |
 | Recursion | 14 |
-| Heap | 14 |
 | BinarySearch | 13 |
 | Hashing | 13 |
-| Greedy | 12 |
+| Greedy | 13 |
 | Trees | 10 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Assign Cookies | 🟢 Easy | Greedy | 2026-06-15 |
+| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-15 |
+| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-15 |
 | Power of Three | 🟢 Easy | Recursion | 2026-06-15 |
 | Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-15 |
-| Valid Parentheses | 🟢 Easy | Stack | 2026-06-15 |
-| Reverse String | 🟢 Easy | Recursion | 2026-06-15 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-15 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-15T04:31:09.750290
+**Last Updated**: 2026-06-15T08:31:07.784877
 **Last Active**: 2026-06-15
