@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 187 |
-| **🟢 Easy** | 68 (36.4%) |
-| **🟡 Medium** | 105 (56.1%) |
-| **🔴 Hard** | 16 (8.6%) |
+| **Total Problems Solved** | 190 |
+| **🟢 Easy** | 69 (36.3%) |
+| **🟡 Medium** | 107 (56.3%) |
+| **🔴 Hard** | 16 (8.4%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 138.10h |
+| **⏱️ Total Hours** | 139.88h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 134 |
+| LeetCode | 137 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,13 +30,13 @@
 |-------|-------|
 | DynamicProgramming | 17 |
 | Backtracking | 16 |
+| Strings | 15 |
 | Heap | 15 |
-| Strings | 14 |
 | LinkedList | 14 |
+| Hashing | 14 |
 | Recursion | 14 |
+| Greedy | 14 |
 | BinarySearch | 13 |
-| Hashing | 13 |
-| Greedy | 13 |
 | Trees | 10 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Island Perimeter | 🟡 Medium | Greedy | 2026-06-15 |
+| Group Anagrams | 🟡 Medium | Hashing | 2026-06-15 |
+| Valid Palindrome | 🟢 Easy | Strings | 2026-06-15 |
 | Combinations | 🟡 Medium | Backtracking | 2026-06-15 |
 | Merge Intervals | 🟡 Medium | Sorting | 2026-06-15 |
-| Assign Cookies | 🟢 Easy | Greedy | 2026-06-15 |
-| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-15 |
-| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-15 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-15T12:32:04.966912
+**Last Updated**: 2026-06-15T18:31:20.543028
 **Last Active**: 2026-06-15
