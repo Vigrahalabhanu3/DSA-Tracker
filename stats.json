@@ -1,11 +1,11 @@
 {
-  "totalProblems": 185,
+  "totalProblems": 187,
   "easySolved": 68,
-  "mediumSolved": 103,
+  "mediumSolved": 105,
   "hardSolved": 16,
   "streakDays": 1,
-  "totalHours": 136.58,
-  "lastUpdated": "2026-06-15T08:31:07.784877",
+  "totalHours": 138.1,
+  "lastUpdated": "2026-06-15T12:32:04.966912",
   "topicStats": {
     "Arrays": 4,
     "Strings": 14,
@@ -14,20 +14,20 @@
     "Graphs": 10,
     "DynamicProgramming": 17,
     "BinarySearch": 13,
-    "Sorting": 8,
+    "Sorting": 9,
     "Hashing": 13,
     "Recursion": 14,
     "Stack": 9,
     "Queue": 8,
     "Heap": 15,
     "Greedy": 13,
-    "Backtracking": 15,
+    "Backtracking": 16,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 132
+      "solved": 134
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Combinations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-15",
+      "solvedAt": "2026-06-15T12:32:04.966898"
+    },
+    {
+      "name": "Merge Intervals",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-15",
+      "solvedAt": "2026-06-15T12:32:04.966884"
+    },
     {
       "name": "Assign Cookies",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Recursion",
       "date": "2026-06-13",
       "solvedAt": "2026-06-13T08:31:05.764214"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T08:31:05.764205"
-    },
-    {
-      "name": "Longest Substring Without Repeating",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T04:31:07.304692"
     }
   ],
   "lastActive": "2026-06-15",
