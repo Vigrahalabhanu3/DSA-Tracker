@@ -1,21 +1,21 @@
 {
-  "totalProblems": 200,
+  "totalProblems": 202,
   "easySolved": 74,
-  "mediumSolved": 111,
+  "mediumSolved": 113,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 145.05,
-  "lastUpdated": "2026-06-16T12:32:16.430691",
+  "totalHours": 146.52,
+  "lastUpdated": "2026-06-16T18:31:29.153010",
   "topicStats": {
     "Arrays": 4,
     "Strings": 15,
     "LinkedList": 16,
     "Trees": 12,
     "Graphs": 10,
-    "DynamicProgramming": 17,
+    "DynamicProgramming": 18,
     "BinarySearch": 14,
     "Sorting": 9,
-    "Hashing": 14,
+    "Hashing": 15,
     "Recursion": 15,
     "Stack": 10,
     "Queue": 9,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 147
+      "solved": 149
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Top K Frequent Elements",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Hashing",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T18:31:29.152999"
+    },
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T18:31:29.152990"
+    },
     {
       "name": "Invert Binary Tree",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-06-14",
       "solvedAt": "2026-06-14T12:32:06.407377"
-    },
-    {
-      "name": "Power of Three",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T08:31:08.993840"
-    },
-    {
-      "name": "Evaluate Reverse Polish Notation",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Stack",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T08:31:08.993819"
     }
   ],
   "lastActive": "2026-06-16",

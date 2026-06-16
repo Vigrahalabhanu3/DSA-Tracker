@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 200 |
-| **🟢 Easy** | 74 (37.0%) |
-| **🟡 Medium** | 111 (55.5%) |
-| **🔴 Hard** | 17 (8.5%) |
+| **Total Problems Solved** | 202 |
+| **🟢 Easy** | 74 (36.6%) |
+| **🟡 Medium** | 113 (55.9%) |
+| **🔴 Hard** | 17 (8.4%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 145.05h |
+| **⏱️ Total Hours** | 146.52h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 147 |
+| LeetCode | 149 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,14 +28,14 @@
 
 | Topic | Count |
 |-------|-------|
-| DynamicProgramming | 17 |
+| DynamicProgramming | 18 |
 | Backtracking | 17 |
 | LinkedList | 16 |
 | Heap | 16 |
 | Strings | 15 |
+| Hashing | 15 |
 | Recursion | 15 |
 | BinarySearch | 14 |
-| Hashing | 14 |
 | Greedy | 14 |
 | Trees | 12 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Top K Frequent Elements | 🟡 Medium | Hashing | 2026-06-16 |
+| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-16 |
 | Invert Binary Tree | 🟢 Easy | Trees | 2026-06-16 |
 | Task Scheduler | 🟡 Medium | Queue | 2026-06-16 |
 | Word Search | 🟡 Medium | Backtracking | 2026-06-16 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-16 |
-| Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-16 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-16T12:32:16.430691
+**Last Updated**: 2026-06-16T18:31:29.153010
 **Last Active**: 2026-06-16
