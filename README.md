@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 197 |
-| **🟢 Easy** | 73 (37.1%) |
-| **🟡 Medium** | 109 (55.3%) |
-| **🔴 Hard** | 17 (8.6%) |
+| **Total Problems Solved** | 200 |
+| **🟢 Easy** | 74 (37.0%) |
+| **🟡 Medium** | 111 (55.5%) |
+| **🔴 Hard** | 17 (8.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 144.37h |
+| **⏱️ Total Hours** | 145.05h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 144 |
+| LeetCode | 147 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,26 +29,26 @@
 | Topic | Count |
 |-------|-------|
 | DynamicProgramming | 17 |
+| Backtracking | 17 |
 | LinkedList | 16 |
 | Heap | 16 |
-| Backtracking | 16 |
 | Strings | 15 |
 | Recursion | 15 |
 | BinarySearch | 14 |
 | Hashing | 14 |
 | Greedy | 14 |
-| Trees | 11 |
+| Trees | 12 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-16 |
+| Task Scheduler | 🟡 Medium | Queue | 2026-06-16 |
+| Word Search | 🟡 Medium | Backtracking | 2026-06-16 |
 | Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-16 |
 | Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-16 |
-| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-16 |
-| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-16 |
-| Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-16 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-16T08:31:06.842472
+**Last Updated**: 2026-06-16T12:32:16.430691
 **Last Active**: 2026-06-16

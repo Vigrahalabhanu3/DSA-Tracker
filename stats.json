@@ -1,16 +1,16 @@
 {
-  "totalProblems": 197,
-  "easySolved": 73,
-  "mediumSolved": 109,
+  "totalProblems": 200,
+  "easySolved": 74,
+  "mediumSolved": 111,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 144.37,
-  "lastUpdated": "2026-06-16T08:31:06.842472",
+  "totalHours": 145.05,
+  "lastUpdated": "2026-06-16T12:32:16.430691",
   "topicStats": {
     "Arrays": 4,
     "Strings": 15,
     "LinkedList": 16,
-    "Trees": 11,
+    "Trees": 12,
     "Graphs": 10,
     "DynamicProgramming": 17,
     "BinarySearch": 14,
@@ -18,16 +18,16 @@
     "Hashing": 14,
     "Recursion": 15,
     "Stack": 10,
-    "Queue": 8,
+    "Queue": 9,
     "Heap": 16,
     "Greedy": 14,
-    "Backtracking": 16,
+    "Backtracking": 17,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 144
+      "solved": 147
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Invert Binary Tree",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T12:32:16.430682"
+    },
+    {
+      "name": "Task Scheduler",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Queue",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T12:32:16.430678"
+    },
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T12:32:16.430669"
+    },
     {
       "name": "Search in Rotated Sorted Array",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Stack",
       "date": "2026-06-14",
       "solvedAt": "2026-06-14T08:31:08.993819"
-    },
-    {
-      "name": "Power of Three",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T04:31:09.675590"
-    },
-    {
-      "name": "Search Insert Position",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T04:31:09.675588"
-    },
-    {
-      "name": "Group Anagrams",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T04:31:09.675580"
     }
   ],
   "lastActive": "2026-06-16",
