@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 190 |
-| **🟢 Easy** | 69 (36.3%) |
-| **🟡 Medium** | 107 (56.3%) |
-| **🔴 Hard** | 16 (8.4%) |
+| **Total Problems Solved** | 192 |
+| **🟢 Easy** | 70 (36.5%) |
+| **🟡 Medium** | 107 (55.7%) |
+| **🔴 Hard** | 17 (8.9%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 139.88h |
+| **⏱️ Total Hours** | 141.72h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 137 |
+| LeetCode | 139 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,12 +29,12 @@
 | Topic | Count |
 |-------|-------|
 | DynamicProgramming | 17 |
+| Heap | 16 |
 | Backtracking | 16 |
 | Strings | 15 |
-| Heap | 15 |
+| Recursion | 15 |
 | LinkedList | 14 |
 | Hashing | 14 |
-| Recursion | 14 |
 | Greedy | 14 |
 | BinarySearch | 13 |
 | Trees | 10 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-16 |
+| Fibonacci Number | 🟢 Easy | Recursion | 2026-06-16 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-15 |
 | Group Anagrams | 🟡 Medium | Hashing | 2026-06-15 |
 | Valid Palindrome | 🟢 Easy | Strings | 2026-06-15 |
-| Combinations | 🟡 Medium | Backtracking | 2026-06-15 |
-| Merge Intervals | 🟡 Medium | Sorting | 2026-06-15 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-15T18:31:20.543028
-**Last Active**: 2026-06-15
+**Last Updated**: 2026-06-16T00:30:53.538728
+**Last Active**: 2026-06-16

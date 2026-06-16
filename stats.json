@@ -1,11 +1,11 @@
 {
-  "totalProblems": 190,
-  "easySolved": 69,
+  "totalProblems": 192,
+  "easySolved": 70,
   "mediumSolved": 107,
-  "hardSolved": 16,
+  "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 139.88,
-  "lastUpdated": "2026-06-15T18:31:20.543028",
+  "totalHours": 141.72,
+  "lastUpdated": "2026-06-16T00:30:53.538728",
   "topicStats": {
     "Arrays": 4,
     "Strings": 15,
@@ -16,10 +16,10 @@
     "BinarySearch": 13,
     "Sorting": 9,
     "Hashing": 14,
-    "Recursion": 14,
+    "Recursion": 15,
     "Stack": 9,
     "Queue": 8,
-    "Heap": 15,
+    "Heap": 16,
     "Greedy": 14,
     "Backtracking": 16,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 137
+      "solved": 139
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T00:30:53.538714"
+    },
+    {
+      "name": "Fibonacci Number",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T00:30:53.538702"
+    },
     {
       "name": "Island Perimeter",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "Stack",
       "date": "2026-06-13",
       "solvedAt": "2026-06-13T18:31:20.776208"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T18:31:20.776198"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-13",
-      "solvedAt": "2026-06-13T12:32:02.954636"
     }
   ],
-  "lastActive": "2026-06-15",
+  "lastActive": "2026-06-16",
   "totalSolved": 41
 }
