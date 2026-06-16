@@ -1,23 +1,23 @@
 {
-  "totalProblems": 194,
-  "easySolved": 72,
-  "mediumSolved": 107,
+  "totalProblems": 197,
+  "easySolved": 73,
+  "mediumSolved": 109,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 142.62,
-  "lastUpdated": "2026-06-16T04:31:08.668610",
+  "totalHours": 144.37,
+  "lastUpdated": "2026-06-16T08:31:06.842472",
   "topicStats": {
     "Arrays": 4,
     "Strings": 15,
-    "LinkedList": 15,
+    "LinkedList": 16,
     "Trees": 11,
     "Graphs": 10,
     "DynamicProgramming": 17,
-    "BinarySearch": 13,
+    "BinarySearch": 14,
     "Sorting": 9,
     "Hashing": 14,
     "Recursion": 15,
-    "Stack": 9,
+    "Stack": 10,
     "Queue": 8,
     "Heap": 16,
     "Greedy": 14,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 141
+      "solved": 144
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Search in Rotated Sorted Array",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T08:31:06.842464"
+    },
+    {
+      "name": "Evaluate Reverse Polish Notation",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T08:31:06.842459"
+    },
+    {
+      "name": "Merge Two Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-16",
+      "solvedAt": "2026-06-16T08:31:06.842436"
+    },
     {
       "name": "Invert Binary Tree",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Hashing",
       "date": "2026-06-14",
       "solvedAt": "2026-06-14T04:31:09.675580"
-    },
-    {
-      "name": "Implement Queue Using Stacks",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T00:30:57.347962"
-    },
-    {
-      "name": "Binary Search",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T00:30:57.347958"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T00:30:57.347948"
     }
   ],
   "lastActive": "2026-06-16",

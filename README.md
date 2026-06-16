@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 194 |
-| **🟢 Easy** | 72 (37.1%) |
-| **🟡 Medium** | 107 (55.2%) |
-| **🔴 Hard** | 17 (8.8%) |
+| **Total Problems Solved** | 197 |
+| **🟢 Easy** | 73 (37.1%) |
+| **🟡 Medium** | 109 (55.3%) |
+| **🔴 Hard** | 17 (8.6%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 142.62h |
+| **⏱️ Total Hours** | 144.37h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 141 |
+| LeetCode | 144 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,14 +29,14 @@
 | Topic | Count |
 |-------|-------|
 | DynamicProgramming | 17 |
+| LinkedList | 16 |
 | Heap | 16 |
 | Backtracking | 16 |
 | Strings | 15 |
-| LinkedList | 15 |
 | Recursion | 15 |
+| BinarySearch | 14 |
 | Hashing | 14 |
 | Greedy | 14 |
-| BinarySearch | 13 |
 | Trees | 11 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-16 |
+| Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-16 |
+| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-16 |
 | Invert Binary Tree | 🟢 Easy | Trees | 2026-06-16 |
 | Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-16 |
-| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-16 |
-| Fibonacci Number | 🟢 Easy | Recursion | 2026-06-16 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-15 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-16T04:31:08.668610
+**Last Updated**: 2026-06-16T08:31:06.842472
 **Last Active**: 2026-06-16
