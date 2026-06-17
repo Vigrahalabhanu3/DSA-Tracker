@@ -1,19 +1,19 @@
 {
-  "totalProblems": 202,
-  "easySolved": 74,
-  "mediumSolved": 113,
+  "totalProblems": 204,
+  "easySolved": 75,
+  "mediumSolved": 114,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 146.52,
-  "lastUpdated": "2026-06-16T18:31:29.153010",
+  "totalHours": 148.52,
+  "lastUpdated": "2026-06-17T00:30:54.748051",
   "topicStats": {
-    "Arrays": 4,
+    "Arrays": 5,
     "Strings": 15,
     "LinkedList": 16,
     "Trees": 12,
     "Graphs": 10,
     "DynamicProgramming": 18,
-    "BinarySearch": 14,
+    "BinarySearch": 15,
     "Sorting": 9,
     "Hashing": 15,
     "Recursion": 15,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 149
+      "solved": 151
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "First Bad Version",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T00:30:54.748040"
+    },
+    {
+      "name": "Product of Array Except Self",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T00:30:54.748030"
+    },
     {
       "name": "Top K Frequent Elements",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "BinarySearch",
       "date": "2026-06-14",
       "solvedAt": "2026-06-14T18:31:21.147606"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T12:32:06.407387"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T12:32:06.407377"
     }
   ],
-  "lastActive": "2026-06-16",
+  "lastActive": "2026-06-17",
   "totalSolved": 41
 }
