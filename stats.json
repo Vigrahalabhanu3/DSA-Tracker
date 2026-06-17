@@ -1,20 +1,20 @@
 {
-  "totalProblems": 204,
+  "totalProblems": 206,
   "easySolved": 75,
-  "mediumSolved": 114,
+  "mediumSolved": 116,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 148.52,
-  "lastUpdated": "2026-06-17T00:30:54.748051",
+  "totalHours": 149.87,
+  "lastUpdated": "2026-06-17T04:31:10.103152",
   "topicStats": {
-    "Arrays": 5,
+    "Arrays": 6,
     "Strings": 15,
     "LinkedList": 16,
     "Trees": 12,
     "Graphs": 10,
     "DynamicProgramming": 18,
     "BinarySearch": 15,
-    "Sorting": 9,
+    "Sorting": 10,
     "Hashing": 15,
     "Recursion": 15,
     "Stack": 10,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 151
+      "solved": 153
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Product of Array Except Self",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T04:31:10.103139"
+    },
+    {
+      "name": "Merge Intervals",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T04:31:10.103127"
+    },
     {
       "name": "First Bad Version",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Arrays",
       "date": "2026-06-14",
       "solvedAt": "2026-06-14T18:31:21.147625"
-    },
-    {
-      "name": "House Robber",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T18:31:21.147622"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-06-14",
-      "solvedAt": "2026-06-14T18:31:21.147606"
     }
   ],
   "lastActive": "2026-06-17",

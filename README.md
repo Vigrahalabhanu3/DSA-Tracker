@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 204 |
-| **🟢 Easy** | 75 (36.8%) |
-| **🟡 Medium** | 114 (55.9%) |
+| **Total Problems Solved** | 206 |
+| **🟢 Easy** | 75 (36.4%) |
+| **🟡 Medium** | 116 (56.3%) |
 | **🔴 Hard** | 17 (8.3%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 148.52h |
+| **⏱️ Total Hours** | 149.87h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 151 |
+| LeetCode | 153 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Product of Array Except Self | 🟡 Medium | Arrays | 2026-06-17 |
+| Merge Intervals | 🟡 Medium | Sorting | 2026-06-17 |
 | First Bad Version | 🟢 Easy | BinarySearch | 2026-06-17 |
 | Product of Array Except Self | 🟡 Medium | Arrays | 2026-06-17 |
 | Top K Frequent Elements | 🟡 Medium | Hashing | 2026-06-16 |
-| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-16 |
-| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-16 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-17T00:30:54.748051
+**Last Updated**: 2026-06-17T04:31:10.103152
 **Last Active**: 2026-06-17
