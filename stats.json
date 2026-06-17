@@ -1,15 +1,15 @@
 {
-  "totalProblems": 208,
-  "easySolved": 75,
-  "mediumSolved": 118,
+  "totalProblems": 211,
+  "easySolved": 77,
+  "mediumSolved": 119,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 151.57,
-  "lastUpdated": "2026-06-17T08:31:09.799455",
+  "totalHours": 153.21,
+  "lastUpdated": "2026-06-17T12:32:09.043749",
   "topicStats": {
     "Arrays": 6,
     "Strings": 16,
-    "LinkedList": 16,
+    "LinkedList": 17,
     "Trees": 12,
     "Graphs": 11,
     "DynamicProgramming": 18,
@@ -18,8 +18,8 @@
     "Hashing": 15,
     "Recursion": 15,
     "Stack": 10,
-    "Queue": 9,
-    "Heap": 16,
+    "Queue": 10,
+    "Heap": 17,
     "Greedy": 14,
     "Backtracking": 17,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 155
+      "solved": 158
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse Linked List",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T12:32:09.043738"
+    },
+    {
+      "name": "Number of Recent Calls",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T12:32:09.043734"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T12:32:09.043725"
+    },
     {
       "name": "Number of Islands",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Recursion",
       "date": "2026-06-15",
       "solvedAt": "2026-06-15T04:31:09.750278"
-    },
-    {
-      "name": "Merge K Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Heap",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T04:31:09.750269"
-    },
-    {
-      "name": "Valid Parentheses",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T00:30:54.287280"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T00:30:54.287276"
     }
   ],
   "lastActive": "2026-06-17",

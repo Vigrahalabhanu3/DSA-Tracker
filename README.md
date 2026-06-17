@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 208 |
-| **🟢 Easy** | 75 (36.1%) |
-| **🟡 Medium** | 118 (56.7%) |
-| **🔴 Hard** | 17 (8.2%) |
+| **Total Problems Solved** | 211 |
+| **🟢 Easy** | 77 (36.5%) |
+| **🟡 Medium** | 119 (56.4%) |
+| **🔴 Hard** | 17 (8.1%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 151.57h |
+| **⏱️ Total Hours** | 153.21h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 155 |
+| LeetCode | 158 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,10 +29,10 @@
 | Topic | Count |
 |-------|-------|
 | DynamicProgramming | 18 |
+| LinkedList | 17 |
+| Heap | 17 |
 | Backtracking | 17 |
 | Strings | 16 |
-| LinkedList | 16 |
-| Heap | 16 |
 | BinarySearch | 15 |
 | Hashing | 15 |
 | Recursion | 15 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Reverse Linked List | 🟢 Easy | LinkedList | 2026-06-17 |
+| Number of Recent Calls | 🟢 Easy | Queue | 2026-06-17 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-17 |
 | Number of Islands | 🟡 Medium | Graphs | 2026-06-17 |
 | Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-17 |
-| Product of Array Except Self | 🟡 Medium | Arrays | 2026-06-17 |
-| Merge Intervals | 🟡 Medium | Sorting | 2026-06-17 |
-| First Bad Version | 🟢 Easy | BinarySearch | 2026-06-17 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-17T08:31:09.799455
+**Last Updated**: 2026-06-17T12:32:09.043749
 **Last Active**: 2026-06-17
