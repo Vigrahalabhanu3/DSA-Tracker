@@ -1,11 +1,11 @@
 {
-  "totalProblems": 211,
-  "easySolved": 77,
-  "mediumSolved": 119,
+  "totalProblems": 213,
+  "easySolved": 78,
+  "mediumSolved": 120,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 153.21,
-  "lastUpdated": "2026-06-17T12:32:09.043749",
+  "totalHours": 155.09,
+  "lastUpdated": "2026-06-17T18:36:21.823698",
   "topicStats": {
     "Arrays": 6,
     "Strings": 16,
@@ -13,7 +13,7 @@
     "Trees": 12,
     "Graphs": 11,
     "DynamicProgramming": 18,
-    "BinarySearch": 15,
+    "BinarySearch": 16,
     "Sorting": 10,
     "Hashing": 15,
     "Recursion": 15,
@@ -21,13 +21,13 @@
     "Queue": 10,
     "Heap": 17,
     "Greedy": 14,
-    "Backtracking": 17,
+    "Backtracking": 18,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 158
+      "solved": 160
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T18:36:21.823683"
+    },
+    {
+      "name": "Binary Search",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-17",
+      "solvedAt": "2026-06-17T18:36:21.823670"
+    },
     {
       "name": "Reverse Linked List",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "DynamicProgramming",
       "date": "2026-06-15",
       "solvedAt": "2026-06-15T08:31:07.784865"
-    },
-    {
-      "name": "Merge K Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Heap",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T08:31:07.784856"
-    },
-    {
-      "name": "Power of Three",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T04:31:09.750278"
     }
   ],
   "lastActive": "2026-06-17",
