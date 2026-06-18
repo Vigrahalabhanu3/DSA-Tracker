@@ -1,11 +1,11 @@
 {
-  "totalProblems": 223,
-  "easySolved": 82,
+  "totalProblems": 226,
+  "easySolved": 85,
   "mediumSolved": 126,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 160.69,
-  "lastUpdated": "2026-06-18T12:32:07.540758",
+  "totalHours": 161.74,
+  "lastUpdated": "2026-06-18T18:31:25.532045",
   "topicStats": {
     "Arrays": 8,
     "Strings": 16,
@@ -13,21 +13,21 @@
     "Trees": 12,
     "Graphs": 13,
     "DynamicProgramming": 18,
-    "BinarySearch": 18,
+    "BinarySearch": 19,
     "Sorting": 10,
     "Hashing": 15,
     "Recursion": 15,
     "Stack": 10,
-    "Queue": 10,
+    "Queue": 11,
     "Heap": 19,
-    "Greedy": 14,
+    "Greedy": 15,
     "Backtracking": 19,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 170
+      "solved": 173
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Binary Search",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T18:31:25.532035"
+    },
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T18:31:25.532030"
+    },
+    {
+      "name": "Number of Recent Calls",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T18:31:25.532017"
+    },
     {
       "name": "First Bad Version",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-06-16",
       "solvedAt": "2026-06-16T08:31:06.842464"
-    },
-    {
-      "name": "Evaluate Reverse Polish Notation",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Stack",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T08:31:06.842459"
-    },
-    {
-      "name": "Merge Two Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T08:31:06.842436"
-    },
-    {
-      "name": "Invert Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T04:31:08.668595"
     }
   ],
   "lastActive": "2026-06-18",

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 223 |
-| **🟢 Easy** | 82 (36.8%) |
-| **🟡 Medium** | 126 (56.5%) |
-| **🔴 Hard** | 17 (7.6%) |
+| **Total Problems Solved** | 226 |
+| **🟢 Easy** | 85 (37.6%) |
+| **🟡 Medium** | 126 (55.8%) |
+| **🔴 Hard** | 17 (7.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 160.69h |
+| **⏱️ Total Hours** | 161.74h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 170 |
+| LeetCode | 173 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,15 +28,15 @@
 
 | Topic | Count |
 |-------|-------|
+| BinarySearch | 19 |
 | Heap | 19 |
 | Backtracking | 19 |
 | LinkedList | 18 |
 | DynamicProgramming | 18 |
-| BinarySearch | 18 |
 | Strings | 16 |
 | Hashing | 15 |
 | Recursion | 15 |
-| Greedy | 14 |
+| Greedy | 15 |
 | Graphs | 13 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Binary Search | 🟢 Easy | BinarySearch | 2026-06-18 |
+| Assign Cookies | 🟢 Easy | Greedy | 2026-06-18 |
+| Number of Recent Calls | 🟢 Easy | Queue | 2026-06-18 |
 | First Bad Version | 🟢 Easy | BinarySearch | 2026-06-18 |
 | Contains Duplicate | 🟢 Easy | Arrays | 2026-06-18 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-18 |
-| Word Search | 🟡 Medium | Backtracking | 2026-06-18 |
-| Reverse Linked List | 🟢 Easy | LinkedList | 2026-06-18 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-18T12:32:07.540758
+**Last Updated**: 2026-06-18T18:31:25.532045
 **Last Active**: 2026-06-18
