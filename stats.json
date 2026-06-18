@@ -1,15 +1,15 @@
 {
-  "totalProblems": 217,
-  "easySolved": 79,
-  "mediumSolved": 123,
+  "totalProblems": 220,
+  "easySolved": 80,
+  "mediumSolved": 125,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 157.7,
-  "lastUpdated": "2026-06-18T04:31:12.718151",
+  "totalHours": 159.12,
+  "lastUpdated": "2026-06-18T08:31:08.991766",
   "topicStats": {
-    "Arrays": 6,
+    "Arrays": 7,
     "Strings": 16,
-    "LinkedList": 17,
+    "LinkedList": 18,
     "Trees": 12,
     "Graphs": 13,
     "DynamicProgramming": 18,
@@ -21,13 +21,13 @@
     "Queue": 10,
     "Heap": 18,
     "Greedy": 14,
-    "Backtracking": 18,
+    "Backtracking": 19,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 164
+      "solved": 167
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T08:31:08.991756"
+    },
+    {
+      "name": "Reverse Linked List",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T08:31:08.991753"
+    },
+    {
+      "name": "3Sum",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T08:31:08.991743"
+    },
     {
       "name": "Min Heap",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Recursion",
       "date": "2026-06-16",
       "solvedAt": "2026-06-16T00:30:53.538702"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T18:31:20.543019"
-    },
-    {
-      "name": "Group Anagrams",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T18:31:20.543016"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T18:31:20.543007"
     }
   ],
   "lastActive": "2026-06-18",
