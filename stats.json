@@ -1,19 +1,19 @@
 {
-  "totalProblems": 213,
-  "easySolved": 78,
-  "mediumSolved": 120,
+  "totalProblems": 215,
+  "easySolved": 79,
+  "mediumSolved": 121,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 155.09,
-  "lastUpdated": "2026-06-17T18:36:21.823698",
+  "totalHours": 156.28,
+  "lastUpdated": "2026-06-18T00:31:01.472906",
   "topicStats": {
     "Arrays": 6,
     "Strings": 16,
     "LinkedList": 17,
     "Trees": 12,
-    "Graphs": 11,
+    "Graphs": 12,
     "DynamicProgramming": 18,
-    "BinarySearch": 16,
+    "BinarySearch": 17,
     "Sorting": 10,
     "Hashing": 15,
     "Recursion": 15,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 160
+      "solved": 162
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Number of Islands",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T00:31:01.472893"
+    },
+    {
+      "name": "First Bad Version",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T00:31:01.472880"
+    },
     {
       "name": "Word Search",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "Sorting",
       "date": "2026-06-15",
       "solvedAt": "2026-06-15T12:32:04.966884"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T08:31:07.784868"
-    },
-    {
-      "name": "House Robber",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T08:31:07.784865"
     }
   ],
-  "lastActive": "2026-06-17",
+  "lastActive": "2026-06-18",
   "totalSolved": 41
 }
