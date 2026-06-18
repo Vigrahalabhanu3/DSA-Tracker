@@ -1,17 +1,17 @@
 {
-  "totalProblems": 215,
+  "totalProblems": 217,
   "easySolved": 79,
-  "mediumSolved": 121,
+  "mediumSolved": 123,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 156.28,
-  "lastUpdated": "2026-06-18T00:31:01.472906",
+  "totalHours": 157.7,
+  "lastUpdated": "2026-06-18T04:31:12.718151",
   "topicStats": {
     "Arrays": 6,
     "Strings": 16,
     "LinkedList": 17,
     "Trees": 12,
-    "Graphs": 12,
+    "Graphs": 13,
     "DynamicProgramming": 18,
     "BinarySearch": 17,
     "Sorting": 10,
@@ -19,7 +19,7 @@
     "Recursion": 15,
     "Stack": 10,
     "Queue": 10,
-    "Heap": 17,
+    "Heap": 18,
     "Greedy": 14,
     "Backtracking": 18,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 162
+      "solved": 164
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T04:31:12.718137"
+    },
+    {
+      "name": "Number of Connected Components",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T04:31:12.718123"
+    },
     {
       "name": "Number of Islands",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Strings",
       "date": "2026-06-15",
       "solvedAt": "2026-06-15T18:31:20.543007"
-    },
-    {
-      "name": "Combinations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T12:32:04.966898"
-    },
-    {
-      "name": "Merge Intervals",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-15",
-      "solvedAt": "2026-06-15T12:32:04.966884"
     }
   ],
   "lastActive": "2026-06-18",
