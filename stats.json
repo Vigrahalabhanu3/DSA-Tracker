@@ -1,25 +1,25 @@
 {
-  "totalProblems": 220,
-  "easySolved": 80,
-  "mediumSolved": 125,
+  "totalProblems": 223,
+  "easySolved": 82,
+  "mediumSolved": 126,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 159.12,
-  "lastUpdated": "2026-06-18T08:31:08.991766",
+  "totalHours": 160.69,
+  "lastUpdated": "2026-06-18T12:32:07.540758",
   "topicStats": {
-    "Arrays": 7,
+    "Arrays": 8,
     "Strings": 16,
     "LinkedList": 18,
     "Trees": 12,
     "Graphs": 13,
     "DynamicProgramming": 18,
-    "BinarySearch": 17,
+    "BinarySearch": 18,
     "Sorting": 10,
     "Hashing": 15,
     "Recursion": 15,
     "Stack": 10,
     "Queue": 10,
-    "Heap": 18,
+    "Heap": 19,
     "Greedy": 14,
     "Backtracking": 19,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 167
+      "solved": 170
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "First Bad Version",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T12:32:07.540748"
+    },
+    {
+      "name": "Contains Duplicate",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T12:32:07.540744"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-18",
+      "solvedAt": "2026-06-18T12:32:07.540735"
+    },
     {
       "name": "Word Search",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Trees",
       "date": "2026-06-16",
       "solvedAt": "2026-06-16T04:31:08.668595"
-    },
-    {
-      "name": "Linked List Cycle",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T04:31:08.668582"
-    },
-    {
-      "name": "Merge K Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Heap",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T00:30:53.538714"
-    },
-    {
-      "name": "Fibonacci Number",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T00:30:53.538702"
     }
   ],
   "lastActive": "2026-06-18",

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 220 |
-| **🟢 Easy** | 80 (36.4%) |
-| **🟡 Medium** | 125 (56.8%) |
-| **🔴 Hard** | 17 (7.7%) |
+| **Total Problems Solved** | 223 |
+| **🟢 Easy** | 82 (36.8%) |
+| **🟡 Medium** | 126 (56.5%) |
+| **🔴 Hard** | 17 (7.6%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 159.12h |
+| **⏱️ Total Hours** | 160.69h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 167 |
+| LeetCode | 170 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,11 +28,11 @@
 
 | Topic | Count |
 |-------|-------|
+| Heap | 19 |
 | Backtracking | 19 |
 | LinkedList | 18 |
 | DynamicProgramming | 18 |
-| Heap | 18 |
-| BinarySearch | 17 |
+| BinarySearch | 18 |
 | Strings | 16 |
 | Hashing | 15 |
 | Recursion | 15 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| First Bad Version | 🟢 Easy | BinarySearch | 2026-06-18 |
+| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-18 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-18 |
 | Word Search | 🟡 Medium | Backtracking | 2026-06-18 |
 | Reverse Linked List | 🟢 Easy | LinkedList | 2026-06-18 |
-| 3Sum | 🟡 Medium | Arrays | 2026-06-18 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-18 |
-| Number of Connected Components | 🟡 Medium | Graphs | 2026-06-18 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-18T08:31:08.991766
+**Last Updated**: 2026-06-18T12:32:07.540758
 **Last Active**: 2026-06-18
