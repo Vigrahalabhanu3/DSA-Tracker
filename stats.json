@@ -1,15 +1,15 @@
 {
-  "totalProblems": 228,
-  "easySolved": 86,
-  "mediumSolved": 127,
+  "totalProblems": 230,
+  "easySolved": 87,
+  "mediumSolved": 128,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 163.07,
-  "lastUpdated": "2026-06-19T00:30:54.925024",
+  "totalHours": 164.81,
+  "lastUpdated": "2026-06-19T04:31:14.121605",
   "topicStats": {
     "Arrays": 8,
     "Strings": 16,
-    "LinkedList": 18,
+    "LinkedList": 19,
     "Trees": 13,
     "Graphs": 14,
     "DynamicProgramming": 18,
@@ -17,7 +17,7 @@
     "Sorting": 10,
     "Hashing": 15,
     "Recursion": 15,
-    "Stack": 10,
+    "Stack": 11,
     "Queue": 11,
     "Heap": 19,
     "Greedy": 15,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 175
+      "solved": 177
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Stack",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T04:31:14.121593"
+    },
+    {
+      "name": "Reorder List",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T04:31:14.121581"
+    },
     {
       "name": "Course Schedule",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "DynamicProgramming",
       "date": "2026-06-16",
       "solvedAt": "2026-06-16T18:31:29.152990"
-    },
-    {
-      "name": "Invert Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T12:32:16.430682"
-    },
-    {
-      "name": "Task Scheduler",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Queue",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T12:32:16.430678"
     }
   ],
   "lastActive": "2026-06-19",
