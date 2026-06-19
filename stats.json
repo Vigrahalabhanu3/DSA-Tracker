@@ -1,16 +1,16 @@
 {
-  "totalProblems": 236,
-  "easySolved": 88,
-  "mediumSolved": 133,
+  "totalProblems": 238,
+  "easySolved": 89,
+  "mediumSolved": 134,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 167.15,
-  "lastUpdated": "2026-06-19T12:32:08.557495",
+  "totalHours": 168.2,
+  "lastUpdated": "2026-06-19T18:31:23.545793",
   "topicStats": {
     "Arrays": 9,
     "Strings": 17,
     "LinkedList": 19,
-    "Trees": 13,
+    "Trees": 14,
     "Graphs": 14,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
@@ -20,14 +20,14 @@
     "Stack": 11,
     "Queue": 11,
     "Heap": 20,
-    "Greedy": 17,
+    "Greedy": 18,
     "Backtracking": 19,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 183
+      "solved": 185
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Maximum Depth of Binary Tree",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T18:31:23.545779"
+    },
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T18:31:23.545765"
+    },
     {
       "name": "Jump Game",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-17",
       "solvedAt": "2026-06-17T12:32:09.043725"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T08:31:09.799443"
-    },
-    {
-      "name": "Longest Substring Without Repeating",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T08:31:09.799433"
     }
   ],
   "lastActive": "2026-06-19",
