@@ -1,14 +1,14 @@
 {
-  "totalProblems": 233,
-  "easySolved": 87,
-  "mediumSolved": 131,
+  "totalProblems": 236,
+  "easySolved": 88,
+  "mediumSolved": 133,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 165.46,
-  "lastUpdated": "2026-06-19T08:31:07.024767",
+  "totalHours": 167.15,
+  "lastUpdated": "2026-06-19T12:32:08.557495",
   "topicStats": {
     "Arrays": 9,
-    "Strings": 16,
+    "Strings": 17,
     "LinkedList": 19,
     "Trees": 13,
     "Graphs": 14,
@@ -19,15 +19,15 @@
     "Recursion": 15,
     "Stack": 11,
     "Queue": 11,
-    "Heap": 19,
-    "Greedy": 16,
+    "Heap": 20,
+    "Greedy": 17,
     "Backtracking": 19,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 180
+      "solved": 183
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T12:32:08.557483"
+    },
+    {
+      "name": "Valid Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T12:32:08.557481"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T12:32:08.557470"
+    },
     {
       "name": "Kth Largest Element",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Strings",
       "date": "2026-06-17",
       "solvedAt": "2026-06-17T08:31:09.799433"
-    },
-    {
-      "name": "Product of Array Except Self",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T04:31:10.103139"
-    },
-    {
-      "name": "Merge Intervals",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T04:31:10.103127"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T00:30:54.748040"
     }
   ],
   "lastActive": "2026-06-19",
