@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 230 |
-| **🟢 Easy** | 87 (37.8%) |
-| **🟡 Medium** | 128 (55.7%) |
-| **🔴 Hard** | 17 (7.4%) |
+| **Total Problems Solved** | 233 |
+| **🟢 Easy** | 87 (37.3%) |
+| **🟡 Medium** | 131 (56.2%) |
+| **🔴 Hard** | 17 (7.3%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 164.81h |
+| **⏱️ Total Hours** | 165.46h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 177 |
+| LeetCode | 180 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -34,9 +34,9 @@
 | Backtracking | 19 |
 | DynamicProgramming | 18 |
 | Strings | 16 |
+| Greedy | 16 |
 | Hashing | 15 |
 | Recursion | 15 |
-| Greedy | 15 |
 | Graphs | 14 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-19 |
+| Jump Game | 🟡 Medium | Greedy | 2026-06-19 |
+| Product of Array Except Self | 🟡 Medium | Arrays | 2026-06-19 |
 | Min Stack | 🟢 Easy | Stack | 2026-06-19 |
 | Reorder List | 🟡 Medium | LinkedList | 2026-06-19 |
-| Course Schedule | 🟡 Medium | Graphs | 2026-06-19 |
-| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-19 |
-| Binary Search | 🟢 Easy | BinarySearch | 2026-06-18 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-19T04:31:14.121605
+**Last Updated**: 2026-06-19T08:31:07.024767
 **Last Active**: 2026-06-19

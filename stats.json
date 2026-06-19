@@ -1,33 +1,33 @@
 {
-  "totalProblems": 230,
+  "totalProblems": 233,
   "easySolved": 87,
-  "mediumSolved": 128,
+  "mediumSolved": 131,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 164.81,
-  "lastUpdated": "2026-06-19T04:31:14.121605",
+  "totalHours": 165.46,
+  "lastUpdated": "2026-06-19T08:31:07.024767",
   "topicStats": {
-    "Arrays": 8,
+    "Arrays": 9,
     "Strings": 16,
     "LinkedList": 19,
     "Trees": 13,
     "Graphs": 14,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
-    "Sorting": 10,
+    "Sorting": 11,
     "Hashing": 15,
     "Recursion": 15,
     "Stack": 11,
     "Queue": 11,
     "Heap": 19,
-    "Greedy": 15,
+    "Greedy": 16,
     "Backtracking": 19,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 177
+      "solved": 180
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T08:31:07.024754"
+    },
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T08:31:07.024751"
+    },
+    {
+      "name": "Product of Array Except Self",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T08:31:07.024737"
+    },
     {
       "name": "Min Stack",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-06-17",
       "solvedAt": "2026-06-17T00:30:54.748040"
-    },
-    {
-      "name": "Product of Array Except Self",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T00:30:54.748030"
-    },
-    {
-      "name": "Top K Frequent Elements",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T18:31:29.152999"
-    },
-    {
-      "name": "House Robber",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T18:31:29.152990"
     }
   ],
   "lastActive": "2026-06-19",
