@@ -1,17 +1,17 @@
 {
-  "totalProblems": 226,
-  "easySolved": 85,
-  "mediumSolved": 126,
+  "totalProblems": 228,
+  "easySolved": 86,
+  "mediumSolved": 127,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 161.74,
-  "lastUpdated": "2026-06-18T18:31:25.532045",
+  "totalHours": 163.07,
+  "lastUpdated": "2026-06-19T00:30:54.925024",
   "topicStats": {
     "Arrays": 8,
     "Strings": 16,
     "LinkedList": 18,
-    "Trees": 12,
-    "Graphs": 13,
+    "Trees": 13,
+    "Graphs": 14,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
     "Sorting": 10,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 173
+      "solved": 175
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Course Schedule",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T00:30:54.925010"
+    },
+    {
+      "name": "Invert Binary Tree",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-19",
+      "solvedAt": "2026-06-19T00:30:54.924996"
+    },
     {
       "name": "Binary Search",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "Queue",
       "date": "2026-06-16",
       "solvedAt": "2026-06-16T12:32:16.430678"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T12:32:16.430669"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-06-16",
-      "solvedAt": "2026-06-16T08:31:06.842464"
     }
   ],
-  "lastActive": "2026-06-18",
+  "lastActive": "2026-06-19",
   "totalSolved": 41
 }

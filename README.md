@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 226 |
-| **🟢 Easy** | 85 (37.6%) |
-| **🟡 Medium** | 126 (55.8%) |
+| **Total Problems Solved** | 228 |
+| **🟢 Easy** | 86 (37.7%) |
+| **🟡 Medium** | 127 (55.7%) |
 | **🔴 Hard** | 17 (7.5%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 161.74h |
+| **⏱️ Total Hours** | 163.07h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 173 |
+| LeetCode | 175 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -37,18 +37,18 @@
 | Hashing | 15 |
 | Recursion | 15 |
 | Greedy | 15 |
-| Graphs | 13 |
+| Graphs | 14 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Course Schedule | 🟡 Medium | Graphs | 2026-06-19 |
+| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-19 |
 | Binary Search | 🟢 Easy | BinarySearch | 2026-06-18 |
 | Assign Cookies | 🟢 Easy | Greedy | 2026-06-18 |
 | Number of Recent Calls | 🟢 Easy | Queue | 2026-06-18 |
-| First Bad Version | 🟢 Easy | BinarySearch | 2026-06-18 |
-| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-18 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-18T18:31:25.532045
-**Last Active**: 2026-06-18
+**Last Updated**: 2026-06-19T00:30:54.925024
+**Last Active**: 2026-06-19
