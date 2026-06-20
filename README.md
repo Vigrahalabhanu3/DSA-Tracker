@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 248 |
-| **🟢 Easy** | 92 (37.1%) |
-| **🟡 Medium** | 141 (56.9%) |
-| **🔴 Hard** | 17 (6.9%) |
+| **Total Problems Solved** | 250 |
+| **🟢 Easy** | 92 (36.8%) |
+| **🟡 Medium** | 143 (57.2%) |
+| **🔴 Hard** | 17 (6.8%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 172.77h |
+| **⏱️ Total Hours** | 174.65h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 195 |
+| LeetCode | 197 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -37,18 +37,18 @@
 | DynamicProgramming | 18 |
 | Recursion | 16 |
 | Trees | 15 |
-| Hashing | 15 |
+| Graphs | 15 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Number of Islands | 🟡 Medium | Graphs | 2026-06-20 |
+| 3Sum | 🟡 Medium | Arrays | 2026-06-20 |
 | Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-20 |
 | String Compression | 🟡 Medium | Strings | 2026-06-20 |
 | Combinations | 🟡 Medium | Backtracking | 2026-06-20 |
-| Maximum Subarray | 🟡 Medium | Arrays | 2026-06-20 |
-| Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-20 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-20T12:32:08.959039
+**Last Updated**: 2026-06-20T18:31:25.664305
 **Last Active**: 2026-06-20

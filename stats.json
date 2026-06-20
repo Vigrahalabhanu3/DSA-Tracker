@@ -1,17 +1,17 @@
 {
-  "totalProblems": 248,
+  "totalProblems": 250,
   "easySolved": 92,
-  "mediumSolved": 141,
+  "mediumSolved": 143,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 172.77,
-  "lastUpdated": "2026-06-20T12:32:08.959039",
+  "totalHours": 174.65,
+  "lastUpdated": "2026-06-20T18:31:25.664305",
   "topicStats": {
-    "Arrays": 10,
+    "Arrays": 11,
     "Strings": 19,
     "LinkedList": 19,
     "Trees": 15,
-    "Graphs": 14,
+    "Graphs": 15,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
     "Sorting": 12,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 195
+      "solved": 197
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Number of Islands",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T18:31:25.664293"
+    },
+    {
+      "name": "3Sum",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T18:31:25.664283"
+    },
     {
       "name": "Lowest Common Ancestor",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-18",
       "solvedAt": "2026-06-18T12:32:07.540735"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T08:31:08.991756"
-    },
-    {
-      "name": "Reverse Linked List",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T08:31:08.991753"
     }
   ],
   "lastActive": "2026-06-20",
