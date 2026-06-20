@@ -1,13 +1,13 @@
 {
-  "totalProblems": 243,
+  "totalProblems": 246,
   "easySolved": 92,
-  "mediumSolved": 136,
+  "mediumSolved": 139,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 170.51,
-  "lastUpdated": "2026-06-20T04:31:13.892444",
+  "totalHours": 171.37,
+  "lastUpdated": "2026-06-20T08:31:06.384515",
   "topicStats": {
-    "Arrays": 9,
+    "Arrays": 10,
     "Strings": 18,
     "LinkedList": 19,
     "Trees": 14,
@@ -17,17 +17,17 @@
     "Sorting": 12,
     "Hashing": 15,
     "Recursion": 16,
-    "Stack": 11,
+    "Stack": 12,
     "Queue": 12,
     "Heap": 20,
     "Greedy": 19,
-    "Backtracking": 19,
+    "Backtracking": 20,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 190
+      "solved": 193
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Combinations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T08:31:06.384505"
+    },
+    {
+      "name": "Maximum Subarray",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T08:31:06.384502"
+    },
+    {
+      "name": "Evaluate Reverse Polish Notation",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T08:31:06.384491"
+    },
     {
       "name": "Sort Colors",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-18",
       "solvedAt": "2026-06-18T04:31:12.718137"
-    },
-    {
-      "name": "Number of Connected Components",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T04:31:12.718123"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T00:31:01.472893"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T00:31:01.472880"
     }
   ],
   "lastActive": "2026-06-20",

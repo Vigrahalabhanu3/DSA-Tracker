@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 243 |
-| **🟢 Easy** | 92 (37.9%) |
-| **🟡 Medium** | 136 (56.0%) |
-| **🔴 Hard** | 17 (7.0%) |
+| **Total Problems Solved** | 246 |
+| **🟢 Easy** | 92 (37.4%) |
+| **🟡 Medium** | 139 (56.5%) |
+| **🔴 Hard** | 17 (6.9%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 170.51h |
+| **⏱️ Total Hours** | 171.37h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 190 |
+| LeetCode | 193 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,10 +29,10 @@
 | Topic | Count |
 |-------|-------|
 | Heap | 20 |
+| Backtracking | 20 |
 | LinkedList | 19 |
 | BinarySearch | 19 |
 | Greedy | 19 |
-| Backtracking | 19 |
 | Strings | 18 |
 | DynamicProgramming | 18 |
 | Recursion | 16 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Combinations | 🟡 Medium | Backtracking | 2026-06-20 |
+| Maximum Subarray | 🟡 Medium | Arrays | 2026-06-20 |
+| Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-20 |
 | Sort Colors | 🟡 Medium | Sorting | 2026-06-20 |
 | Valid Palindrome | 🟢 Easy | Strings | 2026-06-20 |
-| Reverse String | 🟢 Easy | Recursion | 2026-06-20 |
-| Implement Queue Using Stacks | 🟢 Easy | Queue | 2026-06-20 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-20 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-20T04:31:13.892444
+**Last Updated**: 2026-06-20T08:31:06.384515
 **Last Active**: 2026-06-20
