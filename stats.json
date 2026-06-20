@@ -1,11 +1,11 @@
 {
-  "totalProblems": 238,
-  "easySolved": 89,
-  "mediumSolved": 134,
+  "totalProblems": 241,
+  "easySolved": 91,
+  "mediumSolved": 135,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 168.2,
-  "lastUpdated": "2026-06-19T18:31:23.545793",
+  "totalHours": 169.7,
+  "lastUpdated": "2026-06-20T00:30:55.718492",
   "topicStats": {
     "Arrays": 9,
     "Strings": 17,
@@ -16,18 +16,18 @@
     "BinarySearch": 19,
     "Sorting": 11,
     "Hashing": 15,
-    "Recursion": 15,
+    "Recursion": 16,
     "Stack": 11,
-    "Queue": 11,
+    "Queue": 12,
     "Heap": 20,
-    "Greedy": 18,
+    "Greedy": 19,
     "Backtracking": 19,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 185
+      "solved": 188
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T00:30:55.718482"
+    },
+    {
+      "name": "Implement Queue Using Stacks",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T00:30:55.718465"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T00:30:55.718456"
+    },
     {
       "name": "Maximum Depth of Binary Tree",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "BinarySearch",
       "date": "2026-06-17",
       "solvedAt": "2026-06-17T18:36:21.823670"
-    },
-    {
-      "name": "Reverse Linked List",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T12:32:09.043738"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T12:32:09.043734"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T12:32:09.043725"
     }
   ],
-  "lastActive": "2026-06-19",
+  "lastActive": "2026-06-20",
   "totalSolved": 41
 }
