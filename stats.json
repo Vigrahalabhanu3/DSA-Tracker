@@ -1,16 +1,16 @@
 {
-  "totalProblems": 246,
+  "totalProblems": 248,
   "easySolved": 92,
-  "mediumSolved": 139,
+  "mediumSolved": 141,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 171.37,
-  "lastUpdated": "2026-06-20T08:31:06.384515",
+  "totalHours": 172.77,
+  "lastUpdated": "2026-06-20T12:32:08.959039",
   "topicStats": {
     "Arrays": 10,
-    "Strings": 18,
+    "Strings": 19,
     "LinkedList": 19,
-    "Trees": 14,
+    "Trees": 15,
     "Graphs": 14,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 193
+      "solved": 195
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T12:32:08.959030"
+    },
+    {
+      "name": "String Compression",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T12:32:08.959022"
+    },
     {
       "name": "Combinations",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "LinkedList",
       "date": "2026-06-18",
       "solvedAt": "2026-06-18T08:31:08.991753"
-    },
-    {
-      "name": "3Sum",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T08:31:08.991743"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T04:31:12.718137"
     }
   ],
   "lastActive": "2026-06-20",

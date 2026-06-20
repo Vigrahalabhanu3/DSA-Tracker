@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 246 |
-| **🟢 Easy** | 92 (37.4%) |
-| **🟡 Medium** | 139 (56.5%) |
+| **Total Problems Solved** | 248 |
+| **🟢 Easy** | 92 (37.1%) |
+| **🟡 Medium** | 141 (56.9%) |
 | **🔴 Hard** | 17 (6.9%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 171.37h |
+| **⏱️ Total Hours** | 172.77h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 193 |
+| LeetCode | 195 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,25 +30,25 @@
 |-------|-------|
 | Heap | 20 |
 | Backtracking | 20 |
+| Strings | 19 |
 | LinkedList | 19 |
 | BinarySearch | 19 |
 | Greedy | 19 |
-| Strings | 18 |
 | DynamicProgramming | 18 |
 | Recursion | 16 |
+| Trees | 15 |
 | Hashing | 15 |
-| Trees | 14 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-20 |
+| String Compression | 🟡 Medium | Strings | 2026-06-20 |
 | Combinations | 🟡 Medium | Backtracking | 2026-06-20 |
 | Maximum Subarray | 🟡 Medium | Arrays | 2026-06-20 |
 | Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-20 |
-| Sort Colors | 🟡 Medium | Sorting | 2026-06-20 |
-| Valid Palindrome | 🟢 Easy | Strings | 2026-06-20 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-20T08:31:06.384515
+**Last Updated**: 2026-06-20T12:32:08.959039
 **Last Active**: 2026-06-20
