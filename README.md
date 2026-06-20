@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 241 |
-| **🟢 Easy** | 91 (37.8%) |
-| **🟡 Medium** | 135 (56.0%) |
-| **🔴 Hard** | 17 (7.1%) |
+| **Total Problems Solved** | 243 |
+| **🟢 Easy** | 92 (37.9%) |
+| **🟡 Medium** | 136 (56.0%) |
+| **🔴 Hard** | 17 (7.0%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 169.70h |
+| **⏱️ Total Hours** | 170.51h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 188 |
+| LeetCode | 190 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -33,8 +33,8 @@
 | BinarySearch | 19 |
 | Greedy | 19 |
 | Backtracking | 19 |
+| Strings | 18 |
 | DynamicProgramming | 18 |
-| Strings | 17 |
 | Recursion | 16 |
 | Hashing | 15 |
 | Trees | 14 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Sort Colors | 🟡 Medium | Sorting | 2026-06-20 |
+| Valid Palindrome | 🟢 Easy | Strings | 2026-06-20 |
 | Reverse String | 🟢 Easy | Recursion | 2026-06-20 |
 | Implement Queue Using Stacks | 🟢 Easy | Queue | 2026-06-20 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-20 |
-| Maximum Depth of Binary Tree | 🟢 Easy | Trees | 2026-06-19 |
-| Jump Game | 🟡 Medium | Greedy | 2026-06-19 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-20T00:30:55.718492
+**Last Updated**: 2026-06-20T04:31:13.892444
 **Last Active**: 2026-06-20

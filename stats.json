@@ -1,20 +1,20 @@
 {
-  "totalProblems": 241,
-  "easySolved": 91,
-  "mediumSolved": 135,
+  "totalProblems": 243,
+  "easySolved": 92,
+  "mediumSolved": 136,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 169.7,
-  "lastUpdated": "2026-06-20T00:30:55.718492",
+  "totalHours": 170.51,
+  "lastUpdated": "2026-06-20T04:31:13.892444",
   "topicStats": {
     "Arrays": 9,
-    "Strings": 17,
+    "Strings": 18,
     "LinkedList": 19,
     "Trees": 14,
     "Graphs": 14,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
-    "Sorting": 11,
+    "Sorting": 12,
     "Hashing": 15,
     "Recursion": 16,
     "Stack": 11,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 188
+      "solved": 190
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Sort Colors",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T04:31:13.892431"
+    },
+    {
+      "name": "Valid Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-06-20",
+      "solvedAt": "2026-06-20T04:31:13.892419"
+    },
     {
       "name": "Reverse String",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-06-18",
       "solvedAt": "2026-06-18T00:31:01.472880"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T18:36:21.823683"
-    },
-    {
-      "name": "Binary Search",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-17",
-      "solvedAt": "2026-06-17T18:36:21.823670"
     }
   ],
   "lastActive": "2026-06-20",
