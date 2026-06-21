@@ -1,14 +1,14 @@
 {
-  "totalProblems": 256,
-  "easySolved": 93,
-  "mediumSolved": 148,
+  "totalProblems": 259,
+  "easySolved": 95,
+  "mediumSolved": 149,
   "hardSolved": 17,
   "streakDays": 15,
-  "totalHours": 178.49,
-  "lastUpdated": "2026-06-21T12:34:33.290921",
+  "totalHours": 179.18,
+  "lastUpdated": "2026-06-21T18:31:38.743224",
   "topicStats": {
     "Arrays": 11,
-    "Strings": 19,
+    "Strings": 20,
     "LinkedList": 20,
     "Trees": 15,
     "Graphs": 15,
@@ -17,17 +17,17 @@
     "Sorting": 13,
     "Hashing": 15,
     "Recursion": 16,
-    "Stack": 12,
+    "Stack": 13,
     "Queue": 12,
     "Heap": 21,
-    "Greedy": 22,
+    "Greedy": 23,
     "Backtracking": 20,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 203
+      "solved": 206
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Implement Stack Using Queues",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T18:31:38.743214"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T18:31:38.743210"
+    },
+    {
+      "name": "Valid Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T18:31:38.743198"
+    },
     {
       "name": "Jump Game",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Stack",
       "date": "2026-06-19",
       "solvedAt": "2026-06-19T04:31:14.121593"
-    },
-    {
-      "name": "Reorder List",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T04:31:14.121581"
-    },
-    {
-      "name": "Course Schedule",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T00:30:54.925010"
-    },
-    {
-      "name": "Invert Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T00:30:54.924996"
     }
   ],
   "lastActive": "2026-06-21",
