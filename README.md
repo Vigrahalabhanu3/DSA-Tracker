@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 250 |
-| **🟢 Easy** | 92 (36.8%) |
-| **🟡 Medium** | 143 (57.2%) |
-| **🔴 Hard** | 17 (6.8%) |
+| **Total Problems Solved** | 252 |
+| **🟢 Easy** | 92 (36.5%) |
+| **🟡 Medium** | 145 (57.5%) |
+| **🔴 Hard** | 17 (6.7%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 174.65h |
+| **⏱️ Total Hours** | 176.04h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 197 |
+| LeetCode | 199 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,12 +28,12 @@
 
 | Topic | Count |
 |-------|-------|
-| Heap | 20 |
+| Heap | 21 |
+| Greedy | 20 |
 | Backtracking | 20 |
 | Strings | 19 |
 | LinkedList | 19 |
 | BinarySearch | 19 |
-| Greedy | 19 |
 | DynamicProgramming | 18 |
 | Recursion | 16 |
 | Trees | 15 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Min Heap | 🟡 Medium | Heap | 2026-06-21 |
+| Island Perimeter | 🟡 Medium | Greedy | 2026-06-21 |
 | Number of Islands | 🟡 Medium | Graphs | 2026-06-20 |
 | 3Sum | 🟡 Medium | Arrays | 2026-06-20 |
 | Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-20 |
-| String Compression | 🟡 Medium | Strings | 2026-06-20 |
-| Combinations | 🟡 Medium | Backtracking | 2026-06-20 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-20T18:31:25.664305
-**Last Active**: 2026-06-20
+**Last Updated**: 2026-06-21T00:30:54.479358
+**Last Active**: 2026-06-21

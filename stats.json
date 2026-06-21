@@ -1,11 +1,11 @@
 {
-  "totalProblems": 250,
+  "totalProblems": 252,
   "easySolved": 92,
-  "mediumSolved": 143,
+  "mediumSolved": 145,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 174.65,
-  "lastUpdated": "2026-06-20T18:31:25.664305",
+  "totalHours": 176.04,
+  "lastUpdated": "2026-06-21T00:30:54.479358",
   "topicStats": {
     "Arrays": 11,
     "Strings": 19,
@@ -19,15 +19,15 @@
     "Recursion": 16,
     "Stack": 12,
     "Queue": 12,
-    "Heap": 20,
-    "Greedy": 19,
+    "Heap": 21,
+    "Greedy": 20,
     "Backtracking": 20,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 197
+      "solved": 199
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T00:30:54.479344"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T00:30:54.479330"
+    },
     {
       "name": "Number of Islands",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "BinarySearch",
       "date": "2026-06-18",
       "solvedAt": "2026-06-18T12:32:07.540748"
-    },
-    {
-      "name": "Contains Duplicate",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T12:32:07.540744"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T12:32:07.540735"
     }
   ],
-  "lastActive": "2026-06-20",
+  "lastActive": "2026-06-21",
   "totalSolved": 41
 }
