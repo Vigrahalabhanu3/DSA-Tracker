@@ -1,15 +1,15 @@
 {
-  "totalProblems": 252,
-  "easySolved": 92,
-  "mediumSolved": 145,
+  "totalProblems": 254,
+  "easySolved": 93,
+  "mediumSolved": 146,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 176.04,
-  "lastUpdated": "2026-06-21T00:30:54.479358",
+  "totalHours": 176.87,
+  "lastUpdated": "2026-06-21T04:31:09.045452",
   "topicStats": {
     "Arrays": 11,
     "Strings": 19,
-    "LinkedList": 19,
+    "LinkedList": 20,
     "Trees": 15,
     "Graphs": 15,
     "DynamicProgramming": 18,
@@ -20,14 +20,14 @@
     "Stack": 12,
     "Queue": 12,
     "Heap": 21,
-    "Greedy": 20,
+    "Greedy": 21,
     "Backtracking": 20,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 199
+      "solved": 201
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse Linked List",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T04:31:09.045441"
+    },
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T04:31:09.045431"
+    },
     {
       "name": "Min Heap",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-18",
       "solvedAt": "2026-06-18T18:31:25.532030"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T18:31:25.532017"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T12:32:07.540748"
     }
   ],
   "lastActive": "2026-06-21",
