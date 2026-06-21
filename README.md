@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 254 |
-| **🟢 Easy** | 93 (36.6%) |
-| **🟡 Medium** | 146 (57.5%) |
-| **🔴 Hard** | 17 (6.7%) |
+| **Total Problems Solved** | 256 |
+| **🟢 Easy** | 93 (36.3%) |
+| **🟡 Medium** | 148 (57.8%) |
+| **🔴 Hard** | 17 (6.6%) |
 | **🔥 Current Streak** | 1 days |
-| **⏱️ Total Hours** | 176.87h |
+| **⏱️ Total Hours** | 178.49h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 201 |
+| LeetCode | 203 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,8 +28,8 @@
 
 | Topic | Count |
 |-------|-------|
+| Greedy | 22 |
 | Heap | 21 |
-| Greedy | 21 |
 | LinkedList | 20 |
 | Backtracking | 20 |
 | Strings | 19 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Jump Game | 🟡 Medium | Greedy | 2026-06-21 |
+| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-21 |
 | Reverse Linked List | 🟢 Easy | LinkedList | 2026-06-21 |
 | Jump Game | 🟡 Medium | Greedy | 2026-06-21 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-21 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-21 |
-| Number of Islands | 🟡 Medium | Graphs | 2026-06-20 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-21T04:31:09.045452
+**Last Updated**: 2026-06-21T08:31:19.479207
 **Last Active**: 2026-06-21

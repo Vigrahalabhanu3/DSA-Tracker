@@ -1,11 +1,11 @@
 {
-  "totalProblems": 254,
+  "totalProblems": 256,
   "easySolved": 93,
-  "mediumSolved": 146,
+  "mediumSolved": 148,
   "hardSolved": 17,
   "streakDays": 1,
-  "totalHours": 176.87,
-  "lastUpdated": "2026-06-21T04:31:09.045452",
+  "totalHours": 178.49,
+  "lastUpdated": "2026-06-21T08:31:19.479207",
   "topicStats": {
     "Arrays": 11,
     "Strings": 19,
@@ -14,20 +14,20 @@
     "Graphs": 15,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
-    "Sorting": 12,
+    "Sorting": 13,
     "Hashing": 15,
     "Recursion": 16,
     "Stack": 12,
     "Queue": 12,
     "Heap": 21,
-    "Greedy": 21,
+    "Greedy": 22,
     "Backtracking": 20,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 201
+      "solved": 203
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T08:31:19.479176"
+    },
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-21",
+      "solvedAt": "2026-06-21T08:31:19.479162"
+    },
     {
       "name": "Reverse Linked List",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Trees",
       "date": "2026-06-19",
       "solvedAt": "2026-06-19T00:30:54.924996"
-    },
-    {
-      "name": "Binary Search",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T18:31:25.532035"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-18",
-      "solvedAt": "2026-06-18T18:31:25.532030"
     }
   ],
   "lastActive": "2026-06-21",
