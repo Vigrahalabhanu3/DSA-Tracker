@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 262 |
-| **🟢 Easy** | 97 (37.0%) |
-| **🟡 Medium** | 150 (57.3%) |
-| **🔴 Hard** | 17 (6.5%) |
+| **Total Problems Solved** | 265 |
+| **🟢 Easy** | 99 (37.4%) |
+| **🟡 Medium** | 151 (57.0%) |
+| **🔴 Hard** | 17 (6.4%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 180.60h |
+| **⏱️ Total Hours** | 181.44h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 209 |
+| LeetCode | 212 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,10 +29,10 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 24 |
+| Strings | 21 |
+| LinkedList | 21 |
 | Heap | 21 |
-| Strings | 20 |
-| LinkedList | 20 |
-| Backtracking | 20 |
+| Backtracking | 21 |
 | BinarySearch | 19 |
 | DynamicProgramming | 18 |
 | Recursion | 17 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Combinations | 🟡 Medium | Backtracking | 2026-06-22 |
+| Valid Palindrome | 🟢 Easy | Strings | 2026-06-22 |
+| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-06-22 |
 | Valid Parentheses | 🟢 Easy | Stack | 2026-06-22 |
 | Jump Game | 🟡 Medium | Greedy | 2026-06-22 |
-| Power of Three | 🟢 Easy | Recursion | 2026-06-22 |
-| Implement Stack Using Queues | 🟢 Easy | Stack | 2026-06-21 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-21 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-22T00:30:56.078355
+**Last Updated**: 2026-06-22T04:31:07.420442
 **Last Active**: 2026-06-22

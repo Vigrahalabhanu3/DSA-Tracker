@@ -1,15 +1,15 @@
 {
-  "totalProblems": 262,
-  "easySolved": 97,
-  "mediumSolved": 150,
+  "totalProblems": 265,
+  "easySolved": 99,
+  "mediumSolved": 151,
   "hardSolved": 17,
   "streakDays": 15,
-  "totalHours": 180.6,
-  "lastUpdated": "2026-06-22T00:30:56.078355",
+  "totalHours": 181.44,
+  "lastUpdated": "2026-06-22T04:31:07.420442",
   "topicStats": {
     "Arrays": 11,
-    "Strings": 20,
-    "LinkedList": 20,
+    "Strings": 21,
+    "LinkedList": 21,
     "Trees": 15,
     "Graphs": 15,
     "DynamicProgramming": 18,
@@ -21,13 +21,13 @@
     "Queue": 12,
     "Heap": 21,
     "Greedy": 24,
-    "Backtracking": 20,
+    "Backtracking": 21,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 209
+      "solved": 212
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Combinations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T04:31:07.420433"
+    },
+    {
+      "name": "Valid Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T04:31:07.420430"
+    },
+    {
+      "name": "Merge Two Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T04:31:07.420421"
+    },
     {
       "name": "Valid Parentheses",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-19",
       "solvedAt": "2026-06-19T12:32:08.557483"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T12:32:08.557481"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T12:32:08.557470"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T08:31:07.024754"
     }
   ],
   "lastActive": "2026-06-22",
