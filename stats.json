@@ -1,33 +1,33 @@
 {
-  "totalProblems": 270,
-  "easySolved": 101,
-  "mediumSolved": 154,
+  "totalProblems": 273,
+  "easySolved": 103,
+  "mediumSolved": 155,
   "hardSolved": 17,
   "streakDays": 15,
-  "totalHours": 183.47,
-  "lastUpdated": "2026-06-22T12:32:09.335773",
+  "totalHours": 185.14,
+  "lastUpdated": "2026-06-22T18:31:31.498449",
   "topicStats": {
     "Arrays": 12,
     "Strings": 21,
     "LinkedList": 21,
-    "Trees": 16,
+    "Trees": 17,
     "Graphs": 16,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
     "Sorting": 13,
     "Hashing": 15,
-    "Recursion": 18,
+    "Recursion": 19,
     "Stack": 14,
     "Queue": 12,
     "Heap": 22,
-    "Greedy": 24,
+    "Greedy": 25,
     "Backtracking": 21,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 217
+      "solved": 220
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Power of Three",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T18:31:31.498441"
+    },
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T18:31:31.498438"
+    },
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T18:31:31.498429"
+    },
     {
       "name": "Min Heap",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Stack",
       "date": "2026-06-20",
       "solvedAt": "2026-06-20T08:31:06.384491"
-    },
-    {
-      "name": "Sort Colors",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T04:31:13.892431"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T04:31:13.892419"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T00:30:55.718482"
     }
   ],
   "lastActive": "2026-06-22",
