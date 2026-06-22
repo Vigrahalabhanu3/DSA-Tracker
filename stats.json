@@ -1,17 +1,17 @@
 {
-  "totalProblems": 268,
+  "totalProblems": 270,
   "easySolved": 101,
-  "mediumSolved": 152,
+  "mediumSolved": 154,
   "hardSolved": 17,
   "streakDays": 15,
-  "totalHours": 182.52,
-  "lastUpdated": "2026-06-22T08:31:08.739785",
+  "totalHours": 183.47,
+  "lastUpdated": "2026-06-22T12:32:09.335773",
   "topicStats": {
     "Arrays": 12,
     "Strings": 21,
     "LinkedList": 21,
     "Trees": 16,
-    "Graphs": 15,
+    "Graphs": 16,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
     "Sorting": 13,
@@ -19,7 +19,7 @@
     "Recursion": 18,
     "Stack": 14,
     "Queue": 12,
-    "Heap": 21,
+    "Heap": 22,
     "Greedy": 24,
     "Backtracking": 21,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 215
+      "solved": 217
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T12:32:09.335763"
+    },
+    {
+      "name": "Number of Connected Components",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T12:32:09.335752"
+    },
     {
       "name": "Reverse String",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Recursion",
       "date": "2026-06-20",
       "solvedAt": "2026-06-20T00:30:55.718482"
-    },
-    {
-      "name": "Implement Queue Using Stacks",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T00:30:55.718465"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T00:30:55.718456"
     }
   ],
   "lastActive": "2026-06-22",

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 268 |
-| **🟢 Easy** | 101 (37.7%) |
-| **🟡 Medium** | 152 (56.7%) |
+| **Total Problems Solved** | 270 |
+| **🟢 Easy** | 101 (37.4%) |
+| **🟡 Medium** | 154 (57.0%) |
 | **🔴 Hard** | 17 (6.3%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 182.52h |
+| **⏱️ Total Hours** | 183.47h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 215 |
+| LeetCode | 217 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,26 +29,26 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 24 |
+| Heap | 22 |
 | Strings | 21 |
 | LinkedList | 21 |
-| Heap | 21 |
 | Backtracking | 21 |
 | BinarySearch | 19 |
 | DynamicProgramming | 18 |
 | Recursion | 18 |
 | Trees | 16 |
-| Graphs | 15 |
+| Graphs | 16 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Min Heap | 🟡 Medium | Heap | 2026-06-22 |
+| Number of Connected Components | 🟡 Medium | Graphs | 2026-06-22 |
 | Reverse String | 🟢 Easy | Recursion | 2026-06-22 |
 | Binary Tree Level Order Traversal | 🟢 Easy | Trees | 2026-06-22 |
 | 3Sum | 🟡 Medium | Arrays | 2026-06-22 |
-| Combinations | 🟡 Medium | Backtracking | 2026-06-22 |
-| Valid Palindrome | 🟢 Easy | Strings | 2026-06-22 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-22T08:31:08.739785
+**Last Updated**: 2026-06-22T12:32:09.335773
 **Last Active**: 2026-06-22
