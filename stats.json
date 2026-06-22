@@ -1,11 +1,11 @@
 {
-  "totalProblems": 259,
-  "easySolved": 95,
-  "mediumSolved": 149,
+  "totalProblems": 262,
+  "easySolved": 97,
+  "mediumSolved": 150,
   "hardSolved": 17,
   "streakDays": 15,
-  "totalHours": 179.18,
-  "lastUpdated": "2026-06-21T18:31:38.743224",
+  "totalHours": 180.6,
+  "lastUpdated": "2026-06-22T00:30:56.078355",
   "topicStats": {
     "Arrays": 11,
     "Strings": 20,
@@ -16,18 +16,18 @@
     "BinarySearch": 19,
     "Sorting": 13,
     "Hashing": 15,
-    "Recursion": 16,
-    "Stack": 13,
+    "Recursion": 17,
+    "Stack": 14,
     "Queue": 12,
     "Heap": 21,
-    "Greedy": 23,
+    "Greedy": 24,
     "Backtracking": 20,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 206
+      "solved": 209
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Valid Parentheses",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T00:30:56.078341"
+    },
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T00:30:56.078337"
+    },
+    {
+      "name": "Power of Three",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T00:30:56.078323"
+    },
     {
       "name": "Implement Stack Using Queues",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "Sorting",
       "date": "2026-06-19",
       "solvedAt": "2026-06-19T08:31:07.024754"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T08:31:07.024751"
-    },
-    {
-      "name": "Product of Array Except Self",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T08:31:07.024737"
-    },
-    {
-      "name": "Min Stack",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T04:31:14.121593"
     }
   ],
-  "lastActive": "2026-06-21",
+  "lastActive": "2026-06-22",
   "totalSolved": 41
 }

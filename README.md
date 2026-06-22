@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 259 |
-| **🟢 Easy** | 95 (36.7%) |
-| **🟡 Medium** | 149 (57.5%) |
-| **🔴 Hard** | 17 (6.6%) |
+| **Total Problems Solved** | 262 |
+| **🟢 Easy** | 97 (37.0%) |
+| **🟡 Medium** | 150 (57.3%) |
+| **🔴 Hard** | 17 (6.5%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 179.18h |
+| **⏱️ Total Hours** | 180.60h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 206 |
+| LeetCode | 209 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,14 +28,14 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 23 |
+| Greedy | 24 |
 | Heap | 21 |
 | Strings | 20 |
 | LinkedList | 20 |
 | Backtracking | 20 |
 | BinarySearch | 19 |
 | DynamicProgramming | 18 |
-| Recursion | 16 |
+| Recursion | 17 |
 | Trees | 15 |
 | Graphs | 15 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Valid Parentheses | 🟢 Easy | Stack | 2026-06-22 |
+| Jump Game | 🟡 Medium | Greedy | 2026-06-22 |
+| Power of Three | 🟢 Easy | Recursion | 2026-06-22 |
 | Implement Stack Using Queues | 🟢 Easy | Stack | 2026-06-21 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-21 |
-| Valid Palindrome | 🟢 Easy | Strings | 2026-06-21 |
-| Jump Game | 🟡 Medium | Greedy | 2026-06-21 |
-| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-21 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-21T18:31:38.743224
-**Last Active**: 2026-06-21
+**Last Updated**: 2026-06-22T00:30:56.078355
+**Last Active**: 2026-06-22
