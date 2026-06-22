@@ -1,22 +1,22 @@
 {
-  "totalProblems": 265,
-  "easySolved": 99,
-  "mediumSolved": 151,
+  "totalProblems": 268,
+  "easySolved": 101,
+  "mediumSolved": 152,
   "hardSolved": 17,
   "streakDays": 15,
-  "totalHours": 181.44,
-  "lastUpdated": "2026-06-22T04:31:07.420442",
+  "totalHours": 182.52,
+  "lastUpdated": "2026-06-22T08:31:08.739785",
   "topicStats": {
-    "Arrays": 11,
+    "Arrays": 12,
     "Strings": 21,
     "LinkedList": 21,
-    "Trees": 15,
+    "Trees": 16,
     "Graphs": 15,
     "DynamicProgramming": 18,
     "BinarySearch": 19,
     "Sorting": 13,
     "Hashing": 15,
-    "Recursion": 17,
+    "Recursion": 18,
     "Stack": 14,
     "Queue": 12,
     "Heap": 21,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 212
+      "solved": 215
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T08:31:08.739775"
+    },
+    {
+      "name": "Binary Tree Level Order Traversal",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T08:31:08.739772"
+    },
+    {
+      "name": "3Sum",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-22",
+      "solvedAt": "2026-06-22T08:31:08.739762"
+    },
     {
       "name": "Combinations",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-20",
       "solvedAt": "2026-06-20T00:30:55.718456"
-    },
-    {
-      "name": "Maximum Depth of Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T18:31:23.545779"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T18:31:23.545765"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-19",
-      "solvedAt": "2026-06-19T12:32:08.557483"
     }
   ],
   "lastActive": "2026-06-22",
