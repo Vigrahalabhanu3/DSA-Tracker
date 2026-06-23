@@ -1,13 +1,13 @@
 {
-  "totalProblems": 276,
-  "easySolved": 104,
+  "totalProblems": 278,
+  "easySolved": 106,
   "mediumSolved": 156,
   "hardSolved": 18,
   "streakDays": 15,
-  "totalHours": 186.74,
-  "lastUpdated": "2026-06-23T00:30:57.032007",
+  "totalHours": 187.96,
+  "lastUpdated": "2026-06-23T04:31:06.501390",
   "topicStats": {
-    "Arrays": 12,
+    "Arrays": 13,
     "Strings": 21,
     "LinkedList": 21,
     "Trees": 17,
@@ -16,7 +16,7 @@
     "BinarySearch": 19,
     "Sorting": 13,
     "Hashing": 15,
-    "Recursion": 20,
+    "Recursion": 21,
     "Stack": 14,
     "Queue": 12,
     "Heap": 23,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 223
+      "solved": 225
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Contains Duplicate",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T04:31:06.501375"
+    },
+    {
+      "name": "Fibonacci Number",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T04:31:06.501360"
+    },
     {
       "name": "Reverse String",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Arrays",
       "date": "2026-06-20",
       "solvedAt": "2026-06-20T18:31:25.664283"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T12:32:08.959030"
-    },
-    {
-      "name": "String Compression",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T12:32:08.959022"
     }
   ],
   "lastActive": "2026-06-23",
