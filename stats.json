@@ -1,18 +1,18 @@
 {
-  "totalProblems": 280,
+  "totalProblems": 282,
   "easySolved": 106,
-  "mediumSolved": 158,
-  "hardSolved": 18,
+  "mediumSolved": 159,
+  "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 189.69,
-  "lastUpdated": "2026-06-23T08:31:12.459526",
+  "totalHours": 190.5,
+  "lastUpdated": "2026-06-23T12:32:17.422353",
   "topicStats": {
     "Arrays": 13,
     "Strings": 21,
     "LinkedList": 21,
     "Trees": 17,
     "Graphs": 16,
-    "DynamicProgramming": 19,
+    "DynamicProgramming": 20,
     "BinarySearch": 19,
     "Sorting": 13,
     "Hashing": 16,
@@ -20,14 +20,14 @@
     "Stack": 15,
     "Queue": 12,
     "Heap": 23,
-    "Greedy": 25,
+    "Greedy": 26,
     "Backtracking": 21,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 227
+      "solved": 229
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Regular Expression Matching",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T12:32:17.422343"
+    },
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T12:32:17.422332"
+    },
     {
       "name": "Daily Temperatures",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-21",
       "solvedAt": "2026-06-21T04:31:09.045431"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T00:30:54.479344"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T00:30:54.479330"
     }
   ],
   "lastActive": "2026-06-23",

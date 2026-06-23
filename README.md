@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 280 |
-| **🟢 Easy** | 106 (37.9%) |
-| **🟡 Medium** | 158 (56.4%) |
-| **🔴 Hard** | 18 (6.4%) |
+| **Total Problems Solved** | 282 |
+| **🟢 Easy** | 106 (37.6%) |
+| **🟡 Medium** | 159 (56.4%) |
+| **🔴 Hard** | 19 (6.7%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 189.69h |
+| **⏱️ Total Hours** | 190.50h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 227 |
+| LeetCode | 229 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,13 +28,13 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 25 |
+| Greedy | 26 |
 | Heap | 23 |
 | Strings | 21 |
 | LinkedList | 21 |
 | Recursion | 21 |
 | Backtracking | 21 |
-| DynamicProgramming | 19 |
+| DynamicProgramming | 20 |
 | BinarySearch | 19 |
 | Trees | 17 |
 | Graphs | 16 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Regular Expression Matching | 🔴 Hard | DynamicProgramming | 2026-06-23 |
+| Jump Game | 🟡 Medium | Greedy | 2026-06-23 |
 | Daily Temperatures | 🟡 Medium | Stack | 2026-06-23 |
 | Top K Frequent Elements | 🟡 Medium | Hashing | 2026-06-23 |
 | Contains Duplicate | 🟢 Easy | Arrays | 2026-06-23 |
-| Fibonacci Number | 🟢 Easy | Recursion | 2026-06-23 |
-| Reverse String | 🟢 Easy | Recursion | 2026-06-23 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-23T08:31:12.459526
+**Last Updated**: 2026-06-23T12:32:17.422353
 **Last Active**: 2026-06-23
