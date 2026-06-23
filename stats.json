@@ -1,11 +1,11 @@
 {
-  "totalProblems": 282,
-  "easySolved": 106,
-  "mediumSolved": 159,
+  "totalProblems": 284,
+  "easySolved": 107,
+  "mediumSolved": 160,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 190.5,
-  "lastUpdated": "2026-06-23T12:32:17.422353",
+  "totalHours": 192.3,
+  "lastUpdated": "2026-06-23T18:31:21.576038",
   "topicStats": {
     "Arrays": 13,
     "Strings": 21,
@@ -18,16 +18,16 @@
     "Hashing": 16,
     "Recursion": 21,
     "Stack": 15,
-    "Queue": 12,
+    "Queue": 13,
     "Heap": 23,
-    "Greedy": 26,
+    "Greedy": 27,
     "Backtracking": 21,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 229
+      "solved": 231
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T18:31:21.576025"
+    },
+    {
+      "name": "Moving Average from Data Stream",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T18:31:21.576013"
+    },
     {
       "name": "Regular Expression Matching",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-21",
       "solvedAt": "2026-06-21T08:31:19.479162"
-    },
-    {
-      "name": "Reverse Linked List",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T04:31:09.045441"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T04:31:09.045431"
     }
   ],
   "lastActive": "2026-06-23",
