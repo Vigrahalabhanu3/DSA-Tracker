@@ -1,11 +1,11 @@
 {
-  "totalProblems": 278,
+  "totalProblems": 280,
   "easySolved": 106,
-  "mediumSolved": 156,
+  "mediumSolved": 158,
   "hardSolved": 18,
   "streakDays": 15,
-  "totalHours": 187.96,
-  "lastUpdated": "2026-06-23T04:31:06.501390",
+  "totalHours": 189.69,
+  "lastUpdated": "2026-06-23T08:31:12.459526",
   "topicStats": {
     "Arrays": 13,
     "Strings": 21,
@@ -15,9 +15,9 @@
     "DynamicProgramming": 19,
     "BinarySearch": 19,
     "Sorting": 13,
-    "Hashing": 15,
+    "Hashing": 16,
     "Recursion": 21,
-    "Stack": 14,
+    "Stack": 15,
     "Queue": 12,
     "Heap": 23,
     "Greedy": 25,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 225
+      "solved": 227
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Daily Temperatures",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T08:31:12.459516"
+    },
+    {
+      "name": "Top K Frequent Elements",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Hashing",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T08:31:12.459507"
+    },
     {
       "name": "Contains Duplicate",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-21",
       "solvedAt": "2026-06-21T00:30:54.479330"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T18:31:25.664293"
-    },
-    {
-      "name": "3Sum",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T18:31:25.664283"
     }
   ],
   "lastActive": "2026-06-23",

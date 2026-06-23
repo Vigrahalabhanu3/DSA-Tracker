@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 278 |
-| **🟢 Easy** | 106 (38.1%) |
-| **🟡 Medium** | 156 (56.1%) |
-| **🔴 Hard** | 18 (6.5%) |
+| **Total Problems Solved** | 280 |
+| **🟢 Easy** | 106 (37.9%) |
+| **🟡 Medium** | 158 (56.4%) |
+| **🔴 Hard** | 18 (6.4%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 187.96h |
+| **⏱️ Total Hours** | 189.69h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 225 |
+| LeetCode | 227 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Daily Temperatures | 🟡 Medium | Stack | 2026-06-23 |
+| Top K Frequent Elements | 🟡 Medium | Hashing | 2026-06-23 |
 | Contains Duplicate | 🟢 Easy | Arrays | 2026-06-23 |
 | Fibonacci Number | 🟢 Easy | Recursion | 2026-06-23 |
 | Reverse String | 🟢 Easy | Recursion | 2026-06-23 |
-| Longest Increasing Subsequence | 🟡 Medium | DynamicProgramming | 2026-06-23 |
-| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-23 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-23T04:31:06.501390
+**Last Updated**: 2026-06-23T08:31:12.459526
 **Last Active**: 2026-06-23
