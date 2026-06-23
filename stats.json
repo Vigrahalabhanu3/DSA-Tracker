@@ -1,25 +1,25 @@
 {
-  "totalProblems": 273,
-  "easySolved": 103,
-  "mediumSolved": 155,
-  "hardSolved": 17,
+  "totalProblems": 276,
+  "easySolved": 104,
+  "mediumSolved": 156,
+  "hardSolved": 18,
   "streakDays": 15,
-  "totalHours": 185.14,
-  "lastUpdated": "2026-06-22T18:31:31.498449",
+  "totalHours": 186.74,
+  "lastUpdated": "2026-06-23T00:30:57.032007",
   "topicStats": {
     "Arrays": 12,
     "Strings": 21,
     "LinkedList": 21,
     "Trees": 17,
     "Graphs": 16,
-    "DynamicProgramming": 18,
+    "DynamicProgramming": 19,
     "BinarySearch": 19,
     "Sorting": 13,
     "Hashing": 15,
-    "Recursion": 19,
+    "Recursion": 20,
     "Stack": 14,
     "Queue": 12,
-    "Heap": 22,
+    "Heap": 23,
     "Greedy": 25,
     "Backtracking": 21,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 220
+      "solved": 223
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T00:30:57.031996"
+    },
+    {
+      "name": "Longest Increasing Subsequence",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T00:30:57.031992"
+    },
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-23",
+      "solvedAt": "2026-06-23T00:30:57.031982"
+    },
     {
       "name": "Power of Three",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "Strings",
       "date": "2026-06-20",
       "solvedAt": "2026-06-20T12:32:08.959022"
-    },
-    {
-      "name": "Combinations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T08:31:06.384505"
-    },
-    {
-      "name": "Maximum Subarray",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T08:31:06.384502"
-    },
-    {
-      "name": "Evaluate Reverse Polish Notation",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Stack",
-      "date": "2026-06-20",
-      "solvedAt": "2026-06-20T08:31:06.384491"
     }
   ],
-  "lastActive": "2026-06-22",
+  "lastActive": "2026-06-23",
   "totalSolved": 41
 }
