@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 292 |
-| **🟢 Easy** | 109 (37.3%) |
-| **🟡 Medium** | 166 (56.8%) |
-| **🔴 Hard** | 19 (6.5%) |
+| **Total Problems Solved** | 295 |
+| **🟢 Easy** | 109 (36.9%) |
+| **🟡 Medium** | 169 (57.3%) |
+| **🔴 Hard** | 19 (6.4%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 198.00h |
+| **⏱️ Total Hours** | 199.63h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 239 |
+| LeetCode | 242 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -34,21 +34,21 @@
 | Backtracking | 22 |
 | Strings | 21 |
 | DynamicProgramming | 21 |
+| BinarySearch | 21 |
 | Recursion | 21 |
-| BinarySearch | 20 |
 | Trees | 18 |
-| Hashing | 17 |
+| Graphs | 17 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Merge Intervals | 🟡 Medium | Sorting | 2026-06-24 |
+| Number of Islands | 🟡 Medium | Graphs | 2026-06-24 |
+| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-24 |
 | Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-06-24 |
 | Add Two Numbers | 🟡 Medium | LinkedList | 2026-06-24 |
-| Longest Increasing Subsequence | 🟡 Medium | DynamicProgramming | 2026-06-24 |
-| Valid Anagram | 🟢 Easy | Hashing | 2026-06-24 |
-| Permutations | 🟡 Medium | Backtracking | 2026-06-24 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-24T08:31:10.865668
+**Last Updated**: 2026-06-24T12:32:12.353145
 **Last Active**: 2026-06-24
