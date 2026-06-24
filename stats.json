@@ -1,23 +1,23 @@
 {
-  "totalProblems": 289,
+  "totalProblems": 292,
   "easySolved": 109,
-  "mediumSolved": 163,
+  "mediumSolved": 166,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 196.11,
-  "lastUpdated": "2026-06-24T04:31:07.224829",
+  "totalHours": 198.0,
+  "lastUpdated": "2026-06-24T08:31:10.865668",
   "topicStats": {
     "Arrays": 13,
     "Strings": 21,
-    "LinkedList": 21,
+    "LinkedList": 22,
     "Trees": 18,
     "Graphs": 16,
-    "DynamicProgramming": 20,
+    "DynamicProgramming": 21,
     "BinarySearch": 20,
     "Sorting": 14,
     "Hashing": 17,
     "Recursion": 21,
-    "Stack": 15,
+    "Stack": 16,
     "Queue": 13,
     "Heap": 23,
     "Greedy": 27,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 236
+      "solved": 239
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Evaluate Reverse Polish Notation",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T08:31:10.865658"
+    },
+    {
+      "name": "Add Two Numbers",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T08:31:10.865655"
+    },
+    {
+      "name": "Longest Increasing Subsequence",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T08:31:10.865645"
+    },
     {
       "name": "Valid Anagram",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "LinkedList",
       "date": "2026-06-22",
       "solvedAt": "2026-06-22T04:31:07.420421"
-    },
-    {
-      "name": "Valid Parentheses",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T00:30:56.078341"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T00:30:56.078337"
-    },
-    {
-      "name": "Power of Three",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T00:30:56.078323"
     }
   ],
   "lastActive": "2026-06-24",
