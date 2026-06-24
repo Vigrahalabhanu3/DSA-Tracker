@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 286 |
-| **🟢 Easy** | 108 (37.8%) |
-| **🟡 Medium** | 161 (56.3%) |
+| **Total Problems Solved** | 289 |
+| **🟢 Easy** | 109 (37.7%) |
+| **🟡 Medium** | 163 (56.4%) |
 | **🔴 Hard** | 19 (6.6%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 194.25h |
+| **⏱️ Total Hours** | 196.11h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 233 |
+| LeetCode | 236 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,25 +30,25 @@
 |-------|-------|
 | Greedy | 27 |
 | Heap | 23 |
+| Backtracking | 22 |
 | Strings | 21 |
 | LinkedList | 21 |
 | Recursion | 21 |
-| Backtracking | 21 |
 | DynamicProgramming | 20 |
 | BinarySearch | 20 |
 | Trees | 18 |
-| Graphs | 16 |
+| Hashing | 17 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Valid Anagram | 🟢 Easy | Hashing | 2026-06-24 |
+| Permutations | 🟡 Medium | Backtracking | 2026-06-24 |
+| Merge Intervals | 🟡 Medium | Sorting | 2026-06-24 |
 | Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-24 |
 | Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-24 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-23 |
-| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-06-23 |
-| Regular Expression Matching | 🔴 Hard | DynamicProgramming | 2026-06-23 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-24T00:31:00.334269
+**Last Updated**: 2026-06-24T04:31:07.224829
 **Last Active**: 2026-06-24

@@ -1,11 +1,11 @@
 {
-  "totalProblems": 286,
-  "easySolved": 108,
-  "mediumSolved": 161,
+  "totalProblems": 289,
+  "easySolved": 109,
+  "mediumSolved": 163,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 194.25,
-  "lastUpdated": "2026-06-24T00:31:00.334269",
+  "totalHours": 196.11,
+  "lastUpdated": "2026-06-24T04:31:07.224829",
   "topicStats": {
     "Arrays": 13,
     "Strings": 21,
@@ -14,20 +14,20 @@
     "Graphs": 16,
     "DynamicProgramming": 20,
     "BinarySearch": 20,
-    "Sorting": 13,
-    "Hashing": 16,
+    "Sorting": 14,
+    "Hashing": 17,
     "Recursion": 21,
     "Stack": 15,
     "Queue": 13,
     "Heap": 23,
     "Greedy": 27,
-    "Backtracking": 21,
+    "Backtracking": 22,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 233
+      "solved": 236
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Valid Anagram",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T04:31:07.224819"
+    },
+    {
+      "name": "Permutations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T04:31:07.224816"
+    },
+    {
+      "name": "Merge Intervals",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T04:31:07.224807"
+    },
     {
       "name": "Lowest Common Ancestor",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Recursion",
       "date": "2026-06-22",
       "solvedAt": "2026-06-22T00:30:56.078323"
-    },
-    {
-      "name": "Implement Stack Using Queues",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T18:31:38.743214"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T18:31:38.743210"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T18:31:38.743198"
     }
   ],
   "lastActive": "2026-06-24",
