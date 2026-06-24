@@ -1,19 +1,19 @@
 {
-  "totalProblems": 284,
-  "easySolved": 107,
-  "mediumSolved": 160,
+  "totalProblems": 286,
+  "easySolved": 108,
+  "mediumSolved": 161,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 192.3,
-  "lastUpdated": "2026-06-23T18:31:21.576038",
+  "totalHours": 194.25,
+  "lastUpdated": "2026-06-24T00:31:00.334269",
   "topicStats": {
     "Arrays": 13,
     "Strings": 21,
     "LinkedList": 21,
-    "Trees": 17,
+    "Trees": 18,
     "Graphs": 16,
     "DynamicProgramming": 20,
-    "BinarySearch": 19,
+    "BinarySearch": 20,
     "Sorting": 13,
     "Hashing": 16,
     "Recursion": 21,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 231
+      "solved": 233
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T00:31:00.334258"
+    },
+    {
+      "name": "Search Insert Position",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T00:31:00.334248"
+    },
     {
       "name": "Island Perimeter",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "Strings",
       "date": "2026-06-21",
       "solvedAt": "2026-06-21T18:31:38.743198"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T08:31:19.479176"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-21",
-      "solvedAt": "2026-06-21T08:31:19.479162"
     }
   ],
-  "lastActive": "2026-06-23",
+  "lastActive": "2026-06-24",
   "totalSolved": 41
 }

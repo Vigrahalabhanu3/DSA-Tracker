@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 284 |
-| **🟢 Easy** | 107 (37.7%) |
-| **🟡 Medium** | 160 (56.3%) |
-| **🔴 Hard** | 19 (6.7%) |
+| **Total Problems Solved** | 286 |
+| **🟢 Easy** | 108 (37.8%) |
+| **🟡 Medium** | 161 (56.3%) |
+| **🔴 Hard** | 19 (6.6%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 192.30h |
+| **⏱️ Total Hours** | 194.25h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 231 |
+| LeetCode | 233 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -35,8 +35,8 @@
 | Recursion | 21 |
 | Backtracking | 21 |
 | DynamicProgramming | 20 |
-| BinarySearch | 19 |
-| Trees | 17 |
+| BinarySearch | 20 |
+| Trees | 18 |
 | Graphs | 16 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-24 |
+| Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-24 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-23 |
 | Moving Average from Data Stream | 🟢 Easy | Queue | 2026-06-23 |
 | Regular Expression Matching | 🔴 Hard | DynamicProgramming | 2026-06-23 |
-| Jump Game | 🟡 Medium | Greedy | 2026-06-23 |
-| Daily Temperatures | 🟡 Medium | Stack | 2026-06-23 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-23T18:31:21.576038
-**Last Active**: 2026-06-23
+**Last Updated**: 2026-06-24T00:31:00.334269
+**Last Active**: 2026-06-24
