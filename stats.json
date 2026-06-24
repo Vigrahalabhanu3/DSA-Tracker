@@ -1,14 +1,14 @@
 {
-  "totalProblems": 295,
+  "totalProblems": 297,
   "easySolved": 109,
-  "mediumSolved": 169,
+  "mediumSolved": 171,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 199.63,
-  "lastUpdated": "2026-06-24T12:32:12.353145",
+  "totalHours": 200.8,
+  "lastUpdated": "2026-06-24T18:31:28.682514",
   "topicStats": {
-    "Arrays": 13,
-    "Strings": 21,
+    "Arrays": 14,
+    "Strings": 22,
     "LinkedList": 22,
     "Trees": 18,
     "Graphs": 17,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 242
+      "solved": 244
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "3Sum",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T18:31:28.682501"
+    },
+    {
+      "name": "Longest Substring Without Repeating",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-24",
+      "solvedAt": "2026-06-24T18:31:28.682489"
+    },
     {
       "name": "Merge Intervals",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Recursion",
       "date": "2026-06-22",
       "solvedAt": "2026-06-22T08:31:08.739775"
-    },
-    {
-      "name": "Binary Tree Level Order Traversal",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T08:31:08.739772"
-    },
-    {
-      "name": "3Sum",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T08:31:08.739762"
     }
   ],
   "lastActive": "2026-06-24",
