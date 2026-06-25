@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 300 |
-| **🟢 Easy** | 110 (36.7%) |
-| **🟡 Medium** | 173 (57.7%) |
+| **Total Problems Solved** | 303 |
+| **🟢 Easy** | 111 (36.6%) |
+| **🟡 Medium** | 175 (57.8%) |
 | **🔴 Hard** | 19 (6.3%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 202.59h |
+| **⏱️ Total Hours** | 203.43h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 247 |
+| LeetCode | 250 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,13 +28,13 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 27 |
+| Greedy | 28 |
 | Heap | 24 |
+| Backtracking | 23 |
 | Strings | 22 |
 | LinkedList | 22 |
 | DynamicProgramming | 22 |
 | BinarySearch | 22 |
-| Backtracking | 22 |
 | Recursion | 21 |
 | Trees | 18 |
 | Graphs | 17 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Word Search | 🟡 Medium | Backtracking | 2026-06-25 |
+| Island Perimeter | 🟡 Medium | Greedy | 2026-06-25 |
+| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-06-25 |
 | House Robber | 🟡 Medium | DynamicProgramming | 2026-06-25 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-25 |
-| Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-25 |
-| 3Sum | 🟡 Medium | Arrays | 2026-06-24 |
-| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-24 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-25T00:30:53.176967
+**Last Updated**: 2026-06-25T04:31:09.926762
 **Last Active**: 2026-06-25

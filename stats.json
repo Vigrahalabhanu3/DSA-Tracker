@@ -1,11 +1,11 @@
 {
-  "totalProblems": 300,
-  "easySolved": 110,
-  "mediumSolved": 173,
+  "totalProblems": 303,
+  "easySolved": 111,
+  "mediumSolved": 175,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 202.59,
-  "lastUpdated": "2026-06-25T00:30:53.176967",
+  "totalHours": 203.43,
+  "lastUpdated": "2026-06-25T04:31:09.926762",
   "topicStats": {
     "Arrays": 14,
     "Strings": 22,
@@ -18,16 +18,16 @@
     "Hashing": 17,
     "Recursion": 21,
     "Stack": 16,
-    "Queue": 13,
+    "Queue": 14,
     "Heap": 24,
-    "Greedy": 27,
-    "Backtracking": 22,
+    "Greedy": 28,
+    "Backtracking": 23,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 247
+      "solved": 250
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T04:31:09.926748"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T04:31:09.926745"
+    },
+    {
+      "name": "Moving Average from Data Stream",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T04:31:09.926731"
+    },
     {
       "name": "House Robber",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-23",
       "solvedAt": "2026-06-23T00:30:57.031982"
-    },
-    {
-      "name": "Power of Three",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T18:31:31.498441"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T18:31:31.498438"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T18:31:31.498429"
     }
   ],
   "lastActive": "2026-06-25",
