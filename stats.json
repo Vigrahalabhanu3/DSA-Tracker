@@ -1,11 +1,11 @@
 {
-  "totalProblems": 306,
-  "easySolved": 113,
-  "mediumSolved": 176,
+  "totalProblems": 308,
+  "easySolved": 114,
+  "mediumSolved": 177,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 205.25,
-  "lastUpdated": "2026-06-25T08:31:06.520647",
+  "totalHours": 206.98,
+  "lastUpdated": "2026-06-25T12:32:05.400503",
   "topicStats": {
     "Arrays": 14,
     "Strings": 23,
@@ -19,15 +19,15 @@
     "Recursion": 21,
     "Stack": 16,
     "Queue": 15,
-    "Heap": 24,
-    "Greedy": 29,
+    "Heap": 25,
+    "Greedy": 30,
     "Backtracking": 23,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 253
+      "solved": 255
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T12:32:05.400491"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T12:32:05.400479"
+    },
     {
       "name": "Jump Game",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Hashing",
       "date": "2026-06-23",
       "solvedAt": "2026-06-23T08:31:12.459507"
-    },
-    {
-      "name": "Contains Duplicate",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T04:31:06.501375"
-    },
-    {
-      "name": "Fibonacci Number",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T04:31:06.501360"
     }
   ],
   "lastActive": "2026-06-25",

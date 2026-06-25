@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 306 |
-| **🟢 Easy** | 113 (36.9%) |
-| **🟡 Medium** | 176 (57.5%) |
+| **Total Problems Solved** | 308 |
+| **🟢 Easy** | 114 (37.0%) |
+| **🟡 Medium** | 177 (57.5%) |
 | **🔴 Hard** | 19 (6.2%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 205.25h |
+| **⏱️ Total Hours** | 206.98h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 253 |
+| LeetCode | 255 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,8 +28,8 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 29 |
-| Heap | 24 |
+| Greedy | 30 |
+| Heap | 25 |
 | Strings | 23 |
 | Backtracking | 23 |
 | LinkedList | 22 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Assign Cookies | 🟢 Easy | Greedy | 2026-06-25 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-25 |
 | Jump Game | 🟡 Medium | Greedy | 2026-06-25 |
 | Valid Palindrome | 🟢 Easy | Strings | 2026-06-25 |
 | Number of Recent Calls | 🟢 Easy | Queue | 2026-06-25 |
-| Word Search | 🟡 Medium | Backtracking | 2026-06-25 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-25 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-25T08:31:06.520647
+**Last Updated**: 2026-06-25T12:32:05.400503
 **Last Active**: 2026-06-25
