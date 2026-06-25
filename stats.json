@@ -1,25 +1,25 @@
 {
-  "totalProblems": 297,
-  "easySolved": 109,
-  "mediumSolved": 171,
+  "totalProblems": 300,
+  "easySolved": 110,
+  "mediumSolved": 173,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 200.8,
-  "lastUpdated": "2026-06-24T18:31:28.682514",
+  "totalHours": 202.59,
+  "lastUpdated": "2026-06-25T00:30:53.176967",
   "topicStats": {
     "Arrays": 14,
     "Strings": 22,
     "LinkedList": 22,
     "Trees": 18,
     "Graphs": 17,
-    "DynamicProgramming": 21,
-    "BinarySearch": 21,
+    "DynamicProgramming": 22,
+    "BinarySearch": 22,
     "Sorting": 15,
     "Hashing": 17,
     "Recursion": 21,
     "Stack": 16,
     "Queue": 13,
-    "Heap": 23,
+    "Heap": 24,
     "Greedy": 27,
     "Backtracking": 22,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 244
+      "solved": 247
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T00:30:53.176954"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T00:30:53.176951"
+    },
+    {
+      "name": "Search Insert Position",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T00:30:53.176937"
+    },
     {
       "name": "3Sum",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "Trees",
       "date": "2026-06-22",
       "solvedAt": "2026-06-22T18:31:31.498429"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T12:32:09.335763"
-    },
-    {
-      "name": "Number of Connected Components",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T12:32:09.335752"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-22",
-      "solvedAt": "2026-06-22T08:31:08.739775"
     }
   ],
-  "lastActive": "2026-06-24",
+  "lastActive": "2026-06-25",
   "totalSolved": 41
 }

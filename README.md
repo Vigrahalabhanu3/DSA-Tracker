@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 297 |
-| **🟢 Easy** | 109 (36.7%) |
-| **🟡 Medium** | 171 (57.6%) |
-| **🔴 Hard** | 19 (6.4%) |
+| **Total Problems Solved** | 300 |
+| **🟢 Easy** | 110 (36.7%) |
+| **🟡 Medium** | 173 (57.7%) |
+| **🔴 Hard** | 19 (6.3%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 200.80h |
+| **⏱️ Total Hours** | 202.59h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 244 |
+| LeetCode | 247 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,12 +29,12 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 27 |
-| Heap | 23 |
+| Heap | 24 |
 | Strings | 22 |
 | LinkedList | 22 |
+| DynamicProgramming | 22 |
+| BinarySearch | 22 |
 | Backtracking | 22 |
-| DynamicProgramming | 21 |
-| BinarySearch | 21 |
 | Recursion | 21 |
 | Trees | 18 |
 | Graphs | 17 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-25 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-25 |
+| Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-25 |
 | 3Sum | 🟡 Medium | Arrays | 2026-06-24 |
 | Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-24 |
-| Merge Intervals | 🟡 Medium | Sorting | 2026-06-24 |
-| Number of Islands | 🟡 Medium | Graphs | 2026-06-24 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-24 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-24T18:31:28.682514
-**Last Active**: 2026-06-24
+**Last Updated**: 2026-06-25T00:30:53.176967
+**Last Active**: 2026-06-25
