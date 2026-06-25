@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 303 |
-| **🟢 Easy** | 111 (36.6%) |
-| **🟡 Medium** | 175 (57.8%) |
-| **🔴 Hard** | 19 (6.3%) |
+| **Total Problems Solved** | 306 |
+| **🟢 Easy** | 113 (36.9%) |
+| **🟡 Medium** | 176 (57.5%) |
+| **🔴 Hard** | 19 (6.2%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 203.43h |
+| **⏱️ Total Hours** | 205.25h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 250 |
+| LeetCode | 253 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,10 +28,10 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 28 |
+| Greedy | 29 |
 | Heap | 24 |
+| Strings | 23 |
 | Backtracking | 23 |
-| Strings | 22 |
 | LinkedList | 22 |
 | DynamicProgramming | 22 |
 | BinarySearch | 22 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Jump Game | 🟡 Medium | Greedy | 2026-06-25 |
+| Valid Palindrome | 🟢 Easy | Strings | 2026-06-25 |
+| Number of Recent Calls | 🟢 Easy | Queue | 2026-06-25 |
 | Word Search | 🟡 Medium | Backtracking | 2026-06-25 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-25 |
-| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-06-25 |
-| House Robber | 🟡 Medium | DynamicProgramming | 2026-06-25 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-25 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-25T04:31:09.926762
+**Last Updated**: 2026-06-25T08:31:06.520647
 **Last Active**: 2026-06-25

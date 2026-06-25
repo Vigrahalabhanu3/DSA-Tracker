@@ -1,14 +1,14 @@
 {
-  "totalProblems": 303,
-  "easySolved": 111,
-  "mediumSolved": 175,
+  "totalProblems": 306,
+  "easySolved": 113,
+  "mediumSolved": 176,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 203.43,
-  "lastUpdated": "2026-06-25T04:31:09.926762",
+  "totalHours": 205.25,
+  "lastUpdated": "2026-06-25T08:31:06.520647",
   "topicStats": {
     "Arrays": 14,
-    "Strings": 22,
+    "Strings": 23,
     "LinkedList": 22,
     "Trees": 18,
     "Graphs": 17,
@@ -18,16 +18,16 @@
     "Hashing": 17,
     "Recursion": 21,
     "Stack": 16,
-    "Queue": 14,
+    "Queue": 15,
     "Heap": 24,
-    "Greedy": 28,
+    "Greedy": 29,
     "Backtracking": 23,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 250
+      "solved": 253
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T08:31:06.520639"
+    },
+    {
+      "name": "Valid Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T08:31:06.520635"
+    },
+    {
+      "name": "Number of Recent Calls",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T08:31:06.520626"
+    },
     {
       "name": "Word Search",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Recursion",
       "date": "2026-06-23",
       "solvedAt": "2026-06-23T04:31:06.501360"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T00:30:57.031996"
-    },
-    {
-      "name": "Longest Increasing Subsequence",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T00:30:57.031992"
-    },
-    {
-      "name": "Merge K Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Heap",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T00:30:57.031982"
     }
   ],
   "lastActive": "2026-06-25",
