@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 308 |
-| **🟢 Easy** | 114 (37.0%) |
-| **🟡 Medium** | 177 (57.5%) |
-| **🔴 Hard** | 19 (6.2%) |
+| **Total Problems Solved** | 311 |
+| **🟢 Easy** | 114 (36.7%) |
+| **🟡 Medium** | 180 (57.9%) |
+| **🔴 Hard** | 19 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 206.98h |
+| **⏱️ Total Hours** | 207.59h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 255 |
+| LeetCode | 258 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,8 +30,8 @@
 |-------|-------|
 | Greedy | 30 |
 | Heap | 25 |
+| Backtracking | 24 |
 | Strings | 23 |
-| Backtracking | 23 |
 | LinkedList | 22 |
 | DynamicProgramming | 22 |
 | BinarySearch | 22 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Permutations | 🟡 Medium | Backtracking | 2026-06-25 |
+| Task Scheduler | 🟡 Medium | Queue | 2026-06-25 |
+| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-25 |
 | Assign Cookies | 🟢 Easy | Greedy | 2026-06-25 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-25 |
-| Jump Game | 🟡 Medium | Greedy | 2026-06-25 |
-| Valid Palindrome | 🟢 Easy | Strings | 2026-06-25 |
-| Number of Recent Calls | 🟢 Easy | Queue | 2026-06-25 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-25T12:32:05.400503
+**Last Updated**: 2026-06-25T18:31:21.164895
 **Last Active**: 2026-06-25

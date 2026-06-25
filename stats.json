@@ -1,11 +1,11 @@
 {
-  "totalProblems": 308,
+  "totalProblems": 311,
   "easySolved": 114,
-  "mediumSolved": 177,
+  "mediumSolved": 180,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 206.98,
-  "lastUpdated": "2026-06-25T12:32:05.400503",
+  "totalHours": 207.59,
+  "lastUpdated": "2026-06-25T18:31:21.164895",
   "topicStats": {
     "Arrays": 14,
     "Strings": 23,
@@ -14,20 +14,20 @@
     "Graphs": 17,
     "DynamicProgramming": 22,
     "BinarySearch": 22,
-    "Sorting": 15,
+    "Sorting": 16,
     "Hashing": 17,
     "Recursion": 21,
     "Stack": 16,
-    "Queue": 15,
+    "Queue": 16,
     "Heap": 25,
     "Greedy": 30,
-    "Backtracking": 23,
+    "Backtracking": 24,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 255
+      "solved": 258
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Permutations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T18:31:21.164885"
+    },
+    {
+      "name": "Task Scheduler",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Queue",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T18:31:21.164882"
+    },
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-25",
+      "solvedAt": "2026-06-25T18:31:21.164871"
+    },
     {
       "name": "Assign Cookies",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "DynamicProgramming",
       "date": "2026-06-23",
       "solvedAt": "2026-06-23T12:32:17.422343"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T12:32:17.422332"
-    },
-    {
-      "name": "Daily Temperatures",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Stack",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T08:31:12.459516"
-    },
-    {
-      "name": "Top K Frequent Elements",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T08:31:12.459507"
     }
   ],
   "lastActive": "2026-06-25",
