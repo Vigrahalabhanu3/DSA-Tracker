@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 311 |
-| **🟢 Easy** | 114 (36.7%) |
-| **🟡 Medium** | 180 (57.9%) |
+| **Total Problems Solved** | 314 |
+| **🟢 Easy** | 115 (36.6%) |
+| **🟡 Medium** | 182 (58.0%) |
 | **🔴 Hard** | 19 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 207.59h |
+| **⏱️ Total Hours** | 209.51h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 258 |
+| LeetCode | 261 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -32,9 +32,9 @@
 | Heap | 25 |
 | Backtracking | 24 |
 | Strings | 23 |
-| LinkedList | 22 |
+| LinkedList | 23 |
+| BinarySearch | 23 |
 | DynamicProgramming | 22 |
-| BinarySearch | 22 |
 | Recursion | 21 |
 | Trees | 18 |
 | Graphs | 17 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | 2026-06-26 |
+| Reorder List | 🟡 Medium | LinkedList | 2026-06-26 |
+| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-26 |
 | Permutations | 🟡 Medium | Backtracking | 2026-06-25 |
 | Task Scheduler | 🟡 Medium | Queue | 2026-06-25 |
-| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-25 |
-| Assign Cookies | 🟢 Easy | Greedy | 2026-06-25 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-25 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-25T18:31:21.164895
-**Last Active**: 2026-06-25
+**Last Updated**: 2026-06-26T00:30:55.103168
+**Last Active**: 2026-06-26

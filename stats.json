@@ -1,19 +1,19 @@
 {
-  "totalProblems": 311,
-  "easySolved": 114,
-  "mediumSolved": 180,
+  "totalProblems": 314,
+  "easySolved": 115,
+  "mediumSolved": 182,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 207.59,
-  "lastUpdated": "2026-06-25T18:31:21.164895",
+  "totalHours": 209.51,
+  "lastUpdated": "2026-06-26T00:30:55.103168",
   "topicStats": {
-    "Arrays": 14,
+    "Arrays": 15,
     "Strings": 23,
-    "LinkedList": 22,
+    "LinkedList": 23,
     "Trees": 18,
     "Graphs": 17,
     "DynamicProgramming": 22,
-    "BinarySearch": 22,
+    "BinarySearch": 23,
     "Sorting": 16,
     "Hashing": 17,
     "Recursion": 21,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 258
+      "solved": 261
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Best Time to Buy and Sell Stock",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T00:30:55.103145"
+    },
+    {
+      "name": "Reorder List",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T00:30:55.103142"
+    },
+    {
+      "name": "Search in Rotated Sorted Array",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T00:30:55.103132"
+    },
     {
       "name": "Permutations",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "BinarySearch",
       "date": "2026-06-24",
       "solvedAt": "2026-06-24T00:31:00.334248"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T18:31:21.576025"
-    },
-    {
-      "name": "Moving Average from Data Stream",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T18:31:21.576013"
-    },
-    {
-      "name": "Regular Expression Matching",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-23",
-      "solvedAt": "2026-06-23T12:32:17.422343"
     }
   ],
-  "lastActive": "2026-06-25",
+  "lastActive": "2026-06-26",
   "totalSolved": 41
 }
