@@ -1,11 +1,11 @@
 {
-  "totalProblems": 318,
-  "easySolved": 116,
-  "mediumSolved": 184,
+  "totalProblems": 321,
+  "easySolved": 117,
+  "mediumSolved": 186,
   "hardSolved": 20,
   "streakDays": 15,
-  "totalHours": 211.93,
-  "lastUpdated": "2026-06-26T08:31:05.991451",
+  "totalHours": 212.98,
+  "lastUpdated": "2026-06-26T12:32:10.172139",
   "topicStats": {
     "Arrays": 15,
     "Strings": 23,
@@ -16,18 +16,18 @@
     "BinarySearch": 23,
     "Sorting": 16,
     "Hashing": 17,
-    "Recursion": 21,
+    "Recursion": 22,
     "Stack": 16,
-    "Queue": 16,
+    "Queue": 17,
     "Heap": 25,
     "Greedy": 31,
-    "Backtracking": 25,
+    "Backtracking": 26,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 265
+      "solved": 268
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T12:32:10.172131"
+    },
+    {
+      "name": "Task Scheduler",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Queue",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T12:32:10.172128"
+    },
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T12:32:10.172118"
+    },
     {
       "name": "Number of Connected Components",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Stack",
       "date": "2026-06-24",
       "solvedAt": "2026-06-24T08:31:10.865658"
-    },
-    {
-      "name": "Add Two Numbers",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T08:31:10.865655"
-    },
-    {
-      "name": "Longest Increasing Subsequence",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T08:31:10.865645"
-    },
-    {
-      "name": "Valid Anagram",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T04:31:07.224819"
     }
   ],
   "lastActive": "2026-06-26",
