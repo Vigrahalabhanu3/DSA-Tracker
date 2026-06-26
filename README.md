@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 316 |
-| **🟢 Easy** | 116 (36.7%) |
-| **🟡 Medium** | 183 (57.9%) |
-| **🔴 Hard** | 19 (6.0%) |
+| **Total Problems Solved** | 318 |
+| **🟢 Easy** | 116 (36.5%) |
+| **🟡 Medium** | 184 (57.9%) |
+| **🔴 Hard** | 20 (6.3%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 211.37h |
+| **⏱️ Total Hours** | 211.93h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 263 |
+| LeetCode | 265 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,25 +30,25 @@
 |-------|-------|
 | Greedy | 31 |
 | Heap | 25 |
-| Backtracking | 24 |
+| Backtracking | 25 |
 | Strings | 23 |
 | LinkedList | 23 |
 | BinarySearch | 23 |
 | DynamicProgramming | 22 |
 | Recursion | 21 |
 | Trees | 19 |
-| Graphs | 17 |
+| Graphs | 18 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Number of Connected Components | 🟡 Medium | Graphs | 2026-06-26 |
+| N-Queens | 🔴 Hard | Backtracking | 2026-06-26 |
 | Jump Game | 🟡 Medium | Greedy | 2026-06-26 |
 | Binary Tree Level Order Traversal | 🟢 Easy | Trees | 2026-06-26 |
 | Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | 2026-06-26 |
-| Reorder List | 🟡 Medium | LinkedList | 2026-06-26 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-26 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-26T04:31:07.852406
+**Last Updated**: 2026-06-26T08:31:05.991451
 **Last Active**: 2026-06-26

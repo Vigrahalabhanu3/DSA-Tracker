@@ -1,17 +1,17 @@
 {
-  "totalProblems": 316,
+  "totalProblems": 318,
   "easySolved": 116,
-  "mediumSolved": 183,
-  "hardSolved": 19,
+  "mediumSolved": 184,
+  "hardSolved": 20,
   "streakDays": 15,
-  "totalHours": 211.37,
-  "lastUpdated": "2026-06-26T04:31:07.852406",
+  "totalHours": 211.93,
+  "lastUpdated": "2026-06-26T08:31:05.991451",
   "topicStats": {
     "Arrays": 15,
     "Strings": 23,
     "LinkedList": 23,
     "Trees": 19,
-    "Graphs": 17,
+    "Graphs": 18,
     "DynamicProgramming": 22,
     "BinarySearch": 23,
     "Sorting": 16,
@@ -21,13 +21,13 @@
     "Queue": 16,
     "Heap": 25,
     "Greedy": 31,
-    "Backtracking": 24,
+    "Backtracking": 25,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 263
+      "solved": 265
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Number of Connected Components",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T08:31:05.991441"
+    },
+    {
+      "name": "N-Queens",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Backtracking",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T08:31:05.991433"
+    },
     {
       "name": "Jump Game",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Hashing",
       "date": "2026-06-24",
       "solvedAt": "2026-06-24T04:31:07.224819"
-    },
-    {
-      "name": "Permutations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T04:31:07.224816"
-    },
-    {
-      "name": "Merge Intervals",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T04:31:07.224807"
     }
   ],
   "lastActive": "2026-06-26",
