@@ -1,16 +1,16 @@
 {
-  "totalProblems": 314,
-  "easySolved": 115,
-  "mediumSolved": 182,
+  "totalProblems": 316,
+  "easySolved": 116,
+  "mediumSolved": 183,
   "hardSolved": 19,
   "streakDays": 15,
-  "totalHours": 209.51,
-  "lastUpdated": "2026-06-26T00:30:55.103168",
+  "totalHours": 211.37,
+  "lastUpdated": "2026-06-26T04:31:07.852406",
   "topicStats": {
     "Arrays": 15,
     "Strings": 23,
     "LinkedList": 23,
-    "Trees": 18,
+    "Trees": 19,
     "Graphs": 17,
     "DynamicProgramming": 22,
     "BinarySearch": 23,
@@ -20,14 +20,14 @@
     "Stack": 16,
     "Queue": 16,
     "Heap": 25,
-    "Greedy": 30,
+    "Greedy": 31,
     "Backtracking": 24,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 261
+      "solved": 263
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T04:31:07.852392"
+    },
+    {
+      "name": "Binary Tree Level Order Traversal",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T04:31:07.852378"
+    },
     {
       "name": "Best Time to Buy and Sell Stock",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-24",
       "solvedAt": "2026-06-24T04:31:07.224807"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T00:31:00.334258"
-    },
-    {
-      "name": "Search Insert Position",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T00:31:00.334248"
     }
   ],
   "lastActive": "2026-06-26",
