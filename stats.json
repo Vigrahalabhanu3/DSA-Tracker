@@ -1,11 +1,11 @@
 {
-  "totalProblems": 321,
+  "totalProblems": 324,
   "easySolved": 117,
-  "mediumSolved": 186,
-  "hardSolved": 20,
+  "mediumSolved": 188,
+  "hardSolved": 21,
   "streakDays": 15,
-  "totalHours": 212.98,
-  "lastUpdated": "2026-06-26T12:32:10.172139",
+  "totalHours": 214.12,
+  "lastUpdated": "2026-06-26T18:31:21.996498",
   "topicStats": {
     "Arrays": 15,
     "Strings": 23,
@@ -18,16 +18,16 @@
     "Hashing": 17,
     "Recursion": 22,
     "Stack": 16,
-    "Queue": 17,
-    "Heap": 25,
+    "Queue": 18,
+    "Heap": 26,
     "Greedy": 31,
-    "Backtracking": 26,
+    "Backtracking": 27,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 268
+      "solved": 271
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "N-Queens",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Backtracking",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T18:31:21.996489"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T18:31:21.996485"
+    },
+    {
+      "name": "Task Scheduler",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Queue",
+      "date": "2026-06-26",
+      "solvedAt": "2026-06-26T18:31:21.996476"
+    },
     {
       "name": "Reverse String",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-24",
       "solvedAt": "2026-06-24T12:32:12.353135"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T12:32:12.353131"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T12:32:12.353120"
-    },
-    {
-      "name": "Evaluate Reverse Polish Notation",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Stack",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T08:31:10.865658"
     }
   ],
   "lastActive": "2026-06-26",

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 321 |
-| **🟢 Easy** | 117 (36.4%) |
-| **🟡 Medium** | 186 (57.9%) |
-| **🔴 Hard** | 20 (6.2%) |
+| **Total Problems Solved** | 324 |
+| **🟢 Easy** | 117 (36.1%) |
+| **🟡 Medium** | 188 (58.0%) |
+| **🔴 Hard** | 21 (6.5%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 212.98h |
+| **⏱️ Total Hours** | 214.12h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 268 |
+| LeetCode | 271 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,8 +29,8 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 31 |
-| Backtracking | 26 |
-| Heap | 25 |
+| Backtracking | 27 |
+| Heap | 26 |
 | Strings | 23 |
 | LinkedList | 23 |
 | BinarySearch | 23 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| N-Queens | 🔴 Hard | Backtracking | 2026-06-26 |
+| Min Heap | 🟡 Medium | Heap | 2026-06-26 |
+| Task Scheduler | 🟡 Medium | Queue | 2026-06-26 |
 | Reverse String | 🟢 Easy | Recursion | 2026-06-26 |
 | Task Scheduler | 🟡 Medium | Queue | 2026-06-26 |
-| Word Search | 🟡 Medium | Backtracking | 2026-06-26 |
-| Number of Connected Components | 🟡 Medium | Graphs | 2026-06-26 |
-| N-Queens | 🔴 Hard | Backtracking | 2026-06-26 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-26T12:32:10.172139
+**Last Updated**: 2026-06-26T18:31:21.996498
 **Last Active**: 2026-06-26
