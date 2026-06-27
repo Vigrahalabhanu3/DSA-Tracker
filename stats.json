@@ -1,22 +1,22 @@
 {
-  "totalProblems": 335,
-  "easySolved": 120,
-  "mediumSolved": 195,
+  "totalProblems": 338,
+  "easySolved": 122,
+  "mediumSolved": 196,
   "hardSolved": 22,
   "streakDays": 15,
-  "totalHours": 218.75,
-  "lastUpdated": "2026-06-27T12:32:03.628854",
+  "totalHours": 219.34,
+  "lastUpdated": "2026-06-27T18:31:21.237134",
   "topicStats": {
-    "Arrays": 15,
+    "Arrays": 16,
     "Strings": 23,
-    "LinkedList": 24,
+    "LinkedList": 25,
     "Trees": 21,
     "Graphs": 18,
     "DynamicProgramming": 22,
     "BinarySearch": 23,
     "Sorting": 18,
     "Hashing": 17,
-    "Recursion": 23,
+    "Recursion": 24,
     "Stack": 16,
     "Queue": 19,
     "Heap": 26,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 282
+      "solved": 285
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Contains Duplicate",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T18:31:21.237121"
+    },
+    {
+      "name": "Fibonacci Number",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T18:31:21.237118"
+    },
+    {
+      "name": "Add Two Numbers",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T18:31:21.237104"
+    },
     {
       "name": "Island Perimeter",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-25",
       "solvedAt": "2026-06-25T18:31:21.164871"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T12:32:05.400491"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T12:32:05.400479"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T08:31:06.520639"
     }
   ],
   "lastActive": "2026-06-27",

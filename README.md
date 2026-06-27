@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 335 |
-| **🟢 Easy** | 120 (35.8%) |
-| **🟡 Medium** | 195 (58.2%) |
-| **🔴 Hard** | 22 (6.6%) |
+| **Total Problems Solved** | 338 |
+| **🟢 Easy** | 122 (36.1%) |
+| **🟡 Medium** | 196 (58.0%) |
+| **🔴 Hard** | 22 (6.5%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 218.75h |
+| **⏱️ Total Hours** | 219.34h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 282 |
+| LeetCode | 285 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -31,10 +31,10 @@
 | Greedy | 33 |
 | Backtracking | 29 |
 | Heap | 26 |
-| LinkedList | 24 |
+| LinkedList | 25 |
+| Recursion | 24 |
 | Strings | 23 |
 | BinarySearch | 23 |
-| Recursion | 23 |
 | DynamicProgramming | 22 |
 | Trees | 21 |
 | Queue | 19 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-27 |
+| Fibonacci Number | 🟢 Easy | Recursion | 2026-06-27 |
+| Add Two Numbers | 🟡 Medium | LinkedList | 2026-06-27 |
 | Island Perimeter | 🟡 Medium | Greedy | 2026-06-27 |
 | Reorder List | 🟡 Medium | LinkedList | 2026-06-27 |
-| Permutations | 🟡 Medium | Backtracking | 2026-06-27 |
-| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-06-27 |
-| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-27 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-27T12:32:03.628854
+**Last Updated**: 2026-06-27T18:31:21.237134
 **Last Active**: 2026-06-27
