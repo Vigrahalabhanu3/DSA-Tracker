@@ -1,15 +1,15 @@
 {
-  "totalProblems": 332,
+  "totalProblems": 335,
   "easySolved": 120,
-  "mediumSolved": 192,
+  "mediumSolved": 195,
   "hardSolved": 22,
   "streakDays": 15,
-  "totalHours": 218.16,
-  "lastUpdated": "2026-06-27T08:31:06.129277",
+  "totalHours": 218.75,
+  "lastUpdated": "2026-06-27T12:32:03.628854",
   "topicStats": {
     "Arrays": 15,
     "Strings": 23,
-    "LinkedList": 23,
+    "LinkedList": 24,
     "Trees": 21,
     "Graphs": 18,
     "DynamicProgramming": 22,
@@ -20,14 +20,14 @@
     "Stack": 16,
     "Queue": 19,
     "Heap": 26,
-    "Greedy": 32,
-    "Backtracking": 28,
+    "Greedy": 33,
+    "Backtracking": 29,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 279
+      "solved": 282
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T12:32:03.628836"
+    },
+    {
+      "name": "Reorder List",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T12:32:03.628834"
+    },
+    {
+      "name": "Permutations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T12:32:03.628822"
+    },
     {
       "name": "Lowest Common Ancestor",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-25",
       "solvedAt": "2026-06-25T08:31:06.520639"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T08:31:06.520635"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T08:31:06.520626"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T04:31:09.926748"
     }
   ],
   "lastActive": "2026-06-27",
