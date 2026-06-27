@@ -1,22 +1,22 @@
 {
-  "totalProblems": 324,
-  "easySolved": 117,
-  "mediumSolved": 188,
+  "totalProblems": 327,
+  "easySolved": 119,
+  "mediumSolved": 189,
   "hardSolved": 21,
   "streakDays": 15,
-  "totalHours": 214.12,
-  "lastUpdated": "2026-06-26T18:31:21.996498",
+  "totalHours": 215.51,
+  "lastUpdated": "2026-06-27T00:30:57.337307",
   "topicStats": {
     "Arrays": 15,
     "Strings": 23,
     "LinkedList": 23,
-    "Trees": 19,
+    "Trees": 20,
     "Graphs": 18,
     "DynamicProgramming": 22,
     "BinarySearch": 23,
-    "Sorting": 16,
+    "Sorting": 17,
     "Hashing": 17,
-    "Recursion": 22,
+    "Recursion": 23,
     "Stack": 16,
     "Queue": 18,
     "Heap": 26,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 271
+      "solved": 274
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Power of Three",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T00:30:57.337297"
+    },
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T00:30:57.337294"
+    },
+    {
+      "name": "Invert Binary Tree",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T00:30:57.337284"
+    },
     {
       "name": "N-Queens",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "BinarySearch",
       "date": "2026-06-25",
       "solvedAt": "2026-06-25T00:30:53.176937"
-    },
-    {
-      "name": "3Sum",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T18:31:28.682501"
-    },
-    {
-      "name": "Longest Substring Without Repeating",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T18:31:28.682489"
-    },
-    {
-      "name": "Merge Intervals",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-24",
-      "solvedAt": "2026-06-24T12:32:12.353135"
     }
   ],
-  "lastActive": "2026-06-26",
+  "lastActive": "2026-06-27",
   "totalSolved": 41
 }

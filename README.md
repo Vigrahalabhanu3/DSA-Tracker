@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 324 |
-| **🟢 Easy** | 117 (36.1%) |
-| **🟡 Medium** | 188 (58.0%) |
-| **🔴 Hard** | 21 (6.5%) |
+| **Total Problems Solved** | 327 |
+| **🟢 Easy** | 119 (36.4%) |
+| **🟡 Medium** | 189 (57.8%) |
+| **🔴 Hard** | 21 (6.4%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 214.12h |
+| **⏱️ Total Hours** | 215.51h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 271 |
+| LeetCode | 274 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -34,9 +34,9 @@
 | Strings | 23 |
 | LinkedList | 23 |
 | BinarySearch | 23 |
+| Recursion | 23 |
 | DynamicProgramming | 22 |
-| Recursion | 22 |
-| Trees | 19 |
+| Trees | 20 |
 | Graphs | 18 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Power of Three | 🟢 Easy | Recursion | 2026-06-27 |
+| Kth Largest Element | 🟡 Medium | Sorting | 2026-06-27 |
+| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-27 |
 | N-Queens | 🔴 Hard | Backtracking | 2026-06-26 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-26 |
-| Task Scheduler | 🟡 Medium | Queue | 2026-06-26 |
-| Reverse String | 🟢 Easy | Recursion | 2026-06-26 |
-| Task Scheduler | 🟡 Medium | Queue | 2026-06-26 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-26T18:31:21.996498
-**Last Active**: 2026-06-26
+**Last Updated**: 2026-06-27T00:30:57.337307
+**Last Active**: 2026-06-27
