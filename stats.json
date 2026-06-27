@@ -1,11 +1,11 @@
 {
-  "totalProblems": 327,
-  "easySolved": 119,
+  "totalProblems": 329,
+  "easySolved": 120,
   "mediumSolved": 189,
-  "hardSolved": 21,
+  "hardSolved": 22,
   "streakDays": 15,
-  "totalHours": 215.51,
-  "lastUpdated": "2026-06-27T00:30:57.337307",
+  "totalHours": 217.03,
+  "lastUpdated": "2026-06-27T04:31:07.634885",
   "topicStats": {
     "Arrays": 15,
     "Strings": 23,
@@ -18,16 +18,16 @@
     "Hashing": 17,
     "Recursion": 23,
     "Stack": 16,
-    "Queue": 18,
+    "Queue": 19,
     "Heap": 26,
     "Greedy": 31,
-    "Backtracking": 27,
+    "Backtracking": 28,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 274
+      "solved": 276
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "N-Queens",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Backtracking",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T04:31:07.634870"
+    },
+    {
+      "name": "Moving Average from Data Stream",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T04:31:07.634856"
+    },
     {
       "name": "Power of Three",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "DynamicProgramming",
       "date": "2026-06-25",
       "solvedAt": "2026-06-25T00:30:53.176954"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T00:30:53.176951"
-    },
-    {
-      "name": "Search Insert Position",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T00:30:53.176937"
     }
   ],
   "lastActive": "2026-06-27",

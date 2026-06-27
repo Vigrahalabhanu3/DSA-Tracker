@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 327 |
-| **🟢 Easy** | 119 (36.4%) |
-| **🟡 Medium** | 189 (57.8%) |
-| **🔴 Hard** | 21 (6.4%) |
+| **Total Problems Solved** | 329 |
+| **🟢 Easy** | 120 (36.5%) |
+| **🟡 Medium** | 189 (57.4%) |
+| **🔴 Hard** | 22 (6.7%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 215.51h |
+| **⏱️ Total Hours** | 217.03h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 274 |
+| LeetCode | 276 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,7 +29,7 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 31 |
-| Backtracking | 27 |
+| Backtracking | 28 |
 | Heap | 26 |
 | Strings | 23 |
 | LinkedList | 23 |
@@ -37,18 +37,18 @@
 | Recursion | 23 |
 | DynamicProgramming | 22 |
 | Trees | 20 |
-| Graphs | 18 |
+| Queue | 19 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| N-Queens | 🔴 Hard | Backtracking | 2026-06-27 |
+| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-06-27 |
 | Power of Three | 🟢 Easy | Recursion | 2026-06-27 |
 | Kth Largest Element | 🟡 Medium | Sorting | 2026-06-27 |
 | Invert Binary Tree | 🟢 Easy | Trees | 2026-06-27 |
-| N-Queens | 🔴 Hard | Backtracking | 2026-06-26 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-26 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-27T00:30:57.337307
+**Last Updated**: 2026-06-27T04:31:07.634885
 **Last Active**: 2026-06-27
