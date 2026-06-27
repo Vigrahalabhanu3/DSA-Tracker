@@ -1,33 +1,33 @@
 {
-  "totalProblems": 329,
+  "totalProblems": 332,
   "easySolved": 120,
-  "mediumSolved": 189,
+  "mediumSolved": 192,
   "hardSolved": 22,
   "streakDays": 15,
-  "totalHours": 217.03,
-  "lastUpdated": "2026-06-27T04:31:07.634885",
+  "totalHours": 218.16,
+  "lastUpdated": "2026-06-27T08:31:06.129277",
   "topicStats": {
     "Arrays": 15,
     "Strings": 23,
     "LinkedList": 23,
-    "Trees": 20,
+    "Trees": 21,
     "Graphs": 18,
     "DynamicProgramming": 22,
     "BinarySearch": 23,
-    "Sorting": 17,
+    "Sorting": 18,
     "Hashing": 17,
     "Recursion": 23,
     "Stack": 16,
     "Queue": 19,
     "Heap": 26,
-    "Greedy": 31,
+    "Greedy": 32,
     "Backtracking": 28,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 276
+      "solved": 279
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T08:31:06.129269"
+    },
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T08:31:06.129266"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-27",
+      "solvedAt": "2026-06-27T08:31:06.129257"
+    },
     {
       "name": "N-Queens",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Backtracking",
       "date": "2026-06-25",
       "solvedAt": "2026-06-25T04:31:09.926748"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T04:31:09.926745"
-    },
-    {
-      "name": "Moving Average from Data Stream",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T04:31:09.926731"
-    },
-    {
-      "name": "House Robber",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T00:30:53.176954"
     }
   ],
   "lastActive": "2026-06-27",
