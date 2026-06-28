@@ -1,11 +1,11 @@
 {
-  "totalProblems": 347,
-  "easySolved": 125,
+  "totalProblems": 349,
+  "easySolved": 127,
   "mediumSolved": 201,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 224.12,
-  "lastUpdated": "2026-06-28T12:32:08.412488",
+  "totalHours": 225.7,
+  "lastUpdated": "2026-06-28T18:31:24.696738",
   "topicStats": {
     "Arrays": 16,
     "Strings": 24,
@@ -13,9 +13,9 @@
     "Trees": 21,
     "Graphs": 18,
     "DynamicProgramming": 22,
-    "BinarySearch": 24,
+    "BinarySearch": 25,
     "Sorting": 19,
-    "Hashing": 17,
+    "Hashing": 18,
     "Recursion": 26,
     "Stack": 16,
     "Queue": 19,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 294
+      "solved": 296
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Search Insert Position",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-28",
+      "solvedAt": "2026-06-28T18:31:24.696726"
+    },
+    {
+      "name": "Majority Element",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-28",
+      "solvedAt": "2026-06-28T18:31:24.696716"
+    },
     {
       "name": "Sort Colors",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Queue",
       "date": "2026-06-26",
       "solvedAt": "2026-06-26T12:32:10.172128"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T12:32:10.172118"
-    },
-    {
-      "name": "Number of Connected Components",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T08:31:05.991441"
     }
   ],
   "lastActive": "2026-06-28",
