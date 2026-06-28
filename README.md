@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 340 |
-| **🟢 Easy** | 122 (35.9%) |
-| **🟡 Medium** | 197 (57.9%) |
-| **🔴 Hard** | 23 (6.8%) |
+| **Total Problems Solved** | 343 |
+| **🟢 Easy** | 124 (36.2%) |
+| **🟡 Medium** | 198 (57.7%) |
+| **🔴 Hard** | 23 (6.7%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 220.48h |
+| **⏱️ Total Hours** | 222.01h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 287 |
+| LeetCode | 290 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,10 +29,10 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 34 |
-| Backtracking | 29 |
+| Backtracking | 30 |
 | Heap | 27 |
-| LinkedList | 25 |
-| Recursion | 24 |
+| LinkedList | 26 |
+| Recursion | 25 |
 | Strings | 23 |
 | BinarySearch | 23 |
 | DynamicProgramming | 22 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-28 |
+| Reverse String | 🟢 Easy | Recursion | 2026-06-28 |
+| Combinations | 🟡 Medium | Backtracking | 2026-06-28 |
 | Jump Game | 🟡 Medium | Greedy | 2026-06-28 |
 | Merge K Sorted Lists | 🔴 Hard | Heap | 2026-06-28 |
-| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-27 |
-| Fibonacci Number | 🟢 Easy | Recursion | 2026-06-27 |
-| Add Two Numbers | 🟡 Medium | LinkedList | 2026-06-27 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-28T00:31:01.315435
+**Last Updated**: 2026-06-28T04:31:07.565843
 **Last Active**: 2026-06-28
