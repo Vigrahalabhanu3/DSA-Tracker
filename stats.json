@@ -1,11 +1,11 @@
 {
-  "totalProblems": 343,
-  "easySolved": 124,
-  "mediumSolved": 198,
+  "totalProblems": 345,
+  "easySolved": 125,
+  "mediumSolved": 199,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 222.01,
-  "lastUpdated": "2026-06-28T04:31:07.565843",
+  "totalHours": 222.86,
+  "lastUpdated": "2026-06-28T08:31:12.423847",
   "topicStats": {
     "Arrays": 16,
     "Strings": 23,
@@ -13,10 +13,10 @@
     "Trees": 21,
     "Graphs": 18,
     "DynamicProgramming": 22,
-    "BinarySearch": 23,
+    "BinarySearch": 24,
     "Sorting": 18,
     "Hashing": 17,
-    "Recursion": 25,
+    "Recursion": 26,
     "Stack": 16,
     "Queue": 19,
     "Heap": 27,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 290
+      "solved": 292
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Find First and Last Position",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-06-28",
+      "solvedAt": "2026-06-28T08:31:12.423836"
+    },
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-06-28",
+      "solvedAt": "2026-06-28T08:31:12.423822"
+    },
     {
       "name": "Linked List Cycle",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Greedy",
       "date": "2026-06-26",
       "solvedAt": "2026-06-26T04:31:07.852392"
-    },
-    {
-      "name": "Binary Tree Level Order Traversal",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T04:31:07.852378"
-    },
-    {
-      "name": "Best Time to Buy and Sell Stock",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T00:30:55.103145"
     }
   ],
   "lastActive": "2026-06-28",
