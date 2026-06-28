@@ -1,20 +1,20 @@
 {
-  "totalProblems": 345,
+  "totalProblems": 347,
   "easySolved": 125,
-  "mediumSolved": 199,
+  "mediumSolved": 201,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 222.86,
-  "lastUpdated": "2026-06-28T08:31:12.423847",
+  "totalHours": 224.12,
+  "lastUpdated": "2026-06-28T12:32:08.412488",
   "topicStats": {
     "Arrays": 16,
-    "Strings": 23,
+    "Strings": 24,
     "LinkedList": 26,
     "Trees": 21,
     "Graphs": 18,
     "DynamicProgramming": 22,
     "BinarySearch": 24,
-    "Sorting": 18,
+    "Sorting": 19,
     "Hashing": 17,
     "Recursion": 26,
     "Stack": 16,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 292
+      "solved": 294
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Sort Colors",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-28",
+      "solvedAt": "2026-06-28T12:32:08.412479"
+    },
+    {
+      "name": "String Compression",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-28",
+      "solvedAt": "2026-06-28T12:32:08.412469"
+    },
     {
       "name": "Find First and Last Position",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Graphs",
       "date": "2026-06-26",
       "solvedAt": "2026-06-26T08:31:05.991441"
-    },
-    {
-      "name": "N-Queens",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Backtracking",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T08:31:05.991433"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T04:31:07.852392"
     }
   ],
   "lastActive": "2026-06-28",
