@@ -1,11 +1,11 @@
 {
-  "totalProblems": 338,
+  "totalProblems": 340,
   "easySolved": 122,
-  "mediumSolved": 196,
-  "hardSolved": 22,
+  "mediumSolved": 197,
+  "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 219.34,
-  "lastUpdated": "2026-06-27T18:31:21.237134",
+  "totalHours": 220.48,
+  "lastUpdated": "2026-06-28T00:31:01.315435",
   "topicStats": {
     "Arrays": 16,
     "Strings": 23,
@@ -19,15 +19,15 @@
     "Recursion": 24,
     "Stack": 16,
     "Queue": 19,
-    "Heap": 26,
-    "Greedy": 33,
+    "Heap": 27,
+    "Greedy": 34,
     "Backtracking": 29,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 285
+      "solved": 287
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-28",
+      "solvedAt": "2026-06-28T00:31:01.315423"
+    },
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-06-28",
+      "solvedAt": "2026-06-28T00:31:01.315412"
+    },
     {
       "name": "Contains Duplicate",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "Backtracking",
       "date": "2026-06-25",
       "solvedAt": "2026-06-25T18:31:21.164885"
-    },
-    {
-      "name": "Task Scheduler",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Queue",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T18:31:21.164882"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-25",
-      "solvedAt": "2026-06-25T18:31:21.164871"
     }
   ],
-  "lastActive": "2026-06-27",
+  "lastActive": "2026-06-28",
   "totalSolved": 41
 }
