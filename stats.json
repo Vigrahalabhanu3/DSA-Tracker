@@ -1,24 +1,24 @@
 {
-  "totalProblems": 349,
-  "easySolved": 127,
-  "mediumSolved": 201,
+  "totalProblems": 351,
+  "easySolved": 128,
+  "mediumSolved": 202,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 225.7,
-  "lastUpdated": "2026-06-28T18:31:24.696738",
+  "totalHours": 227.15,
+  "lastUpdated": "2026-06-29T00:30:54.089523",
   "topicStats": {
     "Arrays": 16,
     "Strings": 24,
     "LinkedList": 26,
     "Trees": 21,
-    "Graphs": 18,
+    "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 25,
     "Sorting": 19,
     "Hashing": 18,
     "Recursion": 26,
     "Stack": 16,
-    "Queue": 19,
+    "Queue": 20,
     "Heap": 27,
     "Greedy": 34,
     "Backtracking": 30,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 296
+      "solved": 298
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Number of Recent Calls",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T00:30:54.089508"
+    },
+    {
+      "name": "Course Schedule",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T00:30:54.089495"
+    },
     {
       "name": "Search Insert Position",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "Queue",
       "date": "2026-06-26",
       "solvedAt": "2026-06-26T18:31:21.996476"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T12:32:10.172131"
-    },
-    {
-      "name": "Task Scheduler",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Queue",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T12:32:10.172128"
     }
   ],
-  "lastActive": "2026-06-28",
+  "lastActive": "2026-06-29",
   "totalSolved": 41
 }
