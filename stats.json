@@ -1,11 +1,11 @@
 {
-  "totalProblems": 351,
-  "easySolved": 128,
-  "mediumSolved": 202,
+  "totalProblems": 353,
+  "easySolved": 129,
+  "mediumSolved": 203,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 227.15,
-  "lastUpdated": "2026-06-29T00:30:54.089523",
+  "totalHours": 227.94,
+  "lastUpdated": "2026-06-29T04:31:10.400553",
   "topicStats": {
     "Arrays": 16,
     "Strings": 24,
@@ -14,20 +14,20 @@
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 25,
-    "Sorting": 19,
+    "Sorting": 20,
     "Hashing": 18,
     "Recursion": 26,
     "Stack": 16,
     "Queue": 20,
     "Heap": 27,
-    "Greedy": 34,
+    "Greedy": 35,
     "Backtracking": 30,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 298
+      "solved": 300
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T04:31:10.400540"
+    },
+    {
+      "name": "Merge Intervals",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T04:31:10.400528"
+    },
     {
       "name": "Number of Recent Calls",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Backtracking",
       "date": "2026-06-26",
       "solvedAt": "2026-06-26T18:31:21.996489"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T18:31:21.996485"
-    },
-    {
-      "name": "Task Scheduler",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Queue",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T18:31:21.996476"
     }
   ],
   "lastActive": "2026-06-29",

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 351 |
-| **🟢 Easy** | 128 (36.5%) |
-| **🟡 Medium** | 202 (57.5%) |
-| **🔴 Hard** | 23 (6.6%) |
+| **Total Problems Solved** | 353 |
+| **🟢 Easy** | 129 (36.5%) |
+| **🟡 Medium** | 203 (57.5%) |
+| **🔴 Hard** | 23 (6.5%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 227.15h |
+| **⏱️ Total Hours** | 227.94h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 298 |
+| LeetCode | 300 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,7 +28,7 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 34 |
+| Greedy | 35 |
 | Backtracking | 30 |
 | Heap | 27 |
 | LinkedList | 26 |
@@ -37,18 +37,18 @@
 | Strings | 24 |
 | DynamicProgramming | 22 |
 | Trees | 21 |
-| Queue | 20 |
+| Sorting | 20 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Assign Cookies | 🟢 Easy | Greedy | 2026-06-29 |
+| Merge Intervals | 🟡 Medium | Sorting | 2026-06-29 |
 | Number of Recent Calls | 🟢 Easy | Queue | 2026-06-29 |
 | Course Schedule | 🟡 Medium | Graphs | 2026-06-29 |
 | Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-28 |
-| Majority Element | 🟢 Easy | Hashing | 2026-06-28 |
-| Sort Colors | 🟡 Medium | Sorting | 2026-06-28 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-29T00:30:54.089523
+**Last Updated**: 2026-06-29T04:31:10.400553
 **Last Active**: 2026-06-29
