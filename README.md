@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 358 |
-| **🟢 Easy** | 131 (36.6%) |
-| **🟡 Medium** | 206 (57.5%) |
+| **Total Problems Solved** | 360 |
+| **🟢 Easy** | 132 (36.7%) |
+| **🟡 Medium** | 207 (57.5%) |
 | **🔴 Hard** | 23 (6.4%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 229.98h |
+| **⏱️ Total Hours** | 231.44h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 305 |
+| LeetCode | 307 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,12 +30,12 @@
 |-------|-------|
 | Greedy | 37 |
 | Backtracking | 30 |
+| LinkedList | 27 |
 | Heap | 27 |
-| LinkedList | 26 |
 | Recursion | 26 |
 | Strings | 25 |
 | BinarySearch | 25 |
-| Trees | 22 |
+| Trees | 23 |
 | DynamicProgramming | 22 |
 | Sorting | 20 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-29 |
+| Reorder List | 🟡 Medium | LinkedList | 2026-06-29 |
 | Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-29 |
 | Jump Game | 🟡 Medium | Greedy | 2026-06-29 |
 | Valid Anagram | 🟢 Easy | Hashing | 2026-06-29 |
-| Assign Cookies | 🟢 Easy | Greedy | 2026-06-29 |
-| Binary Tree Path Sum | 🟡 Medium | Trees | 2026-06-29 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-29T12:32:10.647468
+**Last Updated**: 2026-06-29T18:31:24.454956
 **Last Active**: 2026-06-29

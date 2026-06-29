@@ -1,16 +1,16 @@
 {
-  "totalProblems": 358,
-  "easySolved": 131,
-  "mediumSolved": 206,
+  "totalProblems": 360,
+  "easySolved": 132,
+  "mediumSolved": 207,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 229.98,
-  "lastUpdated": "2026-06-29T12:32:10.647468",
+  "totalHours": 231.44,
+  "lastUpdated": "2026-06-29T18:31:24.454956",
   "topicStats": {
     "Arrays": 16,
     "Strings": 25,
-    "LinkedList": 26,
-    "Trees": 22,
+    "LinkedList": 27,
+    "Trees": 23,
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 25,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 305
+      "solved": 307
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Invert Binary Tree",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T18:31:24.454942"
+    },
+    {
+      "name": "Reorder List",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "LinkedList",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T18:31:24.454929"
+    },
     {
       "name": "Longest Substring Without Repeating",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-27",
       "solvedAt": "2026-06-27T08:31:06.129266"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T08:31:06.129257"
-    },
-    {
-      "name": "N-Queens",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Backtracking",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T04:31:07.634870"
     }
   ],
   "lastActive": "2026-06-29",
