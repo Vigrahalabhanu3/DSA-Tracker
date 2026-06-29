@@ -1,16 +1,16 @@
 {
-  "totalProblems": 353,
-  "easySolved": 129,
-  "mediumSolved": 203,
+  "totalProblems": 355,
+  "easySolved": 130,
+  "mediumSolved": 204,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 227.94,
-  "lastUpdated": "2026-06-29T04:31:10.400553",
+  "totalHours": 228.92,
+  "lastUpdated": "2026-06-29T08:31:17.935934",
   "topicStats": {
     "Arrays": 16,
     "Strings": 24,
     "LinkedList": 26,
-    "Trees": 21,
+    "Trees": 22,
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 25,
@@ -20,14 +20,14 @@
     "Stack": 16,
     "Queue": 20,
     "Heap": 27,
-    "Greedy": 35,
+    "Greedy": 36,
     "Backtracking": 30,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 300
+      "solved": 302
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T08:31:17.935924"
+    },
+    {
+      "name": "Binary Tree Path Sum",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T08:31:17.935915"
+    },
     {
       "name": "Assign Cookies",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-27",
       "solvedAt": "2026-06-27T00:30:57.337294"
-    },
-    {
-      "name": "Invert Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T00:30:57.337284"
-    },
-    {
-      "name": "N-Queens",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Backtracking",
-      "date": "2026-06-26",
-      "solvedAt": "2026-06-26T18:31:21.996489"
     }
   ],
   "lastActive": "2026-06-29",

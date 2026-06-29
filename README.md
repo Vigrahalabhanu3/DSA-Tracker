@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 353 |
-| **🟢 Easy** | 129 (36.5%) |
-| **🟡 Medium** | 203 (57.5%) |
+| **Total Problems Solved** | 355 |
+| **🟢 Easy** | 130 (36.6%) |
+| **🟡 Medium** | 204 (57.5%) |
 | **🔴 Hard** | 23 (6.5%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 227.94h |
+| **⏱️ Total Hours** | 228.92h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 300 |
+| LeetCode | 302 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,15 +28,15 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 35 |
+| Greedy | 36 |
 | Backtracking | 30 |
 | Heap | 27 |
 | LinkedList | 26 |
 | Recursion | 26 |
 | BinarySearch | 25 |
 | Strings | 24 |
+| Trees | 22 |
 | DynamicProgramming | 22 |
-| Trees | 21 |
 | Sorting | 20 |
 
 
@@ -45,10 +45,10 @@
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
 | Assign Cookies | 🟢 Easy | Greedy | 2026-06-29 |
+| Binary Tree Path Sum | 🟡 Medium | Trees | 2026-06-29 |
+| Assign Cookies | 🟢 Easy | Greedy | 2026-06-29 |
 | Merge Intervals | 🟡 Medium | Sorting | 2026-06-29 |
 | Number of Recent Calls | 🟢 Easy | Queue | 2026-06-29 |
-| Course Schedule | 🟡 Medium | Graphs | 2026-06-29 |
-| Search Insert Position | 🟢 Easy | BinarySearch | 2026-06-28 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-29T04:31:10.400553
+**Last Updated**: 2026-06-29T08:31:17.935934
 **Last Active**: 2026-06-29
