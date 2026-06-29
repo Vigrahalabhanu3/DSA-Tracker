@@ -1,33 +1,33 @@
 {
-  "totalProblems": 355,
-  "easySolved": 130,
-  "mediumSolved": 204,
+  "totalProblems": 358,
+  "easySolved": 131,
+  "mediumSolved": 206,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 228.92,
-  "lastUpdated": "2026-06-29T08:31:17.935934",
+  "totalHours": 229.98,
+  "lastUpdated": "2026-06-29T12:32:10.647468",
   "topicStats": {
     "Arrays": 16,
-    "Strings": 24,
+    "Strings": 25,
     "LinkedList": 26,
     "Trees": 22,
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 25,
     "Sorting": 20,
-    "Hashing": 18,
+    "Hashing": 19,
     "Recursion": 26,
     "Stack": 16,
     "Queue": 20,
     "Heap": 27,
-    "Greedy": 36,
+    "Greedy": 37,
     "Backtracking": 30,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 302
+      "solved": 305
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Longest Substring Without Repeating",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T12:32:10.647458"
+    },
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T12:32:10.647454"
+    },
+    {
+      "name": "Valid Anagram",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-06-29",
+      "solvedAt": "2026-06-29T12:32:10.647444"
+    },
     {
       "name": "Assign Cookies",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Backtracking",
       "date": "2026-06-27",
       "solvedAt": "2026-06-27T04:31:07.634870"
-    },
-    {
-      "name": "Moving Average from Data Stream",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T04:31:07.634856"
-    },
-    {
-      "name": "Power of Three",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T00:30:57.337297"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T00:30:57.337294"
     }
   ],
   "lastActive": "2026-06-29",
