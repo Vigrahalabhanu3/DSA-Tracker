@@ -1,25 +1,25 @@
 {
-  "totalProblems": 365,
-  "easySolved": 134,
-  "mediumSolved": 210,
+  "totalProblems": 368,
+  "easySolved": 135,
+  "mediumSolved": 212,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 234.11,
-  "lastUpdated": "2026-06-30T04:31:06.844613",
+  "totalHours": 235.27,
+  "lastUpdated": "2026-06-30T08:31:07.059025",
   "topicStats": {
-    "Arrays": 16,
+    "Arrays": 17,
     "Strings": 25,
     "LinkedList": 28,
     "Trees": 23,
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 26,
-    "Sorting": 20,
+    "Sorting": 21,
     "Hashing": 19,
     "Recursion": 26,
     "Stack": 17,
     "Queue": 20,
-    "Heap": 28,
+    "Heap": 29,
     "Greedy": 37,
     "Backtracking": 31,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 312
+      "solved": 315
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T08:31:07.059015"
+    },
+    {
+      "name": "Merge Intervals",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T08:31:07.059012"
+    },
+    {
+      "name": "Best Time to Buy and Sell Stock",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T08:31:07.059003"
+    },
     {
       "name": "Min Heap",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-28",
       "solvedAt": "2026-06-28T00:31:01.315412"
-    },
-    {
-      "name": "Contains Duplicate",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T18:31:21.237121"
-    },
-    {
-      "name": "Fibonacci Number",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T18:31:21.237118"
-    },
-    {
-      "name": "Add Two Numbers",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T18:31:21.237104"
     }
   ],
   "lastActive": "2026-06-30",
