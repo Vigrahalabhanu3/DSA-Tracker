@@ -1,11 +1,11 @@
 {
-  "totalProblems": 363,
+  "totalProblems": 365,
   "easySolved": 134,
-  "mediumSolved": 208,
+  "mediumSolved": 210,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 232.81,
-  "lastUpdated": "2026-06-30T00:31:02.338271",
+  "totalHours": 234.11,
+  "lastUpdated": "2026-06-30T04:31:06.844613",
   "topicStats": {
     "Arrays": 16,
     "Strings": 25,
@@ -17,9 +17,9 @@
     "Sorting": 20,
     "Hashing": 19,
     "Recursion": 26,
-    "Stack": 16,
+    "Stack": 17,
     "Queue": 20,
-    "Heap": 27,
+    "Heap": 28,
     "Greedy": 37,
     "Backtracking": 31,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 310
+      "solved": 312
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T04:31:06.844598"
+    },
+    {
+      "name": "Daily Temperatures",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T04:31:06.844583"
+    },
     {
       "name": "Binary Search",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "LinkedList",
       "date": "2026-06-27",
       "solvedAt": "2026-06-27T18:31:21.237104"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T12:32:03.628836"
-    },
-    {
-      "name": "Reorder List",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T12:32:03.628834"
     }
   ],
   "lastActive": "2026-06-30",

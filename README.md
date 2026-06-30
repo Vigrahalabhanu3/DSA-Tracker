@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 363 |
-| **🟢 Easy** | 134 (36.9%) |
-| **🟡 Medium** | 208 (57.3%) |
+| **Total Problems Solved** | 365 |
+| **🟢 Easy** | 134 (36.7%) |
+| **🟡 Medium** | 210 (57.5%) |
 | **🔴 Hard** | 23 (6.3%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 232.81h |
+| **⏱️ Total Hours** | 234.11h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 310 |
+| LeetCode | 312 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -31,7 +31,7 @@
 | Greedy | 37 |
 | Backtracking | 31 |
 | LinkedList | 28 |
-| Heap | 27 |
+| Heap | 28 |
 | BinarySearch | 26 |
 | Recursion | 26 |
 | Strings | 25 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Min Heap | 🟡 Medium | Heap | 2026-06-30 |
+| Daily Temperatures | 🟡 Medium | Stack | 2026-06-30 |
 | Binary Search | 🟢 Easy | BinarySearch | 2026-06-30 |
 | Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-30 |
 | Combinations | 🟡 Medium | Backtracking | 2026-06-30 |
-| Invert Binary Tree | 🟢 Easy | Trees | 2026-06-29 |
-| Reorder List | 🟡 Medium | LinkedList | 2026-06-29 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-30T00:31:02.338271
+**Last Updated**: 2026-06-30T04:31:06.844613
 **Last Active**: 2026-06-30
