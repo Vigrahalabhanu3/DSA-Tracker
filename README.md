@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 371 |
-| **🟢 Easy** | 137 (36.9%) |
-| **🟡 Medium** | 213 (57.4%) |
-| **🔴 Hard** | 23 (6.2%) |
+| **Total Problems Solved** | 374 |
+| **🟢 Easy** | 138 (36.9%) |
+| **🟡 Medium** | 215 (57.5%) |
+| **🔴 Hard** | 23 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 235.97h |
+| **⏱️ Total Hours** | 237.70h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 318 |
+| LeetCode | 321 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,12 +28,12 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 37 |
+| Greedy | 38 |
 | Backtracking | 31 |
 | LinkedList | 29 |
 | Heap | 29 |
+| BinarySearch | 27 |
 | Recursion | 27 |
-| BinarySearch | 26 |
 | Strings | 25 |
 | Trees | 23 |
 | DynamicProgramming | 22 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-30 |
+| Island Perimeter | 🟡 Medium | Greedy | 2026-06-30 |
+| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-30 |
 | Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-30 |
 | Reverse String | 🟢 Easy | Recursion | 2026-06-30 |
-| Daily Temperatures | 🟡 Medium | Stack | 2026-06-30 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-30 |
-| Merge Intervals | 🟡 Medium | Sorting | 2026-06-30 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-30T12:32:05.334559
+**Last Updated**: 2026-06-30T18:31:28.103703
 **Last Active**: 2026-06-30

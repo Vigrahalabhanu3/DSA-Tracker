@@ -1,33 +1,33 @@
 {
-  "totalProblems": 371,
-  "easySolved": 137,
-  "mediumSolved": 213,
+  "totalProblems": 374,
+  "easySolved": 138,
+  "mediumSolved": 215,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 235.97,
-  "lastUpdated": "2026-06-30T12:32:05.334559",
+  "totalHours": 237.7,
+  "lastUpdated": "2026-06-30T18:31:28.103703",
   "topicStats": {
-    "Arrays": 17,
+    "Arrays": 18,
     "Strings": 25,
     "LinkedList": 29,
     "Trees": 23,
     "Graphs": 19,
     "DynamicProgramming": 22,
-    "BinarySearch": 26,
+    "BinarySearch": 27,
     "Sorting": 21,
     "Hashing": 19,
     "Recursion": 27,
     "Stack": 18,
     "Queue": 20,
     "Heap": 29,
-    "Greedy": 37,
+    "Greedy": 38,
     "Backtracking": 31,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 318
+      "solved": 321
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Contains Duplicate",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T18:31:28.103695"
+    },
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T18:31:28.103693"
+    },
+    {
+      "name": "Search in Rotated Sorted Array",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T18:31:28.103685"
+    },
     {
       "name": "Linked List Cycle",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-06-28",
       "solvedAt": "2026-06-28T08:31:12.423836"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-28",
-      "solvedAt": "2026-06-28T08:31:12.423822"
-    },
-    {
-      "name": "Linked List Cycle",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-28",
-      "solvedAt": "2026-06-28T04:31:07.565829"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-06-28",
-      "solvedAt": "2026-06-28T04:31:07.565826"
     }
   ],
   "lastActive": "2026-06-30",
