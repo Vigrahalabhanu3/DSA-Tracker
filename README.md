@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 368 |
-| **🟢 Easy** | 135 (36.7%) |
-| **🟡 Medium** | 212 (57.6%) |
+| **Total Problems Solved** | 371 |
+| **🟢 Easy** | 137 (36.9%) |
+| **🟡 Medium** | 213 (57.4%) |
 | **🔴 Hard** | 23 (6.2%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 235.27h |
+| **⏱️ Total Hours** | 235.97h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 315 |
+| LeetCode | 318 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,10 +30,10 @@
 |-------|-------|
 | Greedy | 37 |
 | Backtracking | 31 |
+| LinkedList | 29 |
 | Heap | 29 |
-| LinkedList | 28 |
+| Recursion | 27 |
 | BinarySearch | 26 |
-| Recursion | 26 |
 | Strings | 25 |
 | Trees | 23 |
 | DynamicProgramming | 22 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-30 |
+| Reverse String | 🟢 Easy | Recursion | 2026-06-30 |
+| Daily Temperatures | 🟡 Medium | Stack | 2026-06-30 |
 | Min Heap | 🟡 Medium | Heap | 2026-06-30 |
 | Merge Intervals | 🟡 Medium | Sorting | 2026-06-30 |
-| Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | 2026-06-30 |
-| Min Heap | 🟡 Medium | Heap | 2026-06-30 |
-| Daily Temperatures | 🟡 Medium | Stack | 2026-06-30 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-30T08:31:07.059025
+**Last Updated**: 2026-06-30T12:32:05.334559
 **Last Active**: 2026-06-30
