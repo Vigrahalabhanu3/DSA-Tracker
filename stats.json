@@ -1,19 +1,19 @@
 {
-  "totalProblems": 360,
-  "easySolved": 132,
-  "mediumSolved": 207,
+  "totalProblems": 363,
+  "easySolved": 134,
+  "mediumSolved": 208,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 231.44,
-  "lastUpdated": "2026-06-29T18:31:24.454956",
+  "totalHours": 232.81,
+  "lastUpdated": "2026-06-30T00:31:02.338271",
   "topicStats": {
     "Arrays": 16,
     "Strings": 25,
-    "LinkedList": 27,
+    "LinkedList": 28,
     "Trees": 23,
     "Graphs": 19,
     "DynamicProgramming": 22,
-    "BinarySearch": 25,
+    "BinarySearch": 26,
     "Sorting": 20,
     "Hashing": 19,
     "Recursion": 26,
@@ -21,13 +21,13 @@
     "Queue": 20,
     "Heap": 27,
     "Greedy": 37,
-    "Backtracking": 30,
+    "Backtracking": 31,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 307
+      "solved": 310
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Binary Search",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T00:31:02.338260"
+    },
+    {
+      "name": "Linked List Cycle",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T00:31:02.338256"
+    },
+    {
+      "name": "Combinations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-06-30",
+      "solvedAt": "2026-06-30T00:31:02.338245"
+    },
     {
       "name": "Invert Binary Tree",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "LinkedList",
       "date": "2026-06-27",
       "solvedAt": "2026-06-27T12:32:03.628834"
-    },
-    {
-      "name": "Permutations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T12:32:03.628822"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T08:31:06.129269"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-27",
-      "solvedAt": "2026-06-27T08:31:06.129266"
     }
   ],
-  "lastActive": "2026-06-29",
+  "lastActive": "2026-06-30",
   "totalSolved": 41
 }

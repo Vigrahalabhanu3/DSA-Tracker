@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 360 |
-| **🟢 Easy** | 132 (36.7%) |
-| **🟡 Medium** | 207 (57.5%) |
-| **🔴 Hard** | 23 (6.4%) |
+| **Total Problems Solved** | 363 |
+| **🟢 Easy** | 134 (36.9%) |
+| **🟡 Medium** | 208 (57.3%) |
+| **🔴 Hard** | 23 (6.3%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 231.44h |
+| **⏱️ Total Hours** | 232.81h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 307 |
+| LeetCode | 310 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,12 +29,12 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 37 |
-| Backtracking | 30 |
-| LinkedList | 27 |
+| Backtracking | 31 |
+| LinkedList | 28 |
 | Heap | 27 |
+| BinarySearch | 26 |
 | Recursion | 26 |
 | Strings | 25 |
-| BinarySearch | 25 |
 | Trees | 23 |
 | DynamicProgramming | 22 |
 | Sorting | 20 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Binary Search | 🟢 Easy | BinarySearch | 2026-06-30 |
+| Linked List Cycle | 🟢 Easy | LinkedList | 2026-06-30 |
+| Combinations | 🟡 Medium | Backtracking | 2026-06-30 |
 | Invert Binary Tree | 🟢 Easy | Trees | 2026-06-29 |
 | Reorder List | 🟡 Medium | LinkedList | 2026-06-29 |
-| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-06-29 |
-| Jump Game | 🟡 Medium | Greedy | 2026-06-29 |
-| Valid Anagram | 🟢 Easy | Hashing | 2026-06-29 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-06-29T18:31:24.454956
-**Last Active**: 2026-06-29
+**Last Updated**: 2026-06-30T00:31:02.338271
+**Last Active**: 2026-06-30
