@@ -1,16 +1,16 @@
 {
-  "totalProblems": 379,
-  "easySolved": 140,
+  "totalProblems": 381,
+  "easySolved": 142,
   "mediumSolved": 218,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 240.78,
-  "lastUpdated": "2026-07-01T04:31:09.967723",
+  "totalHours": 242.43,
+  "lastUpdated": "2026-07-01T08:31:17.947216",
   "topicStats": {
     "Arrays": 18,
     "Strings": 26,
     "LinkedList": 29,
-    "Trees": 23,
+    "Trees": 24,
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 28,
@@ -20,14 +20,14 @@
     "Stack": 19,
     "Queue": 20,
     "Heap": 30,
-    "Greedy": 38,
+    "Greedy": 39,
     "Backtracking": 32,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 326
+      "solved": 328
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Maximum Depth of Binary Tree",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-07-01",
+      "solvedAt": "2026-07-01T08:31:17.947206"
+    },
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-07-01",
+      "solvedAt": "2026-07-01T08:31:17.947196"
+    },
     {
       "name": "Combinations",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Sorting",
       "date": "2026-06-29",
       "solvedAt": "2026-06-29T04:31:10.400528"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-06-29",
-      "solvedAt": "2026-06-29T00:30:54.089508"
-    },
-    {
-      "name": "Course Schedule",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-06-29",
-      "solvedAt": "2026-06-29T00:30:54.089495"
     }
   ],
   "lastActive": "2026-07-01",

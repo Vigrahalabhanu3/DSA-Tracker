@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 379 |
-| **🟢 Easy** | 140 (36.9%) |
-| **🟡 Medium** | 218 (57.5%) |
-| **🔴 Hard** | 23 (6.1%) |
+| **Total Problems Solved** | 381 |
+| **🟢 Easy** | 142 (37.3%) |
+| **🟡 Medium** | 218 (57.2%) |
+| **🔴 Hard** | 23 (6.0%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 240.78h |
+| **⏱️ Total Hours** | 242.43h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 326 |
+| LeetCode | 328 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,14 +28,14 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 38 |
+| Greedy | 39 |
 | Backtracking | 32 |
 | Heap | 30 |
 | LinkedList | 29 |
 | BinarySearch | 28 |
 | Recursion | 27 |
 | Strings | 26 |
-| Trees | 23 |
+| Trees | 24 |
 | DynamicProgramming | 22 |
 | Sorting | 21 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Maximum Depth of Binary Tree | 🟢 Easy | Trees | 2026-07-01 |
+| Assign Cookies | 🟢 Easy | Greedy | 2026-07-01 |
 | Combinations | 🟡 Medium | Backtracking | 2026-07-01 |
 | Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-07-01 |
 | Valid Palindrome | 🟢 Easy | Strings | 2026-07-01 |
-| Min Stack | 🟢 Easy | Stack | 2026-07-01 |
-| Min Heap | 🟡 Medium | Heap | 2026-07-01 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-01T04:31:09.967723
+**Last Updated**: 2026-07-01T08:31:17.947216
 **Last Active**: 2026-07-01
