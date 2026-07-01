@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 376 |
-| **🟢 Easy** | 139 (37.0%) |
-| **🟡 Medium** | 216 (57.4%) |
+| **Total Problems Solved** | 379 |
+| **🟢 Easy** | 140 (36.9%) |
+| **🟡 Medium** | 218 (57.5%) |
 | **🔴 Hard** | 23 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 239.20h |
+| **⏱️ Total Hours** | 240.78h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 323 |
+| LeetCode | 326 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,12 +29,12 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 38 |
-| Backtracking | 31 |
+| Backtracking | 32 |
 | Heap | 30 |
 | LinkedList | 29 |
-| BinarySearch | 27 |
+| BinarySearch | 28 |
 | Recursion | 27 |
-| Strings | 25 |
+| Strings | 26 |
 | Trees | 23 |
 | DynamicProgramming | 22 |
 | Sorting | 21 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Combinations | 🟡 Medium | Backtracking | 2026-07-01 |
+| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-07-01 |
+| Valid Palindrome | 🟢 Easy | Strings | 2026-07-01 |
 | Min Stack | 🟢 Easy | Stack | 2026-07-01 |
 | Min Heap | 🟡 Medium | Heap | 2026-07-01 |
-| Contains Duplicate | 🟢 Easy | Arrays | 2026-06-30 |
-| Island Perimeter | 🟡 Medium | Greedy | 2026-06-30 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-06-30 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-01T00:30:55.357667
+**Last Updated**: 2026-07-01T04:31:09.967723
 **Last Active**: 2026-07-01
