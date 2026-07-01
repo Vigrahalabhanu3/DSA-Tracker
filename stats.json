@@ -1,24 +1,24 @@
 {
-  "totalProblems": 384,
-  "easySolved": 143,
-  "mediumSolved": 220,
+  "totalProblems": 387,
+  "easySolved": 144,
+  "mediumSolved": 222,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 243.44,
-  "lastUpdated": "2026-07-01T12:32:10.801518",
+  "totalHours": 244.51,
+  "lastUpdated": "2026-07-01T18:31:21.079279",
   "topicStats": {
-    "Arrays": 18,
+    "Arrays": 19,
     "Strings": 26,
     "LinkedList": 29,
     "Trees": 24,
     "Graphs": 19,
     "DynamicProgramming": 22,
-    "BinarySearch": 28,
+    "BinarySearch": 29,
     "Sorting": 21,
     "Hashing": 20,
     "Recursion": 27,
     "Stack": 19,
-    "Queue": 21,
+    "Queue": 22,
     "Heap": 31,
     "Greedy": 39,
     "Backtracking": 32,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 331
+      "solved": 334
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Search in Rotated Sorted Array",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-07-01",
+      "solvedAt": "2026-07-01T18:31:21.079266"
+    },
+    {
+      "name": "Number of Recent Calls",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-07-01",
+      "solvedAt": "2026-07-01T18:31:21.079263"
+    },
+    {
+      "name": "3Sum",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-07-01",
+      "solvedAt": "2026-07-01T18:31:21.079249"
+    },
     {
       "name": "Moving Average from Data Stream",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Strings",
       "date": "2026-06-29",
       "solvedAt": "2026-06-29T12:32:10.647458"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-29",
-      "solvedAt": "2026-06-29T12:32:10.647454"
-    },
-    {
-      "name": "Valid Anagram",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-06-29",
-      "solvedAt": "2026-06-29T12:32:10.647444"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-06-29",
-      "solvedAt": "2026-06-29T08:31:17.935924"
     }
   ],
   "lastActive": "2026-07-01",
