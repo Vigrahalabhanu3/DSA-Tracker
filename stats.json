@@ -1,11 +1,11 @@
 {
-  "totalProblems": 395,
-  "easySolved": 146,
-  "mediumSolved": 227,
+  "totalProblems": 397,
+  "easySolved": 147,
+  "mediumSolved": 228,
   "hardSolved": 24,
   "streakDays": 15,
-  "totalHours": 248.27,
-  "lastUpdated": "2026-07-02T08:31:08.732683",
+  "totalHours": 249.38,
+  "lastUpdated": "2026-07-02T12:32:06.575529",
   "topicStats": {
     "Arrays": 19,
     "Strings": 26,
@@ -13,12 +13,12 @@
     "Trees": 26,
     "Graphs": 19,
     "DynamicProgramming": 22,
-    "BinarySearch": 30,
+    "BinarySearch": 31,
     "Sorting": 22,
     "Hashing": 21,
     "Recursion": 27,
     "Stack": 19,
-    "Queue": 22,
+    "Queue": 23,
     "Heap": 31,
     "Greedy": 39,
     "Backtracking": 34,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 342
+      "solved": 344
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Search in Rotated Sorted Array",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-07-02",
+      "solvedAt": "2026-07-02T12:32:06.575514"
+    },
+    {
+      "name": "Moving Average from Data Stream",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-07-02",
+      "solvedAt": "2026-07-02T12:32:06.575500"
+    },
     {
       "name": "Merge Two Sorted Lists",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Heap",
       "date": "2026-06-30",
       "solvedAt": "2026-06-30T08:31:07.059015"
-    },
-    {
-      "name": "Merge Intervals",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-06-30",
-      "solvedAt": "2026-06-30T08:31:07.059012"
-    },
-    {
-      "name": "Best Time to Buy and Sell Stock",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-06-30",
-      "solvedAt": "2026-06-30T08:31:07.059003"
     }
   ],
   "lastActive": "2026-07-02",
