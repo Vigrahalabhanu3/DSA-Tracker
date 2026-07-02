@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 397 |
-| **🟢 Easy** | 147 (37.0%) |
-| **🟡 Medium** | 228 (57.4%) |
+| **Total Problems Solved** | 399 |
+| **🟢 Easy** | 148 (37.1%) |
+| **🟡 Medium** | 229 (57.4%) |
 | **🔴 Hard** | 24 (6.0%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 249.38h |
+| **⏱️ Total Hours** | 250.61h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 344 |
+| LeetCode | 346 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,7 +30,7 @@
 |-------|-------|
 | Greedy | 39 |
 | Backtracking | 34 |
-| BinarySearch | 31 |
+| BinarySearch | 32 |
 | Heap | 31 |
 | LinkedList | 30 |
 | Recursion | 27 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| First Bad Version | 🟢 Easy | BinarySearch | 2026-07-02 |
+| Top K Frequent Elements | 🟡 Medium | Hashing | 2026-07-02 |
 | Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-07-02 |
 | Moving Average from Data Stream | 🟢 Easy | Queue | 2026-07-02 |
 | Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-07-02 |
-| Invert Binary Tree | 🟢 Easy | Trees | 2026-07-02 |
-| Group Anagrams | 🟡 Medium | Hashing | 2026-07-02 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-02T12:32:06.575529
+**Last Updated**: 2026-07-02T18:31:30.371180
 **Last Active**: 2026-07-02
