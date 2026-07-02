@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 387 |
-| **🟢 Easy** | 144 (37.2%) |
-| **🟡 Medium** | 222 (57.4%) |
+| **Total Problems Solved** | 389 |
+| **🟢 Easy** | 144 (37.0%) |
+| **🟡 Medium** | 224 (57.6%) |
 | **🔴 Hard** | 23 (5.9%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 244.51h |
+| **⏱️ Total Hours** | 245.92h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 334 |
+| LeetCode | 336 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,13 +29,13 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 39 |
-| Backtracking | 32 |
+| Backtracking | 33 |
 | Heap | 31 |
 | LinkedList | 29 |
 | BinarySearch | 29 |
 | Recursion | 27 |
 | Strings | 26 |
-| Trees | 24 |
+| Trees | 25 |
 | DynamicProgramming | 22 |
 | Queue | 22 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Combinations | 🟡 Medium | Backtracking | 2026-07-02 |
+| Lowest Common Ancestor | 🟡 Medium | Trees | 2026-07-02 |
 | Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-07-01 |
 | Number of Recent Calls | 🟢 Easy | Queue | 2026-07-01 |
 | 3Sum | 🟡 Medium | Arrays | 2026-07-01 |
-| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-07-01 |
-| Group Anagrams | 🟡 Medium | Hashing | 2026-07-01 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-01T18:31:21.079279
-**Last Active**: 2026-07-01
+**Last Updated**: 2026-07-02T00:30:58.207069
+**Last Active**: 2026-07-02

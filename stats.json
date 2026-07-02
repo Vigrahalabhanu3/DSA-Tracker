@@ -1,16 +1,16 @@
 {
-  "totalProblems": 387,
+  "totalProblems": 389,
   "easySolved": 144,
-  "mediumSolved": 222,
+  "mediumSolved": 224,
   "hardSolved": 23,
   "streakDays": 15,
-  "totalHours": 244.51,
-  "lastUpdated": "2026-07-01T18:31:21.079279",
+  "totalHours": 245.92,
+  "lastUpdated": "2026-07-02T00:30:58.207069",
   "topicStats": {
     "Arrays": 19,
     "Strings": 26,
     "LinkedList": 29,
-    "Trees": 24,
+    "Trees": 25,
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 29,
@@ -21,13 +21,13 @@
     "Queue": 22,
     "Heap": 31,
     "Greedy": 39,
-    "Backtracking": 32,
+    "Backtracking": 33,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 334
+      "solved": 336
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Combinations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-07-02",
+      "solvedAt": "2026-07-02T00:30:58.207054"
+    },
+    {
+      "name": "Lowest Common Ancestor",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-07-02",
+      "solvedAt": "2026-07-02T00:30:58.207041"
+    },
     {
       "name": "Search in Rotated Sorted Array",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "Trees",
       "date": "2026-06-29",
       "solvedAt": "2026-06-29T18:31:24.454942"
-    },
-    {
-      "name": "Reorder List",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "LinkedList",
-      "date": "2026-06-29",
-      "solvedAt": "2026-06-29T18:31:24.454929"
-    },
-    {
-      "name": "Longest Substring Without Repeating",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-06-29",
-      "solvedAt": "2026-06-29T12:32:10.647458"
     }
   ],
-  "lastActive": "2026-07-01",
+  "lastActive": "2026-07-02",
   "totalSolved": 41
 }
