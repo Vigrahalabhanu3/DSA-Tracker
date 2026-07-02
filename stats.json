@@ -1,11 +1,11 @@
 {
-  "totalProblems": 389,
+  "totalProblems": 392,
   "easySolved": 144,
-  "mediumSolved": 224,
-  "hardSolved": 23,
+  "mediumSolved": 226,
+  "hardSolved": 24,
   "streakDays": 15,
-  "totalHours": 245.92,
-  "lastUpdated": "2026-07-02T00:30:58.207069",
+  "totalHours": 247.57,
+  "lastUpdated": "2026-07-02T04:31:11.433624",
   "topicStats": {
     "Arrays": 19,
     "Strings": 26,
@@ -13,21 +13,21 @@
     "Trees": 25,
     "Graphs": 19,
     "DynamicProgramming": 22,
-    "BinarySearch": 29,
-    "Sorting": 21,
+    "BinarySearch": 30,
+    "Sorting": 22,
     "Hashing": 20,
     "Recursion": 27,
     "Stack": 19,
     "Queue": 22,
     "Heap": 31,
     "Greedy": 39,
-    "Backtracking": 33,
+    "Backtracking": 34,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 336
+      "solved": 339
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "N-Queens",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Backtracking",
+      "date": "2026-07-02",
+      "solvedAt": "2026-07-02T04:31:11.433615"
+    },
+    {
+      "name": "Sort Colors",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-07-02",
+      "solvedAt": "2026-07-02T04:31:11.433612"
+    },
+    {
+      "name": "Find First and Last Position",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-07-02",
+      "solvedAt": "2026-07-02T04:31:11.433603"
+    },
     {
       "name": "Combinations",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-06-30",
       "solvedAt": "2026-06-30T00:31:02.338260"
-    },
-    {
-      "name": "Linked List Cycle",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-06-30",
-      "solvedAt": "2026-06-30T00:31:02.338256"
-    },
-    {
-      "name": "Combinations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-06-30",
-      "solvedAt": "2026-06-30T00:31:02.338245"
-    },
-    {
-      "name": "Invert Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-06-29",
-      "solvedAt": "2026-06-29T18:31:24.454942"
     }
   ],
   "lastActive": "2026-07-02",

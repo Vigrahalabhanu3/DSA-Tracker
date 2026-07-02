@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 389 |
-| **🟢 Easy** | 144 (37.0%) |
-| **🟡 Medium** | 224 (57.6%) |
-| **🔴 Hard** | 23 (5.9%) |
+| **Total Problems Solved** | 392 |
+| **🟢 Easy** | 144 (36.7%) |
+| **🟡 Medium** | 226 (57.7%) |
+| **🔴 Hard** | 24 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 245.92h |
+| **⏱️ Total Hours** | 247.57h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 336 |
+| LeetCode | 339 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,26 +29,26 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 39 |
-| Backtracking | 33 |
+| Backtracking | 34 |
 | Heap | 31 |
+| BinarySearch | 30 |
 | LinkedList | 29 |
-| BinarySearch | 29 |
 | Recursion | 27 |
 | Strings | 26 |
 | Trees | 25 |
 | DynamicProgramming | 22 |
-| Queue | 22 |
+| Sorting | 22 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| N-Queens | 🔴 Hard | Backtracking | 2026-07-02 |
+| Sort Colors | 🟡 Medium | Sorting | 2026-07-02 |
+| Find First and Last Position | 🟡 Medium | BinarySearch | 2026-07-02 |
 | Combinations | 🟡 Medium | Backtracking | 2026-07-02 |
 | Lowest Common Ancestor | 🟡 Medium | Trees | 2026-07-02 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-07-01 |
-| Number of Recent Calls | 🟢 Easy | Queue | 2026-07-01 |
-| 3Sum | 🟡 Medium | Arrays | 2026-07-01 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-02T00:30:58.207069
+**Last Updated**: 2026-07-02T04:31:11.433624
 **Last Active**: 2026-07-02
