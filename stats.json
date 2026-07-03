@@ -1,11 +1,11 @@
 {
-  "totalProblems": 405,
-  "easySolved": 153,
-  "mediumSolved": 230,
+  "totalProblems": 407,
+  "easySolved": 154,
+  "mediumSolved": 231,
   "hardSolved": 24,
   "streakDays": 15,
-  "totalHours": 254.49,
-  "lastUpdated": "2026-07-03T08:31:06.505704",
+  "totalHours": 255.15,
+  "lastUpdated": "2026-07-03T12:32:06.020878",
   "topicStats": {
     "Arrays": 20,
     "Strings": 27,
@@ -14,9 +14,9 @@
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 33,
-    "Sorting": 22,
+    "Sorting": 23,
     "Hashing": 24,
-    "Recursion": 27,
+    "Recursion": 28,
     "Stack": 19,
     "Queue": 23,
     "Heap": 31,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 352
+      "solved": 354
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-07-03",
+      "solvedAt": "2026-07-03T12:32:06.020863"
+    },
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-07-03",
+      "solvedAt": "2026-07-03T12:32:06.020850"
+    },
     {
       "name": "First Bad Version",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-07-01",
       "solvedAt": "2026-07-01T04:31:09.967709"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T04:31:09.967698"
-    },
-    {
-      "name": "Min Stack",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T00:30:55.357653"
     }
   ],
   "lastActive": "2026-07-03",
