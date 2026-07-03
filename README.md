@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 399 |
-| **🟢 Easy** | 148 (37.1%) |
-| **🟡 Medium** | 229 (57.4%) |
+| **Total Problems Solved** | 401 |
+| **🟢 Easy** | 149 (37.2%) |
+| **🟡 Medium** | 230 (57.4%) |
 | **🔴 Hard** | 24 (6.0%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 250.61h |
+| **⏱️ Total Hours** | 251.83h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 346 |
+| LeetCode | 348 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -36,19 +36,19 @@
 | Recursion | 27 |
 | Strings | 26 |
 | Trees | 26 |
+| Hashing | 23 |
 | Queue | 23 |
-| DynamicProgramming | 22 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| 3Sum | 🟡 Medium | Arrays | 2026-07-03 |
+| Majority Element | 🟢 Easy | Hashing | 2026-07-03 |
 | First Bad Version | 🟢 Easy | BinarySearch | 2026-07-02 |
 | Top K Frequent Elements | 🟡 Medium | Hashing | 2026-07-02 |
 | Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-07-02 |
-| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-07-02 |
-| Merge Two Sorted Lists | 🟢 Easy | LinkedList | 2026-07-02 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-02T18:31:30.371180
-**Last Active**: 2026-07-02
+**Last Updated**: 2026-07-03T00:30:53.547132
+**Last Active**: 2026-07-03
