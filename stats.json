@@ -1,13 +1,13 @@
 {
-  "totalProblems": 407,
-  "easySolved": 154,
-  "mediumSolved": 231,
-  "hardSolved": 24,
+  "totalProblems": 410,
+  "easySolved": 155,
+  "mediumSolved": 232,
+  "hardSolved": 25,
   "streakDays": 15,
-  "totalHours": 255.15,
-  "lastUpdated": "2026-07-03T12:32:06.020878",
+  "totalHours": 256.67,
+  "lastUpdated": "2026-07-03T18:31:23.072798",
   "topicStats": {
-    "Arrays": 20,
+    "Arrays": 21,
     "Strings": 27,
     "LinkedList": 30,
     "Trees": 27,
@@ -19,15 +19,15 @@
     "Recursion": 28,
     "Stack": 19,
     "Queue": 23,
-    "Heap": 31,
+    "Heap": 32,
     "Greedy": 39,
-    "Backtracking": 34,
+    "Backtracking": 35,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 354
+      "solved": 357
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "N-Queens",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Backtracking",
+      "date": "2026-07-03",
+      "solvedAt": "2026-07-03T18:31:23.072783"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-07-03",
+      "solvedAt": "2026-07-03T18:31:23.072780"
+    },
+    {
+      "name": "Best Time to Buy and Sell Stock",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-07-03",
+      "solvedAt": "2026-07-03T18:31:23.072766"
+    },
     {
       "name": "Reverse String",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Trees",
       "date": "2026-07-01",
       "solvedAt": "2026-07-01T08:31:17.947206"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T08:31:17.947196"
-    },
-    {
-      "name": "Combinations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T04:31:09.967711"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T04:31:09.967709"
     }
   ],
   "lastActive": "2026-07-03",

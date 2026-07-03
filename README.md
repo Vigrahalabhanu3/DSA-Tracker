@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 407 |
-| **🟢 Easy** | 154 (37.8%) |
-| **🟡 Medium** | 231 (56.8%) |
-| **🔴 Hard** | 24 (5.9%) |
+| **Total Problems Solved** | 410 |
+| **🟢 Easy** | 155 (37.8%) |
+| **🟡 Medium** | 232 (56.6%) |
+| **🔴 Hard** | 25 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 255.15h |
+| **⏱️ Total Hours** | 256.67h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 354 |
+| LeetCode | 357 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,9 +29,9 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 39 |
-| Backtracking | 34 |
+| Backtracking | 35 |
 | BinarySearch | 33 |
-| Heap | 31 |
+| Heap | 32 |
 | LinkedList | 30 |
 | Recursion | 28 |
 | Strings | 27 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| N-Queens | 🔴 Hard | Backtracking | 2026-07-03 |
+| Min Heap | 🟡 Medium | Heap | 2026-07-03 |
+| Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | 2026-07-03 |
 | Reverse String | 🟢 Easy | Recursion | 2026-07-03 |
 | Kth Largest Element | 🟡 Medium | Sorting | 2026-07-03 |
-| First Bad Version | 🟢 Easy | BinarySearch | 2026-07-03 |
-| Majority Element | 🟢 Easy | Hashing | 2026-07-03 |
-| Valid Palindrome | 🟢 Easy | Strings | 2026-07-03 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-03T12:32:06.020878
+**Last Updated**: 2026-07-03T18:31:23.072798
 **Last Active**: 2026-07-03
