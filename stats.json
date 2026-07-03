@@ -1,16 +1,16 @@
 {
-  "totalProblems": 401,
-  "easySolved": 149,
+  "totalProblems": 403,
+  "easySolved": 151,
   "mediumSolved": 230,
   "hardSolved": 24,
   "streakDays": 15,
-  "totalHours": 251.83,
-  "lastUpdated": "2026-07-03T00:30:53.547132",
+  "totalHours": 252.76,
+  "lastUpdated": "2026-07-03T04:31:12.024596",
   "topicStats": {
     "Arrays": 20,
-    "Strings": 26,
+    "Strings": 27,
     "LinkedList": 30,
-    "Trees": 26,
+    "Trees": 27,
     "Graphs": 19,
     "DynamicProgramming": 22,
     "BinarySearch": 32,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 348
+      "solved": 350
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Valid Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-07-03",
+      "solvedAt": "2026-07-03T04:31:12.024586"
+    },
+    {
+      "name": "Invert Binary Tree",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-07-03",
+      "solvedAt": "2026-07-03T04:31:12.024576"
+    },
     {
       "name": "3Sum",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Arrays",
       "date": "2026-06-30",
       "solvedAt": "2026-06-30T18:31:28.103695"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-06-30",
-      "solvedAt": "2026-06-30T18:31:28.103693"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-06-30",
-      "solvedAt": "2026-06-30T18:31:28.103685"
     }
   ],
   "lastActive": "2026-07-03",

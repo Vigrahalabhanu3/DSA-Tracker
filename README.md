@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 401 |
-| **🟢 Easy** | 149 (37.2%) |
-| **🟡 Medium** | 230 (57.4%) |
+| **Total Problems Solved** | 403 |
+| **🟢 Easy** | 151 (37.5%) |
+| **🟡 Medium** | 230 (57.1%) |
 | **🔴 Hard** | 24 (6.0%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 251.83h |
+| **⏱️ Total Hours** | 252.76h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 348 |
+| LeetCode | 350 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -33,9 +33,9 @@
 | BinarySearch | 32 |
 | Heap | 31 |
 | LinkedList | 30 |
+| Strings | 27 |
+| Trees | 27 |
 | Recursion | 27 |
-| Strings | 26 |
-| Trees | 26 |
 | Hashing | 23 |
 | Queue | 23 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Valid Palindrome | 🟢 Easy | Strings | 2026-07-03 |
+| Invert Binary Tree | 🟢 Easy | Trees | 2026-07-03 |
 | 3Sum | 🟡 Medium | Arrays | 2026-07-03 |
 | Majority Element | 🟢 Easy | Hashing | 2026-07-03 |
 | First Bad Version | 🟢 Easy | BinarySearch | 2026-07-02 |
-| Top K Frequent Elements | 🟡 Medium | Hashing | 2026-07-02 |
-| Search in Rotated Sorted Array | 🟡 Medium | BinarySearch | 2026-07-02 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-03T00:30:53.547132
+**Last Updated**: 2026-07-03T04:31:12.024596
 **Last Active**: 2026-07-03
