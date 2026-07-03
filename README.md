@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 403 |
-| **🟢 Easy** | 151 (37.5%) |
-| **🟡 Medium** | 230 (57.1%) |
-| **🔴 Hard** | 24 (6.0%) |
+| **Total Problems Solved** | 405 |
+| **🟢 Easy** | 153 (37.8%) |
+| **🟡 Medium** | 230 (56.8%) |
+| **🔴 Hard** | 24 (5.9%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 252.76h |
+| **⏱️ Total Hours** | 254.49h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 350 |
+| LeetCode | 352 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,13 +30,13 @@
 |-------|-------|
 | Greedy | 39 |
 | Backtracking | 34 |
-| BinarySearch | 32 |
+| BinarySearch | 33 |
 | Heap | 31 |
 | LinkedList | 30 |
 | Strings | 27 |
 | Trees | 27 |
 | Recursion | 27 |
-| Hashing | 23 |
+| Hashing | 24 |
 | Queue | 23 |
 
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| First Bad Version | 🟢 Easy | BinarySearch | 2026-07-03 |
+| Majority Element | 🟢 Easy | Hashing | 2026-07-03 |
 | Valid Palindrome | 🟢 Easy | Strings | 2026-07-03 |
 | Invert Binary Tree | 🟢 Easy | Trees | 2026-07-03 |
 | 3Sum | 🟡 Medium | Arrays | 2026-07-03 |
-| Majority Element | 🟢 Easy | Hashing | 2026-07-03 |
-| First Bad Version | 🟢 Easy | BinarySearch | 2026-07-02 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-03T04:31:12.024596
+**Last Updated**: 2026-07-03T08:31:06.505704
 **Last Active**: 2026-07-03
