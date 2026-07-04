@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 414 |
-| **🟢 Easy** | 157 (37.9%) |
-| **🟡 Medium** | 234 (56.5%) |
-| **🔴 Hard** | 25 (6.0%) |
+| **Total Problems Solved** | 417 |
+| **🟢 Easy** | 159 (38.1%) |
+| **🟡 Medium** | 234 (56.1%) |
+| **🔴 Hard** | 26 (6.2%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 259.28h |
+| **⏱️ Total Hours** | 259.94h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 361 |
+| LeetCode | 364 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,25 +30,25 @@
 |-------|-------|
 | Greedy | 41 |
 | Backtracking | 36 |
-| BinarySearch | 33 |
-| Heap | 32 |
+| BinarySearch | 34 |
+| Heap | 33 |
 | LinkedList | 31 |
 | Recursion | 28 |
 | Strings | 27 |
 | Trees | 27 |
 | Hashing | 24 |
-| Sorting | 23 |
+| Queue | 24 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| First Bad Version | 🟢 Easy | BinarySearch | 2026-07-04 |
+| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-07-04 |
+| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-07-04 |
 | Word Search | 🟡 Medium | Backtracking | 2026-07-04 |
 | Assign Cookies | 🟢 Easy | Greedy | 2026-07-04 |
-| Reverse Linked List | 🟢 Easy | LinkedList | 2026-07-04 |
-| Jump Game | 🟡 Medium | Greedy | 2026-07-04 |
-| N-Queens | 🔴 Hard | Backtracking | 2026-07-03 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-04T04:31:11.127639
+**Last Updated**: 2026-07-04T08:31:10.496301
 **Last Active**: 2026-07-04

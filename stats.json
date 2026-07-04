@@ -1,11 +1,11 @@
 {
-  "totalProblems": 414,
-  "easySolved": 157,
+  "totalProblems": 417,
+  "easySolved": 159,
   "mediumSolved": 234,
-  "hardSolved": 25,
+  "hardSolved": 26,
   "streakDays": 15,
-  "totalHours": 259.28,
-  "lastUpdated": "2026-07-04T04:31:11.127639",
+  "totalHours": 259.94,
+  "lastUpdated": "2026-07-04T08:31:10.496301",
   "topicStats": {
     "Arrays": 21,
     "Strings": 27,
@@ -13,13 +13,13 @@
     "Trees": 27,
     "Graphs": 19,
     "DynamicProgramming": 22,
-    "BinarySearch": 33,
+    "BinarySearch": 34,
     "Sorting": 23,
     "Hashing": 24,
     "Recursion": 28,
     "Stack": 19,
-    "Queue": 23,
-    "Heap": 32,
+    "Queue": 24,
+    "Heap": 33,
     "Greedy": 41,
     "Backtracking": 36,
     "stacks": 1,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 361
+      "solved": 364
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "First Bad Version",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T08:31:10.496293"
+    },
+    {
+      "name": "Moving Average from Data Stream",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T08:31:10.496289"
+    },
+    {
+      "name": "Merge K Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T08:31:10.496281"
+    },
     {
       "name": "Word Search",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Trees",
       "date": "2026-07-02",
       "solvedAt": "2026-07-02T00:30:58.207041"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T18:31:21.079266"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T18:31:21.079263"
-    },
-    {
-      "name": "3Sum",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T18:31:21.079249"
     }
   ],
   "lastActive": "2026-07-04",
