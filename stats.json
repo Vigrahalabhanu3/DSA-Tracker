@@ -1,18 +1,18 @@
 {
-  "totalProblems": 417,
-  "easySolved": 159,
-  "mediumSolved": 234,
+  "totalProblems": 419,
+  "easySolved": 160,
+  "mediumSolved": 235,
   "hardSolved": 26,
   "streakDays": 15,
-  "totalHours": 259.94,
-  "lastUpdated": "2026-07-04T08:31:10.496301",
+  "totalHours": 260.48,
+  "lastUpdated": "2026-07-04T12:32:17.777823",
   "topicStats": {
     "Arrays": 21,
     "Strings": 27,
     "LinkedList": 31,
-    "Trees": 27,
+    "Trees": 28,
     "Graphs": 19,
-    "DynamicProgramming": 22,
+    "DynamicProgramming": 23,
     "BinarySearch": 34,
     "Sorting": 23,
     "Hashing": 24,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 364
+      "solved": 366
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Binary Tree Level Order Traversal",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Trees",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T12:32:17.777812"
+    },
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T12:32:17.777802"
+    },
     {
       "name": "First Bad Version",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "BinarySearch",
       "date": "2026-07-02",
       "solvedAt": "2026-07-02T04:31:11.433603"
-    },
-    {
-      "name": "Combinations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T00:30:58.207054"
-    },
-    {
-      "name": "Lowest Common Ancestor",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T00:30:58.207041"
     }
   ],
   "lastActive": "2026-07-04",
