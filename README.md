@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 419 |
-| **🟢 Easy** | 160 (38.2%) |
-| **🟡 Medium** | 235 (56.1%) |
+| **Total Problems Solved** | 421 |
+| **🟢 Easy** | 160 (38.0%) |
+| **🟡 Medium** | 237 (56.3%) |
 | **🔴 Hard** | 26 (6.2%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 260.48h |
+| **⏱️ Total Hours** | 261.82h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 366 |
+| LeetCode | 368 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -30,7 +30,7 @@
 |-------|-------|
 | Greedy | 41 |
 | Backtracking | 36 |
-| BinarySearch | 34 |
+| BinarySearch | 35 |
 | Heap | 33 |
 | LinkedList | 31 |
 | Trees | 28 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Number of Islands | 🟡 Medium | Graphs | 2026-07-04 |
+| Find First and Last Position | 🟡 Medium | BinarySearch | 2026-07-04 |
 | Binary Tree Level Order Traversal | 🟢 Easy | Trees | 2026-07-04 |
 | House Robber | 🟡 Medium | DynamicProgramming | 2026-07-04 |
 | First Bad Version | 🟢 Easy | BinarySearch | 2026-07-04 |
-| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-07-04 |
-| Merge K Sorted Lists | 🔴 Hard | Heap | 2026-07-04 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-04T12:32:17.777823
+**Last Updated**: 2026-07-04T18:31:47.840861
 **Last Active**: 2026-07-04

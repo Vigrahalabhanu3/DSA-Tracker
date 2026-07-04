@@ -1,19 +1,19 @@
 {
-  "totalProblems": 419,
+  "totalProblems": 421,
   "easySolved": 160,
-  "mediumSolved": 235,
+  "mediumSolved": 237,
   "hardSolved": 26,
   "streakDays": 15,
-  "totalHours": 260.48,
-  "lastUpdated": "2026-07-04T12:32:17.777823",
+  "totalHours": 261.82,
+  "lastUpdated": "2026-07-04T18:31:47.840861",
   "topicStats": {
     "Arrays": 21,
     "Strings": 27,
     "LinkedList": 31,
     "Trees": 28,
-    "Graphs": 19,
+    "Graphs": 20,
     "DynamicProgramming": 23,
-    "BinarySearch": 34,
+    "BinarySearch": 35,
     "Sorting": 23,
     "Hashing": 24,
     "Recursion": 28,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 366
+      "solved": 368
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Number of Islands",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T18:31:47.840852"
+    },
+    {
+      "name": "Find First and Last Position",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "BinarySearch",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T18:31:47.840842"
+    },
     {
       "name": "Binary Tree Level Order Traversal",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Backtracking",
       "date": "2026-07-02",
       "solvedAt": "2026-07-02T04:31:11.433615"
-    },
-    {
-      "name": "Sort Colors",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T04:31:11.433612"
-    },
-    {
-      "name": "Find First and Last Position",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T04:31:11.433603"
     }
   ],
   "lastActive": "2026-07-04",
