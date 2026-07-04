@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 412 |
-| **🟢 Easy** | 156 (37.9%) |
-| **🟡 Medium** | 233 (56.6%) |
-| **🔴 Hard** | 25 (6.1%) |
+| **Total Problems Solved** | 414 |
+| **🟢 Easy** | 157 (37.9%) |
+| **🟡 Medium** | 234 (56.5%) |
+| **🔴 Hard** | 25 (6.0%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 257.84h |
+| **⏱️ Total Hours** | 259.28h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 359 |
+| LeetCode | 361 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,8 +28,8 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 40 |
-| Backtracking | 35 |
+| Greedy | 41 |
+| Backtracking | 36 |
 | BinarySearch | 33 |
 | Heap | 32 |
 | LinkedList | 31 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Word Search | 🟡 Medium | Backtracking | 2026-07-04 |
+| Assign Cookies | 🟢 Easy | Greedy | 2026-07-04 |
 | Reverse Linked List | 🟢 Easy | LinkedList | 2026-07-04 |
 | Jump Game | 🟡 Medium | Greedy | 2026-07-04 |
 | N-Queens | 🔴 Hard | Backtracking | 2026-07-03 |
-| Min Heap | 🟡 Medium | Heap | 2026-07-03 |
-| Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | 2026-07-03 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-04T00:30:55.790827
+**Last Updated**: 2026-07-04T04:31:11.127639
 **Last Active**: 2026-07-04

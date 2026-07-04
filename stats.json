@@ -1,11 +1,11 @@
 {
-  "totalProblems": 412,
-  "easySolved": 156,
-  "mediumSolved": 233,
+  "totalProblems": 414,
+  "easySolved": 157,
+  "mediumSolved": 234,
   "hardSolved": 25,
   "streakDays": 15,
-  "totalHours": 257.84,
-  "lastUpdated": "2026-07-04T00:30:55.790827",
+  "totalHours": 259.28,
+  "lastUpdated": "2026-07-04T04:31:11.127639",
   "topicStats": {
     "Arrays": 21,
     "Strings": 27,
@@ -20,14 +20,14 @@
     "Stack": 19,
     "Queue": 23,
     "Heap": 32,
-    "Greedy": 40,
-    "Backtracking": 35,
+    "Greedy": 41,
+    "Backtracking": 36,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 359
+      "solved": 361
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T04:31:11.127630"
+    },
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T04:31:11.127620"
+    },
     {
       "name": "Reverse Linked List",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Arrays",
       "date": "2026-07-01",
       "solvedAt": "2026-07-01T18:31:21.079249"
-    },
-    {
-      "name": "Moving Average from Data Stream",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T12:32:10.801505"
-    },
-    {
-      "name": "Group Anagrams",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T12:32:10.801503"
     }
   ],
   "lastActive": "2026-07-04",
