@@ -1,15 +1,15 @@
 {
-  "totalProblems": 410,
-  "easySolved": 155,
-  "mediumSolved": 232,
+  "totalProblems": 412,
+  "easySolved": 156,
+  "mediumSolved": 233,
   "hardSolved": 25,
   "streakDays": 15,
-  "totalHours": 256.67,
-  "lastUpdated": "2026-07-03T18:31:23.072798",
+  "totalHours": 257.84,
+  "lastUpdated": "2026-07-04T00:30:55.790827",
   "topicStats": {
     "Arrays": 21,
     "Strings": 27,
-    "LinkedList": 30,
+    "LinkedList": 31,
     "Trees": 27,
     "Graphs": 19,
     "DynamicProgramming": 22,
@@ -20,14 +20,14 @@
     "Stack": 19,
     "Queue": 23,
     "Heap": 32,
-    "Greedy": 39,
+    "Greedy": 40,
     "Backtracking": 35,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 357
+      "solved": 359
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Reverse Linked List",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "LinkedList",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T00:30:55.790817"
+    },
+    {
+      "name": "Jump Game",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-07-04",
+      "solvedAt": "2026-07-04T00:30:55.790808"
+    },
     {
       "name": "N-Queens",
       "platform": "LeetCode",
@@ -273,24 +289,8 @@
       "topic": "Hashing",
       "date": "2026-07-01",
       "solvedAt": "2026-07-01T12:32:10.801503"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T12:32:10.801490"
-    },
-    {
-      "name": "Maximum Depth of Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-07-01",
-      "solvedAt": "2026-07-01T08:31:17.947206"
     }
   ],
-  "lastActive": "2026-07-03",
+  "lastActive": "2026-07-04",
   "totalSolved": 41
 }
