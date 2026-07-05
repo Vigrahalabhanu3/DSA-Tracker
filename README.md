@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 421 |
-| **🟢 Easy** | 160 (38.0%) |
-| **🟡 Medium** | 237 (56.3%) |
-| **🔴 Hard** | 26 (6.2%) |
+| **Total Problems Solved** | 424 |
+| **🟢 Easy** | 163 (38.4%) |
+| **🟡 Medium** | 237 (55.9%) |
+| **🔴 Hard** | 26 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 261.82h |
+| **⏱️ Total Hours** | 262.33h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 368 |
+| LeetCode | 371 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -33,22 +33,22 @@
 | BinarySearch | 35 |
 | Heap | 33 |
 | LinkedList | 31 |
+| Recursion | 29 |
 | Trees | 28 |
-| Recursion | 28 |
 | Strings | 27 |
+| Queue | 25 |
 | Hashing | 24 |
-| Queue | 24 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Min Stack | 🟢 Easy | Stack | 2026-07-05 |
+| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-07-05 |
+| Fibonacci Number | 🟢 Easy | Recursion | 2026-07-05 |
 | Number of Islands | 🟡 Medium | Graphs | 2026-07-04 |
 | Find First and Last Position | 🟡 Medium | BinarySearch | 2026-07-04 |
-| Binary Tree Level Order Traversal | 🟢 Easy | Trees | 2026-07-04 |
-| House Robber | 🟡 Medium | DynamicProgramming | 2026-07-04 |
-| First Bad Version | 🟢 Easy | BinarySearch | 2026-07-04 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-04T18:31:47.840861
-**Last Active**: 2026-07-04
+**Last Updated**: 2026-07-05T00:31:34.546343
+**Last Active**: 2026-07-05

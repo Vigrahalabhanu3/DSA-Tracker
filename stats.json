@@ -1,11 +1,11 @@
 {
-  "totalProblems": 421,
-  "easySolved": 160,
+  "totalProblems": 424,
+  "easySolved": 163,
   "mediumSolved": 237,
   "hardSolved": 26,
   "streakDays": 15,
-  "totalHours": 261.82,
-  "lastUpdated": "2026-07-04T18:31:47.840861",
+  "totalHours": 262.33,
+  "lastUpdated": "2026-07-05T00:31:34.546343",
   "topicStats": {
     "Arrays": 21,
     "Strings": 27,
@@ -16,9 +16,9 @@
     "BinarySearch": 35,
     "Sorting": 23,
     "Hashing": 24,
-    "Recursion": 28,
-    "Stack": 19,
-    "Queue": 24,
+    "Recursion": 29,
+    "Stack": 20,
+    "Queue": 25,
     "Heap": 33,
     "Greedy": 41,
     "Backtracking": 36,
@@ -27,7 +27,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 368
+      "solved": 371
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Min Stack",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T00:31:34.546333"
+    },
+    {
+      "name": "Moving Average from Data Stream",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T00:31:34.546330"
+    },
+    {
+      "name": "Fibonacci Number",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T00:31:34.546319"
+    },
     {
       "name": "Number of Islands",
       "platform": "LeetCode",
@@ -265,32 +289,8 @@
       "topic": "LinkedList",
       "date": "2026-07-02",
       "solvedAt": "2026-07-02T08:31:08.732674"
-    },
-    {
-      "name": "Invert Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T08:31:08.732670"
-    },
-    {
-      "name": "Group Anagrams",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T08:31:08.732661"
-    },
-    {
-      "name": "N-Queens",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Backtracking",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T04:31:11.433615"
     }
   ],
-  "lastActive": "2026-07-04",
+  "lastActive": "2026-07-05",
   "totalSolved": 41
 }
