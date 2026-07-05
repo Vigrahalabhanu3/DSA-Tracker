@@ -1,14 +1,14 @@
 {
-  "totalProblems": 427,
-  "easySolved": 163,
-  "mediumSolved": 240,
+  "totalProblems": 429,
+  "easySolved": 164,
+  "mediumSolved": 241,
   "hardSolved": 26,
   "streakDays": 15,
-  "totalHours": 263.63,
-  "lastUpdated": "2026-07-05T04:31:11.163192",
+  "totalHours": 264.49,
+  "lastUpdated": "2026-07-05T08:31:23.502048",
   "topicStats": {
     "Arrays": 22,
-    "Strings": 28,
+    "Strings": 29,
     "LinkedList": 31,
     "Trees": 28,
     "Graphs": 20,
@@ -20,14 +20,14 @@
     "Stack": 20,
     "Queue": 25,
     "Heap": 33,
-    "Greedy": 41,
+    "Greedy": 42,
     "Backtracking": 37,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 374
+      "solved": 376
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,22 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T08:31:23.502039"
+    },
+    {
+      "name": "Valid Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Strings",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T08:31:23.502030"
+    },
     {
       "name": "String Compression",
       "platform": "LeetCode",
@@ -273,22 +289,6 @@
       "topic": "Hashing",
       "date": "2026-07-03",
       "solvedAt": "2026-07-03T00:30:53.547112"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T18:31:30.371168"
-    },
-    {
-      "name": "Top K Frequent Elements",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Hashing",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T18:31:30.371157"
     }
   ],
   "lastActive": "2026-07-05",

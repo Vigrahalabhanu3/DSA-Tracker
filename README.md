@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 427 |
-| **🟢 Easy** | 163 (38.2%) |
-| **🟡 Medium** | 240 (56.2%) |
+| **Total Problems Solved** | 429 |
+| **🟢 Easy** | 164 (38.2%) |
+| **🟡 Medium** | 241 (56.2%) |
 | **🔴 Hard** | 26 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 263.63h |
+| **⏱️ Total Hours** | 264.49h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 374 |
+| LeetCode | 376 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,13 +28,13 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 41 |
+| Greedy | 42 |
 | Backtracking | 37 |
 | BinarySearch | 35 |
 | Heap | 33 |
 | LinkedList | 31 |
+| Strings | 29 |
 | Recursion | 29 |
-| Strings | 28 |
 | Trees | 28 |
 | Queue | 25 |
 | Hashing | 24 |
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Island Perimeter | 🟡 Medium | Greedy | 2026-07-05 |
+| Valid Palindrome | 🟢 Easy | Strings | 2026-07-05 |
 | String Compression | 🟡 Medium | Strings | 2026-07-05 |
 | Product of Array Except Self | 🟡 Medium | Arrays | 2026-07-05 |
 | Word Search | 🟡 Medium | Backtracking | 2026-07-05 |
-| Min Stack | 🟢 Easy | Stack | 2026-07-05 |
-| Moving Average from Data Stream | 🟢 Easy | Queue | 2026-07-05 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-05T04:31:11.163192
+**Last Updated**: 2026-07-05T08:31:23.502048
 **Last Active**: 2026-07-05
