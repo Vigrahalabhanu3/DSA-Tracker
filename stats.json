@@ -1,13 +1,13 @@
 {
-  "totalProblems": 432,
-  "easySolved": 99,
-  "mediumSolved": 155,
+  "totalProblems": 435,
+  "easySolved": 101,
+  "mediumSolved": 156,
   "hardSolved": 17,
   "streakDays": 15,
-  "totalHours": 183.63,
-  "lastUpdated": "2026-07-05T18:01:00+05:30",
+  "totalHours": 185.2,
+  "lastUpdated": "2026-07-05T18:31:38.580768",
   "topicStats": {
-    "Arrays": 12,
+    "Arrays": 13,
     "Strings": 21,
     "LinkedList": 20,
     "Trees": 16,
@@ -18,14 +18,14 @@
     "Hashing": 15,
     "Recursion": 17,
     "Stack": 14,
-    "Queue": 13,
+    "Queue": 14,
     "Heap": 21,
     "Greedy": 24,
-    "Backtracking": 21
+    "Backtracking": 22
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 216
+      "solved": 219
     },
     "CodeForces": {
       "solved": 0
@@ -43,6 +43,30 @@
     "2026-W27": 10
   },
   "recentProblems": [
+    {
+      "name": "Number of Recent Calls",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T18:31:38.580755"
+    },
+    {
+      "name": "Permutations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T18:31:38.580752"
+    },
+    {
+      "name": "Contains Duplicate",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T18:31:38.580739"
+    },
     {
       "name": "Binary Tree Level Order Traversal",
       "platform": "LeetCode",
