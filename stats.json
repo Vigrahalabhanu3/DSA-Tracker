@@ -1,14 +1,14 @@
 {
-  "totalProblems": 424,
+  "totalProblems": 427,
   "easySolved": 163,
-  "mediumSolved": 237,
+  "mediumSolved": 240,
   "hardSolved": 26,
   "streakDays": 15,
-  "totalHours": 262.33,
-  "lastUpdated": "2026-07-05T00:31:34.546343",
+  "totalHours": 263.63,
+  "lastUpdated": "2026-07-05T04:31:11.163192",
   "topicStats": {
-    "Arrays": 21,
-    "Strings": 27,
+    "Arrays": 22,
+    "Strings": 28,
     "LinkedList": 31,
     "Trees": 28,
     "Graphs": 20,
@@ -21,13 +21,13 @@
     "Queue": 25,
     "Heap": 33,
     "Greedy": 41,
-    "Backtracking": 36,
+    "Backtracking": 37,
     "stacks": 1,
     "queues": 1
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 371
+      "solved": 374
     },
     "CodeForces": {
       "solved": 0
@@ -50,6 +50,30 @@
     "2026-W23": 15
   },
   "recentProblems": [
+    {
+      "name": "String Compression",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T04:31:11.163179"
+    },
+    {
+      "name": "Product of Array Except Self",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T04:31:11.163176"
+    },
+    {
+      "name": "Word Search",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T04:31:11.163163"
+    },
     {
       "name": "Min Stack",
       "platform": "LeetCode",
@@ -265,30 +289,6 @@
       "topic": "Hashing",
       "date": "2026-07-02",
       "solvedAt": "2026-07-02T18:31:30.371157"
-    },
-    {
-      "name": "Search in Rotated Sorted Array",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T12:32:06.575514"
-    },
-    {
-      "name": "Moving Average from Data Stream",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T12:32:06.575500"
-    },
-    {
-      "name": "Merge Two Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-07-02",
-      "solvedAt": "2026-07-02T08:31:08.732674"
     }
   ],
   "lastActive": "2026-07-05",

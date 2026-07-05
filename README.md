@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 424 |
-| **🟢 Easy** | 163 (38.4%) |
-| **🟡 Medium** | 237 (55.9%) |
+| **Total Problems Solved** | 427 |
+| **🟢 Easy** | 163 (38.2%) |
+| **🟡 Medium** | 240 (56.2%) |
 | **🔴 Hard** | 26 (6.1%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 262.33h |
+| **⏱️ Total Hours** | 263.63h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 371 |
+| LeetCode | 374 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -29,13 +29,13 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 41 |
-| Backtracking | 36 |
+| Backtracking | 37 |
 | BinarySearch | 35 |
 | Heap | 33 |
 | LinkedList | 31 |
 | Recursion | 29 |
+| Strings | 28 |
 | Trees | 28 |
-| Strings | 27 |
 | Queue | 25 |
 | Hashing | 24 |
 
@@ -44,11 +44,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| String Compression | 🟡 Medium | Strings | 2026-07-05 |
+| Product of Array Except Self | 🟡 Medium | Arrays | 2026-07-05 |
+| Word Search | 🟡 Medium | Backtracking | 2026-07-05 |
 | Min Stack | 🟢 Easy | Stack | 2026-07-05 |
 | Moving Average from Data Stream | 🟢 Easy | Queue | 2026-07-05 |
-| Fibonacci Number | 🟢 Easy | Recursion | 2026-07-05 |
-| Number of Islands | 🟡 Medium | Graphs | 2026-07-04 |
-| Find First and Last Position | 🟡 Medium | BinarySearch | 2026-07-04 |
 
 
 ## 📁 Repository Structure
@@ -75,5 +75,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-05T00:31:34.546343
+**Last Updated**: 2026-07-05T04:31:11.163192
 **Last Active**: 2026-07-05
