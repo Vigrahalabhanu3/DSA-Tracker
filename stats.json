@@ -1,33 +1,31 @@
 {
-  "totalProblems": 429,
-  "easySolved": 164,
-  "mediumSolved": 241,
-  "hardSolved": 26,
+  "totalProblems": 432,
+  "easySolved": 99,
+  "mediumSolved": 155,
+  "hardSolved": 17,
   "streakDays": 15,
-  "totalHours": 264.49,
-  "lastUpdated": "2026-07-05T08:31:23.502048",
+  "totalHours": 183.63,
+  "lastUpdated": "2026-07-05T18:01:00+05:30",
   "topicStats": {
-    "Arrays": 22,
-    "Strings": 29,
-    "LinkedList": 31,
-    "Trees": 28,
-    "Graphs": 20,
-    "DynamicProgramming": 23,
-    "BinarySearch": 35,
-    "Sorting": 23,
-    "Hashing": 24,
-    "Recursion": 29,
-    "Stack": 20,
-    "Queue": 25,
-    "Heap": 33,
-    "Greedy": 42,
-    "Backtracking": 37,
-    "stacks": 1,
-    "queues": 1
+    "Arrays": 12,
+    "Strings": 21,
+    "LinkedList": 20,
+    "Trees": 16,
+    "Graphs": 16,
+    "DynamicProgramming": 18,
+    "BinarySearch": 20,
+    "Sorting": 13,
+    "Hashing": 15,
+    "Recursion": 17,
+    "Stack": 14,
+    "Queue": 13,
+    "Heap": 21,
+    "Greedy": 24,
+    "Backtracking": 21
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 376
+      "solved": 216
     },
     "CodeForces": {
       "solved": 0
@@ -37,26 +35,45 @@
     },
     "CodeChef": {
       "solved": 0
-    },
-    "leetcode": {
-      "solved": 50
     }
   },
   "weeklyActivity": {
-    "problems": 18,
-    "hours": 13.14,
-    "2026-W21": 18,
-    "2026-W22": 11,
-    "2026-W23": 15
+    "problems": 10,
+    "hours": 4.45,
+    "2026-W27": 10
   },
   "recentProblems": [
+    {
+      "name": "Binary Tree Level Order Traversal",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T18:01:00+05:30"
+    },
+    {
+      "name": "3Sum",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T18:01:00+05:30"
+    },
+    {
+      "name": "Permutations",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-05T18:01:00+05:30"
+    },
     {
       "name": "Island Perimeter",
       "platform": "LeetCode",
       "difficulty": "Medium",
       "topic": "Greedy",
       "date": "2026-07-05",
-      "solvedAt": "2026-07-05T08:31:23.502039"
+      "solvedAt": "2026-07-05T14:01:00+05:30"
     },
     {
       "name": "Valid Palindrome",
@@ -64,31 +81,7 @@
       "difficulty": "Easy",
       "topic": "Strings",
       "date": "2026-07-05",
-      "solvedAt": "2026-07-05T08:31:23.502030"
-    },
-    {
-      "name": "String Compression",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Strings",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T04:31:11.163179"
-    },
-    {
-      "name": "Product of Array Except Self",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T04:31:11.163176"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T04:31:11.163163"
+      "solvedAt": "2026-07-05T14:01:00+05:30"
     },
     {
       "name": "Min Stack",
@@ -96,7 +89,7 @@
       "difficulty": "Easy",
       "topic": "Stack",
       "date": "2026-07-05",
-      "solvedAt": "2026-07-05T00:31:34.546333"
+      "solvedAt": "2026-07-05T06:01:00+05:30"
     },
     {
       "name": "Moving Average from Data Stream",
@@ -104,7 +97,7 @@
       "difficulty": "Easy",
       "topic": "Queue",
       "date": "2026-07-05",
-      "solvedAt": "2026-07-05T00:31:34.546330"
+      "solvedAt": "2026-07-05T06:01:00+05:30"
     },
     {
       "name": "Fibonacci Number",
@@ -112,185 +105,25 @@
       "difficulty": "Easy",
       "topic": "Recursion",
       "date": "2026-07-05",
-      "solvedAt": "2026-07-05T00:31:34.546319"
+      "solvedAt": "2026-07-05T06:01:00+05:30"
     },
     {
       "name": "Number of Islands",
       "platform": "LeetCode",
       "difficulty": "Medium",
       "topic": "Graphs",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T18:31:47.840852"
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-04T18:31:00+05:30"
     },
     {
       "name": "Find First and Last Position",
       "platform": "LeetCode",
       "difficulty": "Medium",
       "topic": "BinarySearch",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T18:31:47.840842"
-    },
-    {
-      "name": "Binary Tree Level Order Traversal",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T12:32:17.777812"
-    },
-    {
-      "name": "House Robber",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "DynamicProgramming",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T12:32:17.777802"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T08:31:10.496293"
-    },
-    {
-      "name": "Moving Average from Data Stream",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T08:31:10.496289"
-    },
-    {
-      "name": "Merge K Sorted Lists",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Heap",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T08:31:10.496281"
-    },
-    {
-      "name": "Word Search",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T04:31:11.127630"
-    },
-    {
-      "name": "Assign Cookies",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Greedy",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T04:31:11.127620"
-    },
-    {
-      "name": "Reverse Linked List",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "LinkedList",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T00:30:55.790817"
-    },
-    {
-      "name": "Jump Game",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-07-04",
-      "solvedAt": "2026-07-04T00:30:55.790808"
-    },
-    {
-      "name": "N-Queens",
-      "platform": "LeetCode",
-      "difficulty": "Hard",
-      "topic": "Backtracking",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T18:31:23.072783"
-    },
-    {
-      "name": "Min Heap",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Heap",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T18:31:23.072780"
-    },
-    {
-      "name": "Best Time to Buy and Sell Stock",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T18:31:23.072766"
-    },
-    {
-      "name": "Reverse String",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T12:32:06.020863"
-    },
-    {
-      "name": "Kth Largest Element",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Sorting",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T12:32:06.020850"
-    },
-    {
-      "name": "First Bad Version",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "BinarySearch",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T08:31:06.505689"
-    },
-    {
-      "name": "Majority Element",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T08:31:06.505675"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T04:31:12.024586"
-    },
-    {
-      "name": "Invert Binary Tree",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Trees",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T04:31:12.024576"
-    },
-    {
-      "name": "3Sum",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T00:30:53.547122"
-    },
-    {
-      "name": "Majority Element",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-07-03",
-      "solvedAt": "2026-07-03T00:30:53.547112"
+      "date": "2026-07-05",
+      "solvedAt": "2026-07-04T18:31:00+05:30"
     }
   ],
   "lastActive": "2026-07-05",
-  "totalSolved": 41
+  "totalSolved": 432
 }

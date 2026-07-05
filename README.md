@@ -6,50 +6,75 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 429 |
-| **🟢 Easy** | 164 (38.2%) |
-| **🟡 Medium** | 241 (56.2%) |
-| **🔴 Hard** | 26 (6.1%) |
+| **Total Problems Solved** | 432 |
+| **🟢 Easy** | 99 (22.9%) |
+| **🟡 Medium** | 155 (35.9%) |
+| **🔴 Hard** | 17 (3.9%) |
 | **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 264.49h |
+| **⏱️ Total Hours** | 183.63h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 376 |
+| LeetCode | 216 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
-| leetcode | 50 |
 
+## 📈 Today's Progress — July 5, 2026
 
-## 📚 Topic Mastery (Top 10)
+| Session | Problems | Topics | Time |
+|---------|----------|--------|------|
+| 🌙 Midnight | 2 | BinarySearch, Graphs | 1.2h |
+| 🌅 Morning | 3 | Recursion, Queue, Stack | 0.5h |
+| ☀️ Afternoon | 2 | Strings, Greedy | 1.25h |
+| 🌆 Evening | 3 | Backtracking, Arrays, Trees | 1.5h |
+| **Total** | **10** | **10 topics** | **4.45h** |
+
+| Difficulty | Count |
+|-----------|-------|
+| 🟢 Easy | 4 |
+| 🟡 Medium | 6 |
+| 🔴 Hard | 0 |
+
+## 📚 Topic Mastery
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 42 |
-| Backtracking | 37 |
-| BinarySearch | 35 |
-| Heap | 33 |
-| LinkedList | 31 |
-| Strings | 29 |
-| Recursion | 29 |
-| Trees | 28 |
-| Queue | 25 |
-| Hashing | 24 |
-
+| Greedy | 24 |
+| Heap | 21 |
+| Strings | 21 |
+| Backtracking | 21 |
+| LinkedList | 20 |
+| BinarySearch | 20 |
+| DynamicProgramming | 18 |
+| Recursion | 17 |
+| Trees | 16 |
+| Graphs | 16 |
+| Hashing | 15 |
+| Stack | 14 |
+| Queue | 13 |
+| Sorting | 13 |
+| Arrays | 12 |
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
-| Island Perimeter | 🟡 Medium | Greedy | 2026-07-05 |
-| Valid Palindrome | 🟢 Easy | Strings | 2026-07-05 |
-| String Compression | 🟡 Medium | Strings | 2026-07-05 |
-| Product of Array Except Self | 🟡 Medium | Arrays | 2026-07-05 |
-| Word Search | 🟡 Medium | Backtracking | 2026-07-05 |
+| Binary Tree Level Order Traversal | 🟡 Medium | Trees | Jul 5 |
+| 3Sum | 🟡 Medium | Arrays | Jul 5 |
+| Permutations | 🟡 Medium | Backtracking | Jul 5 |
+| Island Perimeter | 🟡 Medium | Greedy | Jul 5 |
+| Valid Palindrome | 🟢 Easy | Strings | Jul 5 |
+| Min Stack | 🟢 Easy | Stack | Jul 5 |
+| Moving Average from Data Stream | 🟢 Easy | Queue | Jul 5 |
+| Fibonacci Number | 🟢 Easy | Recursion | Jul 5 |
 
+## 🎯 Tomorrow's Focus (Monday)
+- Dynamic Programming: LIS, Coin Change
+- More Backtracking: Subsets, Combination Sum
+- First Hard problem attempt of the week
 
 ## 📁 Repository Structure
 
@@ -75,5 +100,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-05T08:31:23.502048
+**Last Updated**: 2026-07-05 18:01 IST
 **Last Active**: 2026-07-05
