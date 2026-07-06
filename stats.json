@@ -1,31 +1,31 @@
 {
-  "totalProblems": 441,
+  "totalProblems": 447,
   "easySolved": 106,
-  "mediumSolved": 157,
-  "hardSolved": 17,
+  "mediumSolved": 162,
+  "hardSolved": 18,
   "streakDays": 16,
-  "totalHours": 187.49,
-  "lastUpdated": "2026-07-06T04:31:12.283633",
+  "totalHours": 189.49,
+  "lastUpdated": "2026-07-06T14:01:00+05:30",
   "topicStats": {
     "Arrays": 13,
-    "Strings": 21,
+    "Strings": 22,
     "LinkedList": 20,
     "Trees": 16,
     "Graphs": 16,
-    "DynamicProgramming": 19,
+    "DynamicProgramming": 21,
     "BinarySearch": 20,
     "Sorting": 13,
     "Hashing": 16,
     "Recursion": 18,
     "Stack": 15,
     "Queue": 14,
-    "Heap": 22,
+    "Heap": 23,
     "Greedy": 25,
-    "Backtracking": 22
+    "Backtracking": 24
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 225
+      "solved": 231
     },
     "CodeForces": {
       "solved": 0
@@ -38,26 +38,74 @@
     }
   },
   "weeklyActivity": {
-    "problems": 3,
-    "hours": 0.5,
-    "2026-W28": 3
+    "problems": 12,
+    "hours": 3.27,
+    "2026-W28": 12
   },
   "recentProblems": [
+    {
+      "name": "Merge k Sorted Lists",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T14:01:00+05:30"
+    },
+    {
+      "name": "Longest Substring Without Repeating Characters",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Strings",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T14:01:00+05:30"
+    },
+    {
+      "name": "Combination Sum",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T14:01:00+05:30"
+    },
+    {
+      "name": "Subsets",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Backtracking",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T14:01:00+05:30"
+    },
+    {
+      "name": "Coin Change",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T14:01:00+05:30"
+    },
+    {
+      "name": "House Robber",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "DynamicProgramming",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T14:01:00+05:30"
+    },
     {
       "name": "Assign Cookies",
       "platform": "LeetCode",
       "difficulty": "Easy",
       "topic": "Greedy",
       "date": "2026-07-06",
-      "solvedAt": "2026-07-06T04:31:12.283625"
+      "solvedAt": "2026-07-06T10:01:00+05:30"
     },
     {
-      "name": "Min Heap",
+      "name": "Min Heap Implementation",
       "platform": "LeetCode",
       "difficulty": "Medium",
       "topic": "Heap",
       "date": "2026-07-06",
-      "solvedAt": "2026-07-06T04:31:12.283622"
+      "solvedAt": "2026-07-06T10:01:00+05:30"
     },
     {
       "name": "Reverse String",
@@ -65,7 +113,7 @@
       "difficulty": "Easy",
       "topic": "Recursion",
       "date": "2026-07-06",
-      "solvedAt": "2026-07-06T04:31:12.283614"
+      "solvedAt": "2026-07-06T10:01:00+05:30"
     },
     {
       "name": "Valid Parentheses",
@@ -74,80 +122,8 @@
       "topic": "Stack",
       "date": "2026-07-06",
       "solvedAt": "2026-07-06T06:01:00+05:30"
-    },
-    {
-      "name": "Climbing Stairs",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "DynamicProgramming",
-      "date": "2026-07-06",
-      "solvedAt": "2026-07-06T06:01:00+05:30"
-    },
-    {
-      "name": "Two Sum",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Hashing",
-      "date": "2026-07-06",
-      "solvedAt": "2026-07-06T06:01:00+05:30"
-    },
-    {
-      "name": "Number of Recent Calls",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T18:31:38.580755"
-    },
-    {
-      "name": "Permutations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T18:31:38.580752"
-    },
-    {
-      "name": "Contains Duplicate",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Arrays",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T18:31:38.580739"
-    },
-    {
-      "name": "Binary Tree Level Order Traversal",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Trees",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T18:01:00+05:30"
-    },
-    {
-      "name": "3Sum",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Arrays",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T18:01:00+05:30"
-    },
-    {
-      "name": "Island Perimeter",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Greedy",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T14:01:00+05:30"
-    },
-    {
-      "name": "Valid Palindrome",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Strings",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T14:01:00+05:30"
     }
   ],
   "lastActive": "2026-07-06",
-  "totalSolved": 438
+  "totalSolved": 447
 }

@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 441 |
-| **🟢 Easy** | 106 (24.0%) |
-| **🟡 Medium** | 157 (35.6%) |
-| **🔴 Hard** | 17 (3.9%) |
+| **Total Problems Solved** | 447 |
+| **🟢 Easy** | 106 (23.7%) |
+| **🟡 Medium** | 162 (36.2%) |
+| **🔴 Hard** | 18 (4.0%) |
 | **🔥 Current Streak** | 16 days |
-| **⏱️ Total Hours** | 187.49h |
+| **⏱️ Total Hours** | 189.49h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 225 |
+| LeetCode | 231 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -28,12 +28,12 @@
 | Topic | Count |
 |-------|-------|
 | Greedy | 25 |
-| Heap | 22 |
-| Backtracking | 22 |
-| Strings | 21 |
+| Backtracking | 24 |
+| Heap | 23 |
+| Strings | 22 |
+| DynamicProgramming | 21 |
 | LinkedList | 20 |
 | BinarySearch | 20 |
-| DynamicProgramming | 19 |
 | Recursion | 18 |
 | Trees | 16 |
 | Graphs | 16 |
@@ -43,11 +43,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
-| Assign Cookies | 🟢 Easy | Greedy | 2026-07-06 |
-| Min Heap | 🟡 Medium | Heap | 2026-07-06 |
-| Reverse String | 🟢 Easy | Recursion | 2026-07-06 |
-| Valid Parentheses | 🟢 Easy | Stack | 2026-07-06 |
-| Climbing Stairs | 🟢 Easy | DynamicProgramming | 2026-07-06 |
+| Merge k Sorted Lists | 🔴 Hard | Heap | 2026-07-06 |
+| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-07-06 |
+| Combination Sum | 🟡 Medium | Backtracking | 2026-07-06 |
+| Subsets | 🟡 Medium | Backtracking | 2026-07-06 |
+| Coin Change | 🟡 Medium | DynamicProgramming | 2026-07-06 |
 
 
 ## 📁 Repository Structure
@@ -74,5 +74,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-06T04:31:12.283633
+**Last Updated**: 2026-07-06T14:01:00+05:30
 **Last Active**: 2026-07-06
