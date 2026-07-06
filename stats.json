@@ -1,21 +1,21 @@
 {
-  "totalProblems": 447,
+  "totalProblems": 450,
   "easySolved": 106,
-  "mediumSolved": 162,
+  "mediumSolved": 165,
   "hardSolved": 18,
   "streakDays": 16,
-  "totalHours": 189.49,
-  "lastUpdated": "2026-07-06T14:01:00+05:30",
+  "totalHours": 190.48,
+  "lastUpdated": "2026-07-06T12:32:06.612966",
   "topicStats": {
-    "Arrays": 13,
+    "Arrays": 14,
     "Strings": 22,
     "LinkedList": 20,
     "Trees": 16,
     "Graphs": 16,
     "DynamicProgramming": 21,
     "BinarySearch": 20,
-    "Sorting": 13,
-    "Hashing": 16,
+    "Sorting": 14,
+    "Hashing": 17,
     "Recursion": 18,
     "Stack": 15,
     "Queue": 14,
@@ -25,7 +25,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 231
+      "solved": 234
     },
     "CodeForces": {
       "solved": 0
@@ -43,6 +43,30 @@
     "2026-W28": 12
   },
   "recentProblems": [
+    {
+      "name": "Kth Largest Element",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Sorting",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T12:32:06.612956"
+    },
+    {
+      "name": "Product of Array Except Self",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Arrays",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T12:32:06.612953"
+    },
+    {
+      "name": "Group Anagrams",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Hashing",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T12:32:06.612944"
+    },
     {
       "name": "Merge k Sorted Lists",
       "platform": "LeetCode",

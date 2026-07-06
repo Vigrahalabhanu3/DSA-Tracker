@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 447 |
-| **🟢 Easy** | 106 (23.7%) |
-| **🟡 Medium** | 162 (36.2%) |
+| **Total Problems Solved** | 450 |
+| **🟢 Easy** | 106 (23.6%) |
+| **🟡 Medium** | 165 (36.7%) |
 | **🔴 Hard** | 18 (4.0%) |
 | **🔥 Current Streak** | 16 days |
-| **⏱️ Total Hours** | 189.49h |
+| **⏱️ Total Hours** | 190.48h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 231 |
+| LeetCode | 234 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -35,19 +35,19 @@
 | LinkedList | 20 |
 | BinarySearch | 20 |
 | Recursion | 18 |
+| Hashing | 17 |
 | Trees | 16 |
-| Graphs | 16 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Kth Largest Element | 🟡 Medium | Sorting | 2026-07-06 |
+| Product of Array Except Self | 🟡 Medium | Arrays | 2026-07-06 |
+| Group Anagrams | 🟡 Medium | Hashing | 2026-07-06 |
 | Merge k Sorted Lists | 🔴 Hard | Heap | 2026-07-06 |
-| Longest Substring Without Repeating | 🟡 Medium | Strings | 2026-07-06 |
-| Combination Sum | 🟡 Medium | Backtracking | 2026-07-06 |
-| Subsets | 🟡 Medium | Backtracking | 2026-07-06 |
-| Coin Change | 🟡 Medium | DynamicProgramming | 2026-07-06 |
+| Longest Substring Without Repeating Characters | 🟡 Medium | Strings | 2026-07-06 |
 
 
 ## 📁 Repository Structure
@@ -74,5 +74,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-06T14:01:00+05:30
+**Last Updated**: 2026-07-06T12:32:06.612966
 **Last Active**: 2026-07-06
