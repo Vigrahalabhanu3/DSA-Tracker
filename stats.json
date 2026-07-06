@@ -1,23 +1,23 @@
 {
-  "totalProblems": 435,
-  "easySolved": 101,
+  "totalProblems": 438,
+  "easySolved": 104,
   "mediumSolved": 156,
   "hardSolved": 17,
-  "streakDays": 15,
-  "totalHours": 185.2,
-  "lastUpdated": "2026-07-05T18:31:38.580768",
+  "streakDays": 16,
+  "totalHours": 185.7,
+  "lastUpdated": "2026-07-06T06:01:00+05:30",
   "topicStats": {
     "Arrays": 13,
     "Strings": 21,
     "LinkedList": 20,
     "Trees": 16,
     "Graphs": 16,
-    "DynamicProgramming": 18,
+    "DynamicProgramming": 19,
     "BinarySearch": 20,
     "Sorting": 13,
-    "Hashing": 15,
+    "Hashing": 16,
     "Recursion": 17,
-    "Stack": 14,
+    "Stack": 15,
     "Queue": 14,
     "Heap": 21,
     "Greedy": 24,
@@ -25,7 +25,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 219
+      "solved": 222
     },
     "CodeForces": {
       "solved": 0
@@ -38,11 +38,35 @@
     }
   },
   "weeklyActivity": {
-    "problems": 10,
-    "hours": 4.45,
-    "2026-W27": 10
+    "problems": 3,
+    "hours": 0.5,
+    "2026-W28": 3
   },
   "recentProblems": [
+    {
+      "name": "Valid Parentheses",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T06:01:00+05:30"
+    },
+    {
+      "name": "Climbing Stairs",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "DynamicProgramming",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T06:01:00+05:30"
+    },
+    {
+      "name": "Two Sum",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Hashing",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T06:01:00+05:30"
+    },
     {
       "name": "Number of Recent Calls",
       "platform": "LeetCode",
@@ -84,14 +108,6 @@
       "solvedAt": "2026-07-05T18:01:00+05:30"
     },
     {
-      "name": "Permutations",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Backtracking",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T18:01:00+05:30"
-    },
-    {
       "name": "Island Perimeter",
       "platform": "LeetCode",
       "difficulty": "Medium",
@@ -106,48 +122,8 @@
       "topic": "Strings",
       "date": "2026-07-05",
       "solvedAt": "2026-07-05T14:01:00+05:30"
-    },
-    {
-      "name": "Min Stack",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Stack",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T06:01:00+05:30"
-    },
-    {
-      "name": "Moving Average from Data Stream",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Queue",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T06:01:00+05:30"
-    },
-    {
-      "name": "Fibonacci Number",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "topic": "Recursion",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-05T06:01:00+05:30"
-    },
-    {
-      "name": "Number of Islands",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "Graphs",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-04T18:31:00+05:30"
-    },
-    {
-      "name": "Find First and Last Position",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "topic": "BinarySearch",
-      "date": "2026-07-05",
-      "solvedAt": "2026-07-04T18:31:00+05:30"
     }
   ],
-  "lastActive": "2026-07-05",
-  "totalSolved": 432
+  "lastActive": "2026-07-06",
+  "totalSolved": 438
 }
