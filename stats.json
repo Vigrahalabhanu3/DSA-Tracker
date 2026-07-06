@@ -1,19 +1,19 @@
 {
-  "totalProblems": 450,
-  "easySolved": 106,
-  "mediumSolved": 165,
+  "totalProblems": 452,
+  "easySolved": 107,
+  "mediumSolved": 166,
   "hardSolved": 18,
   "streakDays": 16,
-  "totalHours": 190.48,
-  "lastUpdated": "2026-07-06T12:32:06.612966",
+  "totalHours": 192.39,
+  "lastUpdated": "2026-07-06T18:31:33.759075",
   "topicStats": {
     "Arrays": 14,
     "Strings": 22,
     "LinkedList": 20,
     "Trees": 16,
-    "Graphs": 16,
+    "Graphs": 17,
     "DynamicProgramming": 21,
-    "BinarySearch": 20,
+    "BinarySearch": 21,
     "Sorting": 14,
     "Hashing": 17,
     "Recursion": 18,
@@ -25,7 +25,7 @@
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 234
+      "solved": 236
     },
     "CodeForces": {
       "solved": 0
@@ -43,6 +43,22 @@
     "2026-W28": 12
   },
   "recentProblems": [
+    {
+      "name": "Topological Sort",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Graphs",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T18:31:33.759066"
+    },
+    {
+      "name": "Search Insert Position",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "BinarySearch",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T18:31:33.759057"
+    },
     {
       "name": "Kth Largest Element",
       "platform": "LeetCode",

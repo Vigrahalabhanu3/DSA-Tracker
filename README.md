@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 450 |
-| **🟢 Easy** | 106 (23.6%) |
-| **🟡 Medium** | 165 (36.7%) |
+| **Total Problems Solved** | 452 |
+| **🟢 Easy** | 107 (23.7%) |
+| **🟡 Medium** | 166 (36.7%) |
 | **🔴 Hard** | 18 (4.0%) |
 | **🔥 Current Streak** | 16 days |
-| **⏱️ Total Hours** | 190.48h |
+| **⏱️ Total Hours** | 192.39h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 234 |
+| LeetCode | 236 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -32,22 +32,22 @@
 | Heap | 23 |
 | Strings | 22 |
 | DynamicProgramming | 21 |
+| BinarySearch | 21 |
 | LinkedList | 20 |
-| BinarySearch | 20 |
 | Recursion | 18 |
+| Graphs | 17 |
 | Hashing | 17 |
-| Trees | 16 |
 
 
 ## 🚀 Recent Solved Problems
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Topological Sort | 🟡 Medium | Graphs | 2026-07-06 |
+| Search Insert Position | 🟢 Easy | BinarySearch | 2026-07-06 |
 | Kth Largest Element | 🟡 Medium | Sorting | 2026-07-06 |
 | Product of Array Except Self | 🟡 Medium | Arrays | 2026-07-06 |
 | Group Anagrams | 🟡 Medium | Hashing | 2026-07-06 |
-| Merge k Sorted Lists | 🔴 Hard | Heap | 2026-07-06 |
-| Longest Substring Without Repeating Characters | 🟡 Medium | Strings | 2026-07-06 |
 
 
 ## 📁 Repository Structure
@@ -74,5 +74,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-06T12:32:06.612966
+**Last Updated**: 2026-07-06T18:31:33.759075
 **Last Active**: 2026-07-06
