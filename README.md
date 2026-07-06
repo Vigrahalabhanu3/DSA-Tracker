@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 435 |
-| **🟢 Easy** | 101 (23.2%) |
-| **🟡 Medium** | 156 (35.9%) |
+| **Total Problems Solved** | 441 |
+| **🟢 Easy** | 106 (24.0%) |
+| **🟡 Medium** | 157 (35.6%) |
 | **🔴 Hard** | 17 (3.9%) |
-| **🔥 Current Streak** | 15 days |
-| **⏱️ Total Hours** | 185.20h |
+| **🔥 Current Streak** | 16 days |
+| **⏱️ Total Hours** | 187.49h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 219 |
+| LeetCode | 225 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -27,14 +27,14 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 24 |
+| Greedy | 25 |
+| Heap | 22 |
 | Backtracking | 22 |
 | Strings | 21 |
-| Heap | 21 |
 | LinkedList | 20 |
 | BinarySearch | 20 |
-| DynamicProgramming | 18 |
-| Recursion | 17 |
+| DynamicProgramming | 19 |
+| Recursion | 18 |
 | Trees | 16 |
 | Graphs | 16 |
 
@@ -43,11 +43,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
-| Number of Recent Calls | 🟢 Easy | Queue | 2026-07-05 |
-| Permutations | 🟡 Medium | Backtracking | 2026-07-05 |
-| Contains Duplicate | 🟢 Easy | Arrays | 2026-07-05 |
-| Binary Tree Level Order Traversal | 🟡 Medium | Trees | 2026-07-05 |
-| 3Sum | 🟡 Medium | Arrays | 2026-07-05 |
+| Assign Cookies | 🟢 Easy | Greedy | 2026-07-06 |
+| Min Heap | 🟡 Medium | Heap | 2026-07-06 |
+| Reverse String | 🟢 Easy | Recursion | 2026-07-06 |
+| Valid Parentheses | 🟢 Easy | Stack | 2026-07-06 |
+| Climbing Stairs | 🟢 Easy | DynamicProgramming | 2026-07-06 |
 
 
 ## 📁 Repository Structure
@@ -74,5 +74,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-05T18:31:38.580768
-**Last Active**: 2026-07-05
+**Last Updated**: 2026-07-06T04:31:12.283633
+**Last Active**: 2026-07-06

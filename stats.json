@@ -1,11 +1,11 @@
 {
-  "totalProblems": 438,
-  "easySolved": 104,
-  "mediumSolved": 156,
+  "totalProblems": 441,
+  "easySolved": 106,
+  "mediumSolved": 157,
   "hardSolved": 17,
   "streakDays": 16,
-  "totalHours": 185.7,
-  "lastUpdated": "2026-07-06T06:01:00+05:30",
+  "totalHours": 187.49,
+  "lastUpdated": "2026-07-06T04:31:12.283633",
   "topicStats": {
     "Arrays": 13,
     "Strings": 21,
@@ -16,16 +16,16 @@
     "BinarySearch": 20,
     "Sorting": 13,
     "Hashing": 16,
-    "Recursion": 17,
+    "Recursion": 18,
     "Stack": 15,
     "Queue": 14,
-    "Heap": 21,
-    "Greedy": 24,
+    "Heap": 22,
+    "Greedy": 25,
     "Backtracking": 22
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 222
+      "solved": 225
     },
     "CodeForces": {
       "solved": 0
@@ -43,6 +43,30 @@
     "2026-W28": 3
   },
   "recentProblems": [
+    {
+      "name": "Assign Cookies",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Greedy",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T04:31:12.283625"
+    },
+    {
+      "name": "Min Heap",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T04:31:12.283622"
+    },
+    {
+      "name": "Reverse String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Recursion",
+      "date": "2026-07-06",
+      "solvedAt": "2026-07-06T04:31:12.283614"
+    },
     {
       "name": "Valid Parentheses",
       "platform": "LeetCode",
