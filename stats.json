@@ -1,11 +1,11 @@
 {
-  "totalProblems": 452,
-  "easySolved": 107,
-  "mediumSolved": 166,
+  "totalProblems": 455,
+  "easySolved": 108,
+  "mediumSolved": 168,
   "hardSolved": 18,
   "streakDays": 16,
-  "totalHours": 192.39,
-  "lastUpdated": "2026-07-06T18:31:33.759075",
+  "totalHours": 193.66,
+  "lastUpdated": "2026-07-07T00:30:53.887158",
   "topicStats": {
     "Arrays": 14,
     "Strings": 22,
@@ -17,15 +17,15 @@
     "Sorting": 14,
     "Hashing": 17,
     "Recursion": 18,
-    "Stack": 15,
-    "Queue": 14,
+    "Stack": 16,
+    "Queue": 15,
     "Heap": 23,
-    "Greedy": 25,
+    "Greedy": 26,
     "Backtracking": 24
   },
   "platformStats": {
     "LeetCode": {
-      "solved": 236
+      "solved": 239
     },
     "CodeForces": {
       "solved": 0
@@ -43,6 +43,30 @@
     "2026-W28": 12
   },
   "recentProblems": [
+    {
+      "name": "Island Perimeter",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Greedy",
+      "date": "2026-07-07",
+      "solvedAt": "2026-07-07T00:30:53.887148"
+    },
+    {
+      "name": "Implement Queue Using Stacks",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "topic": "Queue",
+      "date": "2026-07-07",
+      "solvedAt": "2026-07-07T00:30:53.887145"
+    },
+    {
+      "name": "Evaluate Reverse Polish Notation",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "date": "2026-07-07",
+      "solvedAt": "2026-07-07T00:30:53.887134"
+    },
     {
       "name": "Topological Sort",
       "platform": "LeetCode",
@@ -164,6 +188,6 @@
       "solvedAt": "2026-07-06T06:01:00+05:30"
     }
   ],
-  "lastActive": "2026-07-06",
+  "lastActive": "2026-07-07",
   "totalSolved": 447
 }

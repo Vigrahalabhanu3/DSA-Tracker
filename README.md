@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 452 |
-| **🟢 Easy** | 107 (23.7%) |
-| **🟡 Medium** | 166 (36.7%) |
+| **Total Problems Solved** | 455 |
+| **🟢 Easy** | 108 (23.7%) |
+| **🟡 Medium** | 168 (36.9%) |
 | **🔴 Hard** | 18 (4.0%) |
 | **🔥 Current Streak** | 16 days |
-| **⏱️ Total Hours** | 192.39h |
+| **⏱️ Total Hours** | 193.66h |
 
 ## 🏆 Platform Statistics
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | 236 |
+| LeetCode | 239 |
 | CodeForces | 0 |
 | GeeksForGeeks | 0 |
 | CodeChef | 0 |
@@ -27,7 +27,7 @@
 
 | Topic | Count |
 |-------|-------|
-| Greedy | 25 |
+| Greedy | 26 |
 | Backtracking | 24 |
 | Heap | 23 |
 | Strings | 22 |
@@ -43,11 +43,11 @@
 
 | Problem | Difficulty | Topic | Date |
 |---------|-----------|-------|------|
+| Island Perimeter | 🟡 Medium | Greedy | 2026-07-07 |
+| Implement Queue Using Stacks | 🟢 Easy | Queue | 2026-07-07 |
+| Evaluate Reverse Polish Notation | 🟡 Medium | Stack | 2026-07-07 |
 | Topological Sort | 🟡 Medium | Graphs | 2026-07-06 |
 | Search Insert Position | 🟢 Easy | BinarySearch | 2026-07-06 |
-| Kth Largest Element | 🟡 Medium | Sorting | 2026-07-06 |
-| Product of Array Except Self | 🟡 Medium | Arrays | 2026-07-06 |
-| Group Anagrams | 🟡 Medium | Hashing | 2026-07-06 |
 
 
 ## 📁 Repository Structure
@@ -74,5 +74,5 @@ This repository is maintained by an AI-powered automated DSA progress tracker ru
 
 ---
 
-**Last Updated**: 2026-07-06T18:31:33.759075
-**Last Active**: 2026-07-06
+**Last Updated**: 2026-07-07T00:30:53.887158
+**Last Active**: 2026-07-07
